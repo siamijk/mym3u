@@ -1,0 +1,27 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="INDIAN BANGLA", Star Jalsha 
+http://217.20.112.199/starjalshahd/index.m3u8
+
+
+#EXTINF:-2 tvg-logo="LOGO_URL" group-title="INDIAN BANGLA", Zee Bangla 
+http://217.20.112.199/zeebangla/index.m3u8
+
+#EXTINF:-3 tvg-logo="LOGO_URL" group-title="INDIAN BANGLA", Colours Bangla
+http://217.20.112.199/colorsbangla/index.m3u8
+
+#EXTINF:-4 tvg-logo="LOGO_URL" group-title="INDIAN BANGLA", Zee Bangla Cinema
+http://217.20.112.199/zeecinema/index.m3u8
+
+#EXTINF:-5 tvg-logo="LOGO_URL" group-title="INDIAN BANGLA", Star Plus
+http://217.20.112.199/starplushd/index.m3u8
+
+#EXTINF:-6 tvg-logo="LOGO_URL" group-title="INDIAN BANGLA", Zee Cinema 
+http://217.20.112.199/zeecinema/index.m3u8
+
+#EXTINF:-7 tvg-logo="LOGO_URL" group-title="INDIAN BANGLA", Pogo
+http://217.20.112.199/pogo/index.m3u8
+
+#EXTINF:-8 tvg-logo="LOGO_URL" group-title="INDIAN BANGLA", HBO HD
+http://103.110.110.11:8081/live/hbo/playlist.m3u8
