@@ -1,7 +1,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="LOGO_URL" group-title="INDIAN BANGLA", Star Jalsha 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="INDIAN BANGLA", Star Jalsha 
 http://217.20.112.199/starjalshahd/index.m3u8
 
 
@@ -25,3 +25,4 @@ http://217.20.112.199/pogo/index.m3u8
 
 #EXTINF:-8 tvg-logo="LOGO_URL" group-title="INDIAN BANGLA", HBO HD
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
+
