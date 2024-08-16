@@ -5,13 +5,13 @@
 http://217.20.112.199/starjalshahd/index.m3u8
 
 
-#EXTINF:-2 tvg-logo="LOGO_URL" group-title="INDIAN BANGLA", Zee Bangla 
+#EXTINF:-2 tvg-logo="https://i.pinimg.com/736x/ca/1a/f6/ca1af6f1869a55b6f754aa3453879433.jpg" group-title="INDIAN BANGLA", Zee Bangla 
 http://217.20.112.199/zeebangla/index.m3u8
 
-#EXTINF:-3 tvg-logo="LOGO_URL" group-title="INDIAN BANGLA", Colours Bangla
+#EXTINF:-3 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOQQ75ie0cIHQK8yoQih2GXg2--KL17HYnQ&s" group-title="INDIAN BANGLA", Colours Bangla
 http://217.20.112.199/colorsbangla/index.m3u8
 
-#EXTINF:-4 tvg-logo="LOGO_URL" group-title="INDIAN BANGLA", Zee Bangla Cinema
+#EXTINF:-4 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLohBRW70H0bKcCF7cQZMNxcOfRMmqlXg-wg&s" group-title="INDIAN BANGLA", Zee Bangla Cinema
 http://217.20.112.199/zeecinema/index.m3u8
 
 #EXTINF:-5 tvg-logo="LOGO_URL" group-title="INDIAN BANGLA", Star Plus
