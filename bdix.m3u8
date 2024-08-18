@@ -26,3 +26,6 @@ http://217.20.112.199/pogo/index.m3u8
 #EXTINF:-8 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZpXsOKJI35eHMOeDpyzsSi47qv_R7F8e9Q&s" group-title="INDIAN BANGLA", HBO HD
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
 
+
+#EXTINF:-9 tvg-logo="https://i.pinimg.com/736x/ca/1a/f6/ca1af6f1869a55b6f754aa3453879433.jpg" group-title="INDIAN BANGLA", Zee Bangla 2
+http://116.202.46.40:9023/ZEE_BANGLA_HD/index.m3u8
