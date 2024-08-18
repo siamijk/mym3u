@@ -29,3 +29,7 @@ http://103.110.110.11:8081/live/hbo/playlist.m3u8
 
 #EXTINF:-9 tvg-logo="https://i.pinimg.com/736x/ca/1a/f6/ca1af6f1869a55b6f754aa3453879433.jpg" group-title="INDIAN BANGLA", Zee Bangla 2
 http://116.202.46.40:9023/ZEE_BANGLA_HD/index.m3u8
+
+
+#EXTINF:-10 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxh4GJlxyhGoIe0w52tfWbqY-hAXRJbRgVJKem_xJ9NZ6JVWIRk7vZA7I&s=10" group-title="SPORTS", T SPORTS 
+http://10.10.10.2/live/fnffeed1001/index.m3u8
