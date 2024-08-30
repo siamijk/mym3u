@@ -58,3 +58,83 @@ https://ssc5-ak.akamaized.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd?
 
 #EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="SPORTS", SSC Extra
 https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd?|drmScheme=clearkey&drmLicense=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
+
+
+#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 1
+http://192.168.1.102:8000/storage/2FC4-0FF9/1/1.mkv
+
+
+#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 2
+http://192.168.1.102:8000/storage/2FC4-0FF9/1/2.mkv
+
+#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 3
+http://192.168.1.102:8000/storage/2FC4-0FF9/1/3.mkv
+
+#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 4
+http://192.168.1.102:8000/storage/2FC4-0FF9/1/4.mkv
+
+#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 5
+http://192.168.1.102:8000/storage/2FC4-0FF9/1/5.mkv
+
+#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 6
+http://192.168.1.102:8000/storage/2FC4-0FF9/1/6.mkv
+
+#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 7
+http://192.168.1.102:8000/storage/2FC4-0FF9/1/7.mkv
+
+#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 8
+http://192.168.1.102:8000/storage/2FC4-0FF9/1/8.mkv
+
+#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 9
+http://192.168.1.102:8000/storage/2FC4-0FF9/1/9.mkv
+
+#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 10
+http://192.168.1.102:8000/storage/2FC4-0FF9/1/10.mkv
+
+#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 11
+http://192.168.1.102:8000/storage/2FC4-0FF9/1/11.mkv
+
+#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 12
+http://192.168.1.102:8000/storage/2FC4-0FF9/1/12.mkv
+
+#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 13
+http://192.168.1.102:8000/storage/2FC4-0FF9/1/13.mkv
+
+#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 14
+http://192.168.1.102:8000/storage/2FC4-0FF9/1/14.mkv
+
+#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 15
+http://192.168.1.102:8000/storage/2FC4-0FF9/1/15.mkv
+
+#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 16
+http://192.168.1.102:8000/storage/2FC4-0FF9/1/16.mkv
+
+#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 17
+http://192.168.1.102:8000/storage/2FC4-0FF9/1/17.mkv
+
+#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 18
+http://192.168.1.102:8000/storage/2FC4-0FF9/1/18.mkv
+
+#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 19
+http://192.168.1.102:8000/storage/2FC4-0FF9/1/19.mkv
+
+#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 20
+http://192.168.1.102:8000/storage/2FC4-0FF9/1/20.mkv
+
+#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 21
+http://192.168.1.102:8000/storage/2FC4-0FF9/1/21.mkv
+
+#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 22
+http://192.168.1.102:8000/storage/2FC4-0FF9/1/22.mkv
+
+#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 23
+http://192.168.1.102:8000/storage/2FC4-0FF9/1/23.mkv
+
+#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 24
+http://192.168.1.102:8000/storage/2FC4-0FF9/1/24.mkv
+
+#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 25
+http://192.168.1.102:8000/storage/2FC4-0FF9/1/25.mkv
+
+#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 26
+http://192.168.1.102:8000/storage/2FC4-0FF9/1/26.mkv
