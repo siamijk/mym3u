@@ -138,3 +138,8 @@ http://192.168.1.102:8000/storage/2FC4-0FF9/1/25.mkv
 
 #EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 26
 http://192.168.1.102:8000/storage/2FC4-0FF9/1/26.mkv
+
+
+#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="SPORTS", TNT SPORTS 
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?|drmScheme=clearkey&drmLicense=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+
