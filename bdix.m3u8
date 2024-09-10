@@ -60,86 +60,31 @@ https://ssc5-ak.akamaized.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd?
 https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd?|drmScheme=clearkey&drmLicense=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
 
 
-#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 1
-http://192.168.1.102:8000/storage/2FC4-0FF9/1/1.mkv
+#EXTINF:-19 tvg-logo="https://rvcyberworld.home.blog/wp-content/uploads/2018/07/star-sports-hd-1-large.jpg" group-title="SPORTS", Star Sports 1 HD
+https://cdn1.hotflix-bd.online/Star-Sports-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-20 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamJm50OlrEwJEawjQV9x1P923UBnpI7hLPQ&s" group-title="SPORTS", Star Sports 2 HD
+https://cdn1.hotflix-bd.online/Star-Sports-2/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 2
-http://192.168.1.102:8000/storage/2FC4-0FF9/1/2.mkv
+#EXTINF:-21 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKYeyI-EKK8vG1ZqpI3cw4qKua6yyEoFZB_w&s" group-title="SPORTS", T Sports 2
+https://hotflix-bd.online/T-Sport/tracks-v1a1/mono.m3u8
 
-#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 3
-http://192.168.1.102:8000/storage/2FC4-0FF9/1/3.mkv
+#EXTINF:-22 tvg-logo="#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="SPORTS", SSC Extra
+" group-title="SPORTS", G TV HD
+https://hotflix-bd.online/GTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 4
-http://192.168.1.102:8000/storage/2FC4-0FF9/1/4.mkv
-
-#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 5
-http://192.168.1.102:8000/storage/2FC4-0FF9/1/5.mkv
-
-#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 6
-http://192.168.1.102:8000/storage/2FC4-0FF9/1/6.mkv
-
-#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 7
-http://192.168.1.102:8000/storage/2FC4-0FF9/1/7.mkv
-
-#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 8
-http://192.168.1.102:8000/storage/2FC4-0FF9/1/8.mkv
-
-#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 9
-http://192.168.1.102:8000/storage/2FC4-0FF9/1/9.mkv
-
-#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 10
-http://192.168.1.102:8000/storage/2FC4-0FF9/1/10.mkv
-
-#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 11
-http://192.168.1.102:8000/storage/2FC4-0FF9/1/11.mkv
-
-#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 12
-http://192.168.1.102:8000/storage/2FC4-0FF9/1/12.mkv
-
-#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 13
-http://192.168.1.102:8000/storage/2FC4-0FF9/1/13.mkv
-
-#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 14
-http://192.168.1.102:8000/storage/2FC4-0FF9/1/14.mkv
-
-#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 15
-http://192.168.1.102:8000/storage/2FC4-0FF9/1/15.mkv
-
-#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 16
-http://192.168.1.102:8000/storage/2FC4-0FF9/1/16.mkv
-
-#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 17
-http://192.168.1.102:8000/storage/2FC4-0FF9/1/17.mkv
-
-#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 18
-http://192.168.1.102:8000/storage/2FC4-0FF9/1/18.mkv
-
-#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 19
-http://192.168.1.102:8000/storage/2FC4-0FF9/1/19.mkv
-
-#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 20
-http://192.168.1.102:8000/storage/2FC4-0FF9/1/20.mkv
-
-#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 21
-http://192.168.1.102:8000/storage/2FC4-0FF9/1/21.mkv
-
-#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 22
-http://192.168.1.102:8000/storage/2FC4-0FF9/1/22.mkv
-
-#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 23
-http://192.168.1.102:8000/storage/2FC4-0FF9/1/23.mkv
-
-#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 24
-http://192.168.1.102:8000/storage/2FC4-0FF9/1/24.mkv
-
-#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 25
-http://192.168.1.102:8000/storage/2FC4-0FF9/1/25.mkv
-
-#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="1", 26
-http://192.168.1.102:8000/storage/2FC4-0FF9/1/26.mkv
+#EXTINF:-18 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="INDIAN BANGLA", Star Jalsha HD 2
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 
 
-#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="SPORTS", TNT SPORTS 
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?|drmScheme=clearkey&drmLicense=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+
+#EXTINF:-18 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="INDIAN BANGLA", Star Jalsha HD 3
+http://103.151.60.174:556/
+
+
+
+
+
+
 
