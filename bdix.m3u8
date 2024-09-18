@@ -70,19 +70,140 @@ https://cdn1.hotflix-bd.online/Star-Sports-2/tracks-v1a1/mono.m3u8
 #EXTINF:-21 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKYeyI-EKK8vG1ZqpI3cw4qKua6yyEoFZB_w&s" group-title="SPORTS", T Sports 2
 https://hotflix-bd.online/T-Sport/tracks-v1a1/mono.m3u8
 
-#EXTINF:-22 tvg-logo="#EXTINF:-18 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="SPORTS", SSC Extra
+#EXTINF:-22 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="SPORTS", SSC Extra
 " group-title="SPORTS", G TV HD
 https://hotflix-bd.online/GTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-18 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="INDIAN BANGLA", Star Jalsha HD 2
+#EXTINF:-23 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="INDIAN BANGLA", Star Jalsha HD 2
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 
 
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN", T Sports
+http://172.19.178.29:18190/CLOUD-TV-02/tracks-v1a1/mono.m3u8
 
-#EXTINF:-18 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="INDIAN BANGLA", Star Jalsha HD 3
-http://103.151.60.174:556/
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN", GTV
+http://172.19.178.39:18190/JS-TV-01/tracks-v1a1/mono.m3u8
 
 
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN", Sony Sports 5
+http://172.19.178.59:18190/SN-ST-TV-08/tracks-v1/mono.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN", sony sports 5
+http://172.19.178.29:18190/CLOUD-TV-01/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN", STAR MOVIES HD
+http://172.19.178.59:18190/SN-ST-TV-25/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN", DONT KNOW
+http://172.19.178.59:18190/SN-ST-TV-24/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN", T SPORTS
+http://172.19.178.49:18190/SN-ST-TV-04/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN", T SPORTS 2
+http://172.19.178.59:18190/SN-ST-TV-09/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN",GTV2
+http://172.19.178.59:18190/SN-ST-TV-11/tracks-v1a1/mono.m3u8
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN", T SPORTS 3
+http://172.19.178.49:18190/SN-ST-TV-05/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN", ZEE BANGLA 3
+http://172.19.178.59:18190/SN-ST-TV-19/tracks-v1a1/mono.m3u8
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN", STAR JALSHA 4
+http://172.19.178.39:18190/JS-TV-08/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN", ZEE BANGLA 4
+http://172.19.178.39:18190/JS-TV-08/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN", STAR SPORTS 1 HD
+http://172.19.178.59:18190/SN-ST-TV-21/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN", RTV
+http://172.19.178.59:18190/SN-ST-TV-21/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN", STAR SPORTS 1 HD 2
+http://172.19.178.39:18190/JS-TV-04/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN", STAR JALSHA 6
+http://172.19.178.59:18190/SN-ST-TV-18/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN", SONY SPORTS 1
+http://172.19.178.59:18190/SN-ST-TV-22/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN", STAR SPORTS 1 4
+http://172.19.178.59:18190/SN-ST-TV-14/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN", STAR JALSHA 7
+http://172.19.178.49:18190/SN-ST-TV-01/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN", RTV 2
+http://172.19.178.39:18190/JS-TV-05/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN", SPORTS TV FOOTBALL
+http://172.19.178.59:18190/SN-ST-TV-26/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN", ENTERTAIN BANGLA
+http://172.19.178.49:18190/SN-ST-TV-02/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN", JAMUNA TV
+http://172.19.178.59:18190/SN-ST-TV-13/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN",
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN",
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN",
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN",
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN",
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN",
 
 
 
