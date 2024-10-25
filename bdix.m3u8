@@ -615,5 +615,44 @@ http://172.16.88.50:18190/sonymax2/tracks-a2/mono.m3u8
 #EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 2", SONYMAX 2 E6
 http://172.16.88.50:18190/sonymax2/tracks-a1/mono.m3u8
 
-#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 2", NOTHING 
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="Documentery", AGTV
+https://github.com/inspirationlinks/m3u/blob/live/Streams/AGTV.m3u8
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="Documentery", ANIMAL PLANET
+https://github.com/inspirationlinks/m3u/blob/live/Streams/AniPlanet.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="Documentery", DISCOVERY
+https://github.com/inspirationlinks/m3u/blob/live/Streams/Disc.m3u8
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="Documentery", DISCOVERY HD
+https://github.com/inspirationlinks/m3u/blob/live/Streams/DiscID.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="Documentery", DISCOVERY KIDS
+https://github.com/inspirationlinks/m3u/blob/live/Streams/DiscKids.m3u8
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="Documentery", dISCOVERY SCIENCE
+https://github.com/inspirationlinks/m3u/blob/live/Streams/DiscSci.m3u8
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="Documentery", DISCOVERY TURBO
+https://github.com/inspirationlinks/m3u/blob/live/Streams/DiscTurbo.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="Documentery", DISCOVERY MAX
+https://github.com/inspirationlinks/m3u/blob/live/Streams/Dmax.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="Documentery", TLC HD
+https://github.com/inspirationlinks/m3u/blob/live/Streams/TLC.m3u8
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="Documentery", FOOD NET
+https://github.com/inspirationlinks/m3u/blob/live/Streams/foodNet.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="Documentery", TRAVELxp
+https://github.com/inspirationlinks/m3u/blob/live/Streams/trvl.m3u8
+
+
+ 
 
