@@ -653,6 +653,29 @@ https://github.com/inspirationlinks/m3u/blob/live/Streams/foodNet.m3u8
 #EXTINF:-24 tvg-logo="LOGO_URL" group-title="Documentery", TRAVELxp
 https://github.com/inspirationlinks/m3u/blob/live/Streams/trvl.m3u8
 
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="Documentery", ALJAZEERA
+https://live-hls-web-aje-fa.getaj.net/AJE/04.m3u8
 
- 
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="SPORTS", BEIN XTRA 1 ESP
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="SPORTS", 
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="SPORTS", 
+
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="SPORTS", 
+
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="SPORTS", 
+
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="SPORTS", 
+
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="SPORTS", 
