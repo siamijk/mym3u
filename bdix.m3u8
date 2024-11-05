@@ -1,45 +1,10 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="INDIAN BANGLA", Star Jalsha 
-http://217.20.112.199/starjalshahd/index.m3u8
-
-
-#EXTINF:-2 tvg-logo="https://i.pinimg.com/736x/ca/1a/f6/ca1af6f1869a55b6f754aa3453879433.jpg" group-title="INDIAN BANGLA", Zee Bangla 
-http://217.20.112.199/zeebangla/index.m3u8
-
-#EXTINF:-3 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOQQ75ie0cIHQK8yoQih2GXg2--KL17HYnQ&s" group-title="INDIAN BANGLA", Colours Bangla
-http://217.20.112.199/colorsbangla/index.m3u8
-
-#EXTINF:-4 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLohBRW70H0bKcCF7cQZMNxcOfRMmqlXg-wg&s" group-title="INDIAN BANGLA", Zee Bangla Cinema
-http://217.20.112.199/zeecinema/index.m3u8
-
-#EXTINF:-5 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="INDIAN BANGLA", Star Plus
-http://217.20.112.199/starplushd/index.m3u8
-
-#EXTINF:-6 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8oFjlH9kzRBUEoprU6OsxUUc2KsfYZDcxIQ&s" group-title="INDIAN BANGLA", Zee Cinema 
-http://217.20.112.199/zeecinema/index.m3u8
-
-#EXTINF:-7 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUZEbRxO1HIWYEa_DcSEGJ1xuR2Eed6KEqWg&s" group-title="INDIAN BANGLA", Pogo
-http://217.20.112.199/pogo/index.m3u8
-
-#EXTINF:-8 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZpXsOKJI35eHMOeDpyzsSi47qv_R7F8e9Q&s" group-title="INDIAN BANGLA", HBO HD
-http://103.110.110.11:8081/live/hbo/playlist.m3u8
-
-
-#EXTINF:-9 tvg-logo="https://i.pinimg.com/736x/ca/1a/f6/ca1af6f1869a55b6f754aa3453879433.jpg" group-title="INDIAN BANGLA", Zee Bangla 2
-http://116.202.46.40:9023/ZEE_BANGLA_HD/index.m3u8
 
 
 #EXTINF:-10 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKYeyI-EKK8vG1ZqpI3cw4qKua6yyEoFZB_w&s" group-title="SPORTS", T SPORTS 
 http://10.10.10.2/live/fnffeed1001/index.m3u8
-
-#EXTINF:-11 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="INDIAN", Sony Max HD
-http://116.202.46.40:9023/SONY_MAX_HINDI/index.m3u8
-
-#EXTINF:-12 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6i2adHta4zwQaxyektFaGX0I0XX3OQrZnzA&s" group-title="INDIAN", Star Gold HD
-http://116.202.46.40:9023/STAR_GOLD_HINDI/index.m3u8
-
 
 
 #EXTINF:-19 tvg-logo="https://rvcyberworld.home.blog/wp-content/uploads/2018/07/star-sports-hd-1-large.jpg" group-title="SPORTS", Star Sports 1 HD
@@ -55,9 +20,6 @@ https://hotflix-bd.online/T-Sport/tracks-v1a1/mono.m3u8
 #EXTINF:-22 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdV58hkD3s0j4D6GT61vlyitJa_0x-SDuighOKqEHZYru2ZY5zDLEDQI&s=10" group-title="SPORTS", SSC Extra
 " group-title="SPORTS", G TV HD
 https://hotflix-bd.online/GTV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-23 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="INDIAN BANGLA", Star Jalsha HD 2
-http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 
 
 #EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN", T Sports
