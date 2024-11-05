@@ -789,9 +789,15 @@ http://172.16.29.3:8080/hls/sonyten5.m3u8
 http://172.16.29.3:8080/hls/bein2.m3u8
 
 
-#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", 
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="TEST", TOKEN 1
+http://10.30.30.30:8088/302/tracks-v1a1/mono.m3u8?token=94f6e377557a37016e4a5c8e51d5cd6b4c8e9a41-9f04eae3749b66ea9f6e985c370c661c-1730831767-1730828167
 
 
-#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", 
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="TEST", TOKEN 2
+http://10.99.99.99:8080/roarzone/bk/102/tracks-v1a1/mono.m3u8?token=44379e7c6e0d2f7b0b1e32ec9871435aa0b428b6-244c6cecf15439336c1e3fb0bcc360b4-1730849930-1730828330
 
-#EXTINF:-24 tvg-logo="LOGO_URL" group-title="SPORTS", 
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="TEST", TOKEN 3
+http://172.20.2.5:8082/T-SPORTS/tracks-v1a1/mono.m3u8?token=58a4b9a95859d9ed0d293bda9337208c7cd60370-1a6e8fe151f123aaa88bedda4171a09a-1730839078-1730828278
+
+
