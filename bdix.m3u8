@@ -659,23 +659,177 @@ https://live-hls-web-aje-fa.getaj.net/AJE/04.m3u8
 #EXTINF:-24 tvg-logo="LOGO_URL" group-title="SPORTS", BEIN XTRA 1 ESP
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-24 tvg-logo="LOGO_URL" group-title="INDIAN BANGLA", Star Jalsha Bdix
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN E", Star Jalsha HD
 http://103.205.133.71/StarJalshaFHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-24 tvg-logo="LOGO_URL" group-title="SPORTS", 
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN E", ZEE BANGLA
+http://103.205.133.71/ZeeBangla/index.m3u8
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN E", T SPORTS
+http://103.205.133.71/LiveEvent1/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN E", EKATTOR TV
+http://103.205.133.71/EkattorFHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN E", CHANNEL 24
+http://103.205.133.71/Channel23HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN E", JAMUNA TV
+http://103.205.133.71/JamunaTV/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN E", COLORS HD
+http://103.205.133.71/colorshd/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN E", SKY SPORTS CRICKET
+https://fr.globalplay.live/Sports-1/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", SOMOY TV
+http://172.16.29.3:8080/hls/somoytvbd.m3u8
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", STAR SPORTS 2 HD
+http://172.16.29.3:8080/hls/ssports2hd.m3u8
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", ARY DIGITAL
+http://172.16.29.3:8080/hls/ARYDigital.m3u8
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", & PICTURES
+http://172.16.29.3:8080/hls/AndPictureTV.m3u8
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", DISCOVERY KIDS
+http://172.16.29.3:8080/hls/DiscoveryKids.m3u8
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", ZEETV HD
+http://172.16.29.3:8080/hls/zeetvhd.m3u8
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", DISCOVERY HD
+http://172.16.29.3:8080/hls/DiscoveryHD.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", COLORS HD
+http://172.16.29.3:8080/hls/colorsbhd.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", SONYMAX HD
+http://172.16.29.3:8080/hls/sonymaxhd.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", T SPORTS HD
+http://172.16.29.3:8080/hls/tsportsfhd.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3",NEWS 24
+http://172.16.29.3:8080/hls/news24bd.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", & PRIVATE HD
+http://172.16.29.3:8080/hls/AndPriveHD.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", JAMUNA TV
+http://172.16.29.3:8080/hls/jamunatv.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", NAT GEO HD
+http://172.16.29.3:8080/hls/NatGeoHD.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", POGO
+http://172.16.29.3:8080/hls/pogo.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", JALSHA MOVIES
+http://172.16.29.3:8080/hls/jalshami.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", STAR SPORTS SELECT 2
+http://172.16.29.3:8080/hls/starsportssl2.m3u8
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", T SPORTS
+http://172.16.29.3:8080/hls/tsportshd.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", SONY HD
+http://172.16.29.3:8080/hls/sonyhd.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", STAR JALSHA
+http://172.16.29.3:8080/hls/sjolshahd.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", DBC NEWS
+http://172.16.29.3:8080/hls/dbcbd.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", SSC SPORTS 1
+http://172.16.29.3:8080/hls/sss1.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", SPORTS 18
+http://172.16.29.3:8080/hls/sports18.m3u8
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", COLORS BANGLA HD
+http://172.16.29.3:8080/hls/colorsbanglabd.m3u8
 
 
 
-#EXTINF:-24 tvg-logo="LOGO_URL" group-title="SPORTS", 
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", STAR MOVIES HD
+http://172.16.29.3:8080/hls/starmovieshd.m3u8
 
 
 
-#EXTINF:-24 tvg-logo="LOGO_URL" group-title="SPORTS", 
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", ZEE BANGLA
+http://172.16.29.3:8080/hls/zeebanglahd.m3u8
 
 
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", SONY TEN 1
+http://172.16.29.3:8080/hls/sonyten1.m3u8
 
-#EXTINF:-24 tvg-logo="LOGO_URL" group-title="SPORTS", 
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", NICK HD
+http://172.16.29.3:8080/hls/nicktvhdplus.m3u8
 
 
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", STAR PLUS HD
+http://172.16.29.3:8080/hls/splushd.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", COLORS INFINITY
+http://172.16.29.3:8080/hls/ColorsInfinityHD.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", DURONTO
+http://172.16.29.3:8080/hls/duronto.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", MASTI
+http://172.16.29.3:8080/hls/mastii.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", EURO SPORTS HD
+http://172.16.29.3:8080/hls/eurosportshd.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", CARTOON NETWORK HD
+http://172.16.29.3:8080/hls/cartoonnetwork.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", BEIN SPORTS 1
+http://172.16.29.3:8080/hls/bein1.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", SONY TEN 5
+http://172.16.29.3:8080/hls/sonyten5.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", BEIN SPORTS 2
+http://172.16.29.3:8080/hls/bein2.m3u8
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", 
+
+
+#EXTINF:-24 tvg-logo="LOGO_URL" group-title="CDN 3", 
 
 #EXTINF:-24 tvg-logo="LOGO_URL" group-title="SPORTS", 
