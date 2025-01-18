@@ -91,7 +91,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="ATN NEWS" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",ATN NEWS
 http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="BANGLA VISION" tvg-logo="NO IMAGE" group-title="H2SO4",BANGLA VISION
+#EXTINF:-1 tvg-id="4" tvg-name="BANGLA VISION" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",BANGLA VISION
 http://tv.dugdugilive.com:8080/0ne$ky23/BanglaVision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="STAR SPORTS 2" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",STAR SPORTS 2
 http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
