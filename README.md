@@ -1,2 +1,2 @@
-# mym3u
-This is my personal :-)
+# Siam's Premium BDIX Connected m3u/m3u8 Playlist
+This is a premium m3u/m3u8 playlist. Don't use without permission :-)
