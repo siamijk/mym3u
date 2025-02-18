@@ -77,14 +77,6 @@ http://172.19.178.39:18190/JS-TV-04/tracks-v1a1/mono.m3u8
 http://172.19.178.29:18190/CLOUD-TV-02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="LIVE EVENT 2" tvg-logo="NO IMAGE" group-title="TVCLOUD BY SIAM",LIVE EVENT 2
 http://172.19.178.29:18190/CLOUD-TV-01/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="LIVE 1" tvg-logo="NO IMAGE" group-title="FNFTV BY SIAM",LIVE 1
-http://10.10.10.2/live/fnffeed1001/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="LIVE 2" tvg-logo="NO IMAGE" group-title="FNFTV BY SIAM",LIVE 2
-http://10.10.10.2/live/fnffeed1002/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="LIVE 3" tvg-logo="NO IMAGE" group-title="FNFTV BY SIAM",LIVE 3
-http://10.10.10.2/live/fnffeed1003/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="LIVE 4" tvg-logo="NO IMAGE" group-title="FNFTV BY SIAM",LIVE 4
-http://10.10.10.2/live/fnffeed1004/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="SOMOY TV" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",SOMOY TV
 http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CHANNEL I" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",CHANNEL I
@@ -1097,3 +1089,19 @@ http://172.16.29.2:8090/hls/mohonatv.m3u8
 http://172.16.29.2:8090/hls/rtvhd.m3u8
 #EXTINF:-1 tvg-id="tsportshd_feed2" tvg-name="tsportshd_feed2" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", tsportshd_feed2
 http://172.16.29.3:8090/hls/tsportshd_feed2.m3u8
+#EXTINF:-1 tvg-id="mono" tvg-name="mono" group-title="FNF & APN BY SIAM" tvg-logo="image", mono
+http://10.10.10.2:84/fnf001/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="mono" tvg-name="mono" group-title="FNF & APN BY SIAM" tvg-logo="image", mono
+http://10.10.10.2:84/fnf004/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="mono" tvg-name="mono" group-title="FNF & APN BY SIAM" tvg-logo="image", mono
+http://10.10.10.2:84/fnf003/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="mono" tvg-name="mono" group-title="FNF & APN BY SIAM" tvg-logo="image", mono
+http://10.10.10.2:84/fnf002/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="mono" tvg-name="mono" group-title="FNF & APN BY SIAM" tvg-logo="image", mono
+http://172.17.50.112:84/ant1003/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="mono" tvg-name="mono" group-title="FNF & APN BY SIAM" tvg-logo="image", mono
+http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="mono" tvg-name="mono" group-title="FNF & APN BY SIAM" tvg-logo="image", mono
+http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="mono" tvg-name="mono" group-title="FNF & APN BY SIAM" tvg-logo="image", mono
+http://172.17.50.112:84/ant1004/tracks-v1a1/mono.m3u8
