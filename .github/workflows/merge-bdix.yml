@@ -14,7 +14,7 @@ jobs:
 
       - name: Merge External Playlist
         run: |
-          curl -s http://external-playlist.com/playlist.m3u >> bdix.m3u8
+          curl -s https://airplay.bgrid.in/ICC.m3u >> bdix.m3u8
 
       - name: Commit and Push Changes
         run: |
