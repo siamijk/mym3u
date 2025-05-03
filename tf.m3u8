@@ -90,3 +90,11 @@ https://www.tbn24.com/api/video/4039_0.m3u8
 
 #EXTINF:-1 tvg-id="4039" tvg-name="B4U MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8kzghZFiQlybz2hJPZB37nmOofXq4USkNGA&s" group-title="MUSIC", B4U MUSIC 
 https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4umusic-xiaomiin/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="4039" tvg-name="JOO MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIn86gIUTl6zbVls2ktVXVKyMuc9xiHx1TvA&s" group-title="MUSIC", JOO MUSIC 
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4039" tvg-name="9XM MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVtn6yPWRDqja5MUiUJ9MNIpCzdygAfaNSHERqzcLgWq3uf7iR4CJmR48v&s=10" group-title="MUSIC", 9XM MUSIC 
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
+https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4umusic-xiaomiin/playlist.m3u8
