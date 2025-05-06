@@ -2032,5 +2032,5 @@ https://www.tbn24.com/api/video/4049_0.m3u8
 #EXTINF:-1 group-title="OPENFLIX",TBN24 4050
 https://www.tbn24.com/api/video/4050_0.m3u8
 ..
-#EXTINF:-1 group-title="OPENFLIX",TBN24 4090
-https://www.tbn24.com/api/video/4090_0.m3u8
+#EXTINF:-1 group-title="MOVIE DISK",A MOVIE 
+http://192.168.1.102:8000/storage/6E78-EECD/a.mkv
