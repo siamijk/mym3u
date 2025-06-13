@@ -472,7 +472,7 @@ https://linear014-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/L
 #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 
-#EXTM3U
+
 #EXTINF:-1 tvg-id="Peacock.5017822" tvg-name="Peacock Sports" tvg-logo="https://www.peacocktv.com/dam/commerce/assets/nbcuniversal/logos/peacock/peacock-logo-blue.png" group-title="SPORTS | DRM",Peacock Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
