@@ -1,146 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="1" tvg-name="SOMOY TV" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",SOMOY TV
-http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CHANNEL I" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",CHANNEL I
-http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="ATN NEWS" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",ATN NEWS
-http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="BANGLA VISION" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",BANGLA VISION
-http://tv.dugdugilive.com:8080/0ne$ky23/BanglaVision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="STAR SPORTS 2" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",STAR SPORTS 2
-http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="T SPORTS" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",T SPORTS
-http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="JAMUNA TV" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",JAMUNA TV
-http://tv.dugdugilive.com:8080/0ne$ky23/JamunaTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="INDEPENDENT TV" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",INDEPENDENT TV
-http://tv.dugdugilive.com:8080/0ne$ky23/Independent/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="PTV" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",PTV
-http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="EKATTOR TV" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",EKATTOR TV
-http://tv.dugdugilive.com:8080/0ne$ky23/Ekattor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="NEWS 24" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",NEWS 24
-http://tv.dugdugilive.com:8080/0ne$ky23/News24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="ATN BANGLA" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",ATN BANGLA
-http://tv.dugdugilive.com:8080/0ne$ky23/AtnBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="LIVE SPORTS" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",LIVE SPORTS
-http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="RTV" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",RTV
-http://tv.dugdugilive.com:8080/0ne$ky23/RTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="SONY TEN 3" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",SONY TEN 3
-http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="GAZI TV" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",GAZI TV
-http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="BTV" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",BTV
-http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="CHANNEL 24" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",CHANNEL 24
-http://tv.dugdugilive.com:8080/0ne$ky23/Channel24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="DBC NEWS" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",DBC NEWS
-http://tv.dugdugilive.com:8080/0ne$ky23/DBC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="NTV" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",NTV
-http://tv.dugdugilive.com:8080/0ne$ky23/NTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="SONY TEN 1" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",SONY TEN 1
-http://tv.dugdugilive.com:8080/0ne$ky23/sonyten1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="22" tvg-name="SONY TEN 2" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",SONY TEN 2
-http://tv.dugdugilive.com:8080/0ne$ky23/sonyten2/tracks-v1/mono.m3u8
-#EXTINF:-1 tvg-id="23" tvg-name="EKUSHAY TV" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",EKUSHAY TV
-http://tv.dugdugilive.com:8080/0ne$ky23/EkusheyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="24" tvg-name="BANGLA TV" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",BANGLA TV
-http://tv.dugdugilive.com:8080/0ne$ky23/BanglaTV/tracks-a1/mono.m3u8
-#EXTINF:-1 tvg-id="25" tvg-name="SATV" tvg-logo="NO IMAGE" group-title="DUGDUGI LIVE BY SIAM",SATV
-http://tv.dugdugilive.com:8080/0ne$ky23/satv/tracks-v1/mono.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="A SPORTS" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",A SPORTS
-http://172.20.3.1:81/ASportsHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="EUROSPORTS HD" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",EUROSPORTS HD
-http://172.20.3.1:81/EuroSportHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="SONY SPORTS 5" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",SONY SPORTS 5
-http://172.20.3.1:81/SonySports5HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="BEIN SPORTS XTRA" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",BEIN SPORTS XTRA
-http://172.20.3.1:81/beINSportsXTRAHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="MBC5" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",MBC5
-http://172.20.3.1:81/MBC5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="STAR SPORTS 2" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",STAR SPORTS 2
-http://172.20.3.1:81/StarSports2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="ENTER10 BANGLA" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",ENTER10 BANGLA
-http://172.20.3.1:81/Inter10Bangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="ANIMAL PLANET" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",ANIMAL PLANET
-http://172.20.3.1:81/AnimalPlanetHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="BBC LIFESTYLE" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",BBC LIFESTYLE
-http://172.20.3.1:81/BBCLifestyleHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="ZEE CINEMA" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",ZEE CINEMA
-http://172.20.3.1:81/ZeeCinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CHANNEL 9 " tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",CHANNEL 9 
-http://172.20.3.1:81/CHannel9HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CHANNEL I" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",CHANNEL I
-http://172.20.3.1:81/ChannelIHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="SONY YAY" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",SONY YAY
-http://172.20.3.1:81/SonyYAY/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="SOMOY TV" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",SOMOY TV
-http://172.20.3.1:81/SomoyTVHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="DEPTO HD" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",DEPTO HD
-http://172.20.3.1:81/DeeptoHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="T SPORTS" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",T SPORTS
-http://172.20.3.1:81/Tsports-raw/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="INDEPENDENT TV" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",INDEPENDENT TV
-http://172.20.3.1:81/IndependentTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="DURUNTO TV" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",DURUNTO TV
-http://172.20.3.1:81/DurontoTVHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="SPORTS 18" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",SPORTS 18
-http://172.20.3.1:81/Sports181HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="STAR SPORTS SEL 2" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",STAR SPORTS SEL 2
-http://172.20.3.1:81/StarSportsSel2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="PREMIER SPORTS HD" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",PREMIER SPORTS HD
-http://172.20.3.1:81/PremierSportsHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="22" tvg-name="NICK BANGLA" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",NICK BANGLA
-http://172.20.3.1:81/NickBNG/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="23" tvg-name="MASRANGA TV" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",MASRANGA TV
-http://172.20.3.1:81/MasrangaTVHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="24" tvg-name="NAGORIK TV" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",NAGORIK TV
-http://172.20.3.1:81/NagorikTVHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="25" tvg-name="STAR JALSHA" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",STAR JALSHA
-http://172.20.3.1:81/StarJalsha/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="26" tvg-name="EKHON TV" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",EKHON TV
-http://172.20.3.1:81/EkhonTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="CHANNEL S" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",CHANNEL S
-http://172.20.3.1:81/ChannelS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="STAR SPORTS 1" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",STAR SPORTS 1
-http://172.20.3.1:81/StarSports1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="SONY MAX" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",SONY MAX
-http://172.20.3.1:81/SonyMAXHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="SUN BANGLA" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",SUN BANGLA
-http://172.20.3.1:81/SunBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="SONY SPORTS TEN 3" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",SONY SPORTS TEN 3
-http://172.20.3.1:81/SonySportsTen3HD/tracks-v1/mono.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="STAR SPORTS SEL 1" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",STAR SPORTS SEL 1
-http://172.20.3.1:81/StarSportsSel1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="SONY SPORTS TEN 1" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",SONY SPORTS TEN 1
-http://172.20.3.1:81/SonySportsTen1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="35" tvg-name="SONY SPORTS TEN 2" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",SONY SPORTS TEN 2
-http://172.20.3.1:81/SonySportsTen2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="BBC BABBIES" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",BBC BABBIES
-http://172.20.3.1:81/BBCCbeebiesHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="T SPORTS E" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",T SPORTS E
-http://172.20.3.1:81/TSportsHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="TRAVEL XP HD" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",TRAVEL XP HD
-http://172.20.3.1:81/TravelXPHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="STAR PLUS" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",STAR PLUS
-http://172.20.3.1:81/StarPlus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="NEWS 24" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",NEWS 24
-http://172.20.3.1:81/News24HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="ZEE BANGLA HD" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",ZEE BANGLA HD
-http://172.20.3.1:81/ZeeBanglaHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="DISCOVERY HD" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",DISCOVERY HD
-http://172.20.3.1:81/DiscoveryHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="TEN CRICKET" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",TEN CRICKET
-http://172.20.3.1:81/TenCricket/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="BBC EARTH" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",BBC EARTH
-http://172.20.3.1:81/BBCEaarthHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="DISNEY" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",DISNEY
-http://172.20.3.1:81/Disney/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="PTV SPORTS" tvg-logo="NO IMAGE" group-title="CTGLIVE BY SIAM",PTV SPORTS
-http://172.20.3.1:81/PTVSportsHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 xui-id="177" tvg-id="" tvg-name="BTV WORLD" tvg-logo="http://172.16.29.34:80/images/f971ee74d44dee9df292af97ba2c29ba.png" group-title="BDIX ISP BY SIAM",BTV WORLD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA--NpWI16nUzntdc3QeimzQ/ts
@@ -435,1195 +295,41 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4YELGxF2nTDmF3fpVu_0yo/ts
 #EXTINF:-1 xui-id="513" tvg-id="TRAVXP" tvg-name="TRAVEL XP HD" tvg-logo="" group-title="BDIX ISP BY SIAM",TRAVEL XP HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1E1Nh9PgtZxs0-mWHRHjpU/ts
 
-#EXTINF:-1 tvg-id="1" tvg-name="LIVE EVENT" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",LIVE EVENT
-https://cdn.hoichoi24.com/LIVE/video.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="T SPORTS" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",T SPORTS
-https://cdn.hoichoi24.com/hoichoi24.com-T-sports/video.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="GAZI TV" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",GAZI TV
-https://cdn.hoichoi24.com/hoichoi24.com-Gazi-TV/video.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="NAGORIK TV" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",NAGORIK TV
-https://cdn.hoichoi24.com/Nagorik-TV-Hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="LIVE SPORTS" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",LIVE SPORTS
-https://cdn.hoichoi24.com/SP-LIVE-SPORTS-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="T SPORTS 2" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",T SPORTS 2
-https://cdn.hoichoi24.com/SP-T-SPORTS-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="GAZI TV 2" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",GAZI TV 2
-https://cdn.hoichoi24.com/SP-GTV-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="STAR SPORTS 1" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",STAR SPORTS 1
-https://cdn.hoichoi24.com/SP-STAR-SPORTS-1-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="STAR SPORTS 2" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",STAR SPORTS 2
-https://cdn.hoichoi24.com/SP-STAR-SPORTS-2-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="SONY TEN 1" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",SONY TEN 1
-https://cdn.hoichoi24.com/SP-SONY-TEN-1-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="SONY TEN 2" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",SONY TEN 2
-https://cdn.hoichoi24.com/SP-SONY-TEN-2-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="SONY TEN 3" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",SONY TEN 3
-https://cdn.hoichoi24.com/SP-SONY-TEN-3-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="STAR SPORTS SEL 1" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",STAR SPORTS SEL 1
-https://cdn.hoichoi24.com/SP-SPL-1-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="STAR SPORTS SEL 2" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",STAR SPORTS SEL 2
-https://cdn.hoichoi24.com/SP-SPL-2-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="SPORTS 18" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",SPORTS 18
-https://cdn.hoichoi24.com/SP-sports-18-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="INDEPENDENT TV" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",INDEPENDENT TV
-https://cdn.hoichoi24.com/BD-INDEPENDENT-TV-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="ATN BANGLA" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",ATN BANGLA
-https://cdn.hoichoi24.com/BD-ATN-BANGLA-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="ATN NEWS" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",ATN NEWS
-https://cdn.hoichoi24.com/BD-ATN-NEWS-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="DBC NEWS" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",DBC NEWS
-https://cdn.hoichoi24.com/BD-DBC-NEWS-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="MASRANGA TV" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",MASRANGA TV
-https://cdn.hoichoi24.com/BD-MASRANGA-TV-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="CHANNEL I" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",CHANNEL I
-https://cdn.hoichoi24.com/BD-channel-i-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="22" tvg-name="RTV" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",RTV
-https://cdn.hoichoi24.com/BD-RTV-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="23" tvg-name="ZEE BANGLA" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",ZEE BANGLA
-https://cdn.hoichoi24.com/INBD-ZEE-BANGLA-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="24" tvg-name="STAR JALSHA" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",STAR JALSHA
-https://cdn.hoichoi24.com/INBD-STAR-JALSHA-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="25" tvg-name="JALSHA MOVIES" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",JALSHA MOVIES
-https://cdn.hoichoi24.com/INBD-JALSHA-MOVIES-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="26" tvg-name="COLORS BANGLA" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",COLORS BANGLA
-https://cdn.hoichoi24.com/INBD-COLORS-BANGLA-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="SONY AATH" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",SONY AATH
-https://cdn.hoichoi24.com/INBD-SONY-ART-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="STAR PLUS" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",STAR PLUS
-https://cdn.hoichoi24.com/IN-STAR-PLUS-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="STAR GOLD" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",STAR GOLD
-https://cdn.hoichoi24.com/IN-STAR-GOLD-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="SONY ENT" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",SONY ENT
-https://cdn.hoichoi24.com/IN-SONY-ENT-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="COLORS HINDI" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",COLORS HINDI
-https://cdn.hoichoi24.com/IN-COLORS-HIN-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="ZEE CINEMA" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",ZEE CINEMA
-https://cdn.hoichoi24.com/IN-ZEE-CINEMA-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="STAR MOVIES" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",STAR MOVIES
-https://cdn.hoichoi24.com/EN-STAR-MOVIE-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="SONY PIX" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",SONY PIX
-https://cdn.hoichoi24.com/EN-SONY-PIX-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="35" tvg-name="DISCOVERY" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",DISCOVERY
-https://cdn.hoichoi24.com/DOC-DISCOVERY-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="NATIONAL GEO" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",NATIONAL GEO
-https://cdn.hoichoi24.com/DOC-NGO-GEROPHY-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="MASTHI MUSIC" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",MASTHI MUSIC
-https://cdn.hoichoi24.com/MUSIC-MASTI-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="9X JALWA" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",9X JALWA
-https://cdn.hoichoi24.com/MUSIC-9X-JHALA-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="NICK" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",NICK
-https://cdn.hoichoi24.com/MUSIC-NICK-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="CARTOON NETWORK" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",CARTOON NETWORK
-https://cdn.hoichoi24.com/MUSIC-CN-NETWORK-hoichoi24.com/video.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="GEO NEWS" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",GEO NEWS
-https://cdn.hoichoi24.com/GEONews/video.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="DW NEWS" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",DW NEWS
-https://cdn.hoichoi24.com/DWNews/video.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="AL JAZEERA" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",AL JAZEERA
-https://cdn.hoichoi24.com/AlJazeeraNews/video.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="BBC EARTH" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",BBC EARTH
-https://cdn.hoichoi24.com/BBCEarth/video.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="DBC NEWS 2" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",DBC NEWS 2
-https://cdn.hoichoi24.com/DBCBD/video.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="NEWS 24" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",NEWS 24
-https://cdn.hoichoi24.com/News24BD/video.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="CHANNEL 24" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",CHANNEL 24
-https://cdn.hoichoi24.com/C24BD/video.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="SOMOY TV" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",SOMOY TV
-https://cdn.hoichoi24.com/SomoyTV/video.m3u8
-#EXTINF:-1 tvg-id="49" tvg-name="JAMUNA TV" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",JAMUNA TV
-https://cdn.hoichoi24.com/JamunaTV/video.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="CHANNEL I 2" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",CHANNEL I 2
-https://cdn.hoichoi24.com/CIBD/video.m3u8
-#EXTINF:-1 tvg-id="51" tvg-name="EKATTOR TV" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",EKATTOR TV
-https://cdn.hoichoi24.com/Ekkattor/video.m3u8
-#EXTINF:-1 tvg-id="52" tvg-name="SATV" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",SATV
-https://cdn.hoichoi24.com/SATVBD/video.m3u8
-#EXTINF:-1 tvg-id="53" tvg-name="INDEPENDENT 2" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",INDEPENDENT 2
-https://cdn.hoichoi24.com/IndBD/video.m3u8
-#EXTINF:-1 tvg-id="54" tvg-name="DURONTO TV" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",DURONTO TV
-https://cdn.hoichoi24.com/Duronto/video.m3u8
-#EXTINF:-1 tvg-id="55" tvg-name="ZEE BANGLA 2" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",ZEE BANGLA 2
-https://cdn.hoichoi24.com/ZeeBangla/video.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="STAR JALSHA 2" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",STAR JALSHA 2
-https://cdn.hoichoi24.com/StarJalsha/video.m3u8
-#EXTINF:-1 tvg-id="57" tvg-name="SONY AATH" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",SONY AATH
-https://cdn.hoichoi24.com/SonyATV/video.m3u8
-#EXTINF:-1 tvg-id="58" tvg-name="ENTER10 BANGLA" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",ENTER10 BANGLA
-https://cdn.hoichoi24.com/Enter10Bangla/video.m3u8
-#EXTINF:-1 tvg-id="59" tvg-name="JALSHA MOVIES HD" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",JALSHA MOVIES HD
-https://cdn.hoichoi24.com/JalshaMoviesHD/video.m3u8
-#EXTINF:-1 tvg-id="60" tvg-name="ZEE TV" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",ZEE TV
-https://cdn.hoichoi24.com/ZeeTVHD/video.m3u8
-#EXTINF:-1 tvg-id="61" tvg-name="STAR GOLD" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",STAR GOLD
-https://cdn.hoichoi24.com/StarGoldHD/video.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="COLORS HD" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",COLORS HD
-https://cdn.hoichoi24.com/ColorsHD/video.m3u8
-#EXTINF:-1 tvg-id="63" tvg-name="PTV SPORTS HD" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",PTV SPORTS HD
-https://cdn.hoichoi24.com/PTVSportsHD/video.m3u8
-#EXTINF:-1 tvg-id="64" tvg-name="SONY TEN 2*" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",SONY TEN 2*
-https://cdn.hoichoi24.com/SonyTen2HD/video.m3u8
-#EXTINF:-1 tvg-id="65" tvg-name="SONY TEN 5" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",SONY TEN 5
-https://cdn.hoichoi24.com/SonyTen5HD/video.m3u8
-#EXTINF:-1 tvg-id="66" tvg-name="STAR SPORTS 1" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",STAR SPORTS 1
-https://cdn.hoichoi24.com/StarSports1HD/video.m3u8
-#EXTINF:-1 tvg-id="67" tvg-name="TNT SPORTS 2" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",TNT SPORTS 2
-https://cdn.hoichoi24.com/TNTSports2HD/video.m3u8
-#EXTINF:-1 tvg-id="68" tvg-name="TEN SPORTS 3" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",TEN SPORTS 3
-https://cdn.hoichoi24.com/TenSports3HD/video.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="TEN SPORSTS 4" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",TEN SPORSTS 4
-https://cdn.hoichoi24.com/TenSports4HD/video.m3u8
-#EXTINF:-1 tvg-id="70" tvg-name="EUROSPORT HD" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",EUROSPORT HD
-https://cdn.hoichoi24.com/EurosportsHD/video.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="NBC GOLF" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",NBC GOLF
-https://cdn.hoichoi24.com/NBCGolfHD/video.m3u8
-#EXTINF:-1 tvg-id="72" tvg-name="TNT SPORTS 1" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",TNT SPORTS 1
-https://cdn.hoichoi24.com/TNTSports1HD/video.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-name="T SPORTS HD" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",T SPORTS HD
-https://cdn.hoichoi24.com/TSportsHD/video.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="SUPERSPORT LA LIGA" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",SUPERSPORT LA LIGA
-https://cdn.hoichoi24.com/SuperLaLigaHD/video.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="SKY SPORTS GOLF" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",SKY SPORTS GOLF
-https://cdn.hoichoi24.com/SkySportsGolf/video.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="SKY SPORTS CRICKET" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",SKY SPORTS CRICKET
-https://cdn.hoichoi24.com/SkySportsCricketHD/video.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="SUPERSPORTS PREMIER LEAGUE" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",SUPERSPORTS PREMIER LEAGUE
-https://cdn.hoichoi24.com/SuperPremierLeagueAHD/video.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="NICK TV HD" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",NICK TV HD
-https://cdn.hoichoi24.com/NickTVHDPlus/video.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="DISCOVERY KIDS" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",DISCOVERY KIDS
-https://cdn.hoichoi24.com/DiscoveryKids/video.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="POGO" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",POGO
-https://cdn.hoichoi24.com/Pogo/video.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="DISCOVERY HD" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",DISCOVERY HD
-https://cdn.hoichoi24.com/DiscoveryHD/video.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="& PICTURE" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",& PICTURE
-https://cdn.hoichoi24.com/AndPictureTV/video.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="& PRIVATE" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",& PRIVATE
-https://cdn.hoichoi24.com/AndPriveHD/video.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="ARY DIGITAL" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",ARY DIGITAL
-https://cdn.hoichoi24.com/ARYDigital/video.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="STAR LIFE" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",STAR LIFE
-https://cdn.hoichoi24.com/StarLifeHD/video.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="& FLIX HD" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",& FLIX HD
-https://cdn.hoichoi24.com/AndFlixHD/video.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="SONY PIX" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",SONY PIX
-https://cdn.hoichoi24.com/SonyPixHD/video.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="AXN HD" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",AXN HD
-https://cdn.hoichoi24.com/AXNHD/video.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="STAR MOVIES" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",STAR MOVIES
-https://cdn.hoichoi24.com/StarMoviesHD/video.m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="MASTI" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",MASTI
-https://cdn.hoichoi24.com/Mastii/video.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="9XM" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",9XM
-https://cdn.hoichoi24.com/9XM/video.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="COLORS BANGLA " tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",COLORS BANGLA 
-https://cdn.hoichoi24.com/colorsbanglahd/video.m3u8
-#EXTINF:-1 tvg-id="22" tvg-name="STAR BHARAT" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",STAR BHARAT
-https://cdn.hoichoi24.com/sbharathd/video.m3u8
-#EXTINF:-1 tvg-id="23" tvg-name="SONY MAX HD" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",SONY MAX HD
-https://cdn.hoichoi24.com/sonymaxhd/video.m3u8
-#EXTINF:-1 tvg-id="24" tvg-name="MTV" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",MTV
-https://cdn.hoichoi24.com/mtvindia/video.m3u8
-#EXTINF:-1 tvg-id="25" tvg-name="SONY HD" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",SONY HD
-https://cdn.hoichoi24.com/sonyhd/video.m3u8
-#EXTINF:-1 tvg-id="26" tvg-name="T SPORTS FHD" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",T SPORTS FHD
-https://cdn.hoichoi24.com/tsportsfhd/video.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="STAR PRIME" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",STAR PRIME
-https://cdn.hoichoi24.com/sprime/video.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="SONY TEN1 HD" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",SONY TEN1 HD
-https://cdn.hoichoi24.com/sonyten1hd/video.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="SONY TEN 3 HD" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",SONY TEN 3 HD
-https://cdn.hoichoi24.com/sonyten3hd/video.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="SKY SPORTS GOLF" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",SKY SPORTS GOLF
-https://cdn.hoichoi24.com/skysportsgolf/video.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="SPORTS 18" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",SPORTS 18
-https://cdn.hoichoi24.com/sports18hd/video.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="BEIN SPORTS 3" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",BEIN SPORTS 3
-https://cdn.hoichoi24.com/beinsports3/video.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="TNT SPORTS 3" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",TNT SPORTS 3
-https://cdn.hoichoi24.com/tntsports2hd/video.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="SUPER CRICKET 1" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",SUPER CRICKET 1
-https://cdn.hoichoi24.com/supercricket1hd/video.m3u8
-#EXTINF:-1 tvg-id="35" tvg-name="T SPORTS HDL" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",T SPORTS HDL
-https://cdn.hoichoi24.com/tsportshdL/video.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="A SPORTS" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",A SPORTS
-https://cdn.hoichoi24.com/asportse/video.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="CN" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",CN
-https://cdn.hoichoi24.com/cartoonnetwork/video.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="NAT GEO HD" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",NAT GEO HD
-https://cdn.hoichoi24.com/NatGeoHD/video.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="COLORS INFINITY" tvg-logo="NO IMAGE" group-title="HOICHOI 24 BY SIAM",COLORS INFINITY
-https://cdn.hoichoi24.com/ColorsInfinityHD/video.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="T SPORTS 1" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQEkzy6nAcsyag/company-logo_200_200/company-logo_200_200/0/1630662269264?e=2147483647&v=beta&t=Xyxc5WJFZRKGMmHUyjXuUmOmYGO9bgGLbkwV9uyduxo" group-title="T SPORTS BY SIAM",T SPORTS 1
-https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="T SPORTS 2" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQEkzy6nAcsyag/company-logo_200_200/company-logo_200_200/0/1630662269264?e=2147483647&v=beta&t=Xyxc5WJFZRKGMmHUyjXuUmOmYGO9bgGLbkwV9uyduxo" group-title="T SPORTS BY SIAM",T SPORTS 2
-https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="T SPORTS 3" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQEkzy6nAcsyag/company-logo_200_200/company-logo_200_200/0/1630662269264?e=2147483647&v=beta&t=Xyxc5WJFZRKGMmHUyjXuUmOmYGO9bgGLbkwV9uyduxo" group-title="T SPORTS BY SIAM",T SPORTS 3
-https://live.tsports.com/mobile_hls/tsports_live_3/playlist.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="BEIN XTRA" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",BEIN XTRA
-http://172.20.3.1:81/beINSportsXTRAHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="T SPORTS HD" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",T SPORTS HD
-http://172.20.3.1:81/TSportsHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="GAZI TV HD" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",GAZI TV HD
-http://172.20.3.1:81/GaziTVHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="T SPORTS HD ORI" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",T SPORTS HD ORI
-http://172.20.3.1:81/Tsports-raw/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="TEN SPORTS HD" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",TEN SPORTS HD
-http://172.20.3.1:81/TenSportsHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="STAR SPORTS HD1" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",STAR SPORTS HD1
-http://172.20.3.1:81/StarSports1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="SONY TEN 1" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",SONY TEN 1
-http://172.20.3.1:81/SonySportsTen1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="SONY TEN 2" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",SONY TEN 2
-http://172.20.3.1:81/SonySportsTen2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="TEN CRICKET" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",TEN CRICKET
-http://172.20.3.1:81/TenCricket/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="STAR SPORTS SEL 1" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",STAR SPORTS SEL 1
-http://172.20.3.1:81/StarSportsSel1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="SPORTS 18" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",SPORTS 18
-http://172.20.3.1:81/Sports181HD/tracks-v1/mono.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="STAR SPORTS 2" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",STAR SPORTS 2
-http://172.20.3.1:81/StarSports2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="STAR SPORTS SEL 2" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",STAR SPORTS SEL 2
-http://172.20.3.1:81/StarSportsSel2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="SONY TEN 3" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",SONY TEN 3
-http://172.20.3.1:81/SonySportsTen3HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="EURO SPORTS HD" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",EURO SPORTS HD
-http://172.20.3.1:81/EuroSportHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="A SPORTS" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",A SPORTS
-http://172.20.3.1:81/ASportsHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="P TV SPORTS" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",P TV SPORTS
-http://172.20.3.1:81/PTVSportsHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="TRAVELXP HD" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",TRAVELXP HD
-http://172.20.3.1:81/TravelXPHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="BBC LIFESTYLE" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",BBC LIFESTYLE
-http://172.20.3.1:81/BBCLifestyleHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="22" tvg-name="ANIMAL PLANET" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",ANIMAL PLANET
-http://172.20.3.1:81/AnimalPlanetHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="23" tvg-name="BBC EARTH H" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",BBC EARTH H
-http://172.20.3.1:81/BBCEaarthHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="24" tvg-name="DISCOVERY HD" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",DISCOVERY HD
-http://172.20.3.1:81/DiscoveryHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="25" tvg-name="BBC BABIES" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",BBC BABIES
-http://172.20.3.1:81/BBCCbeebiesHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="26" tvg-name="DURANTA TV" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",DURANTA TV
-http://172.20.3.1:81/DurontoTVHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="NICK BNG" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",NICK BNG
-http://172.20.3.1:81/NickBNG/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="SONY YAY" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",SONY YAY
-http://172.20.3.1:81/SonyYAY/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="DISNEY" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",DISNEY
-http://172.20.3.1:81/Disney/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="MBC" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",MBC
-http://172.20.3.1:81/MBC5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="ENTER10" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",ENTER10
-http://172.20.3.1:81/Inter10Bangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="SUN BANGLA" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",SUN BANGLA
-http://172.20.3.1:81/SunBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="SONY SAB" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",SONY SAB
-http://172.20.3.1:81/SonySabHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="SONY MAX" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",SONY MAX
-http://172.20.3.1:81/SonyMAXHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="35" tvg-name="ZEE CINEMA" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",ZEE CINEMA
-http://172.20.3.1:81/ZeeCinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="ZEE BANGLA" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",ZEE BANGLA
-http://172.20.3.1:81/ZeeBanglaHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="STAR JALSHA" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",STAR JALSHA
-http://172.20.3.1:81/StarJalshaHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="STAR PLUS" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",STAR PLUS
-http://172.20.3.1:81/StarPlus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="CHANNEL S" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",CHANNEL S
-http://172.20.3.1:81/ChannelS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="CHANNEL I" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",CHANNEL I
-http://172.20.3.1:81/ChannelIHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="DEPTO HD" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",DEPTO HD
-http://172.20.3.1:81/DeeptoHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="JAMUNA TV" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",JAMUNA TV
-http://172.20.3.1:81/JamunaTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="SOMOY TV" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",SOMOY TV
-http://172.20.3.1:81/SomoyTVHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="CHANNEL 24" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",CHANNEL 24
-http://172.20.3.1:81/Channel24HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="MASRANGA TV" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",MASRANGA TV
-http://172.20.3.1:81/MasrangaTVHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="INDEPENDENT TV" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",INDEPENDENT TV
-http://172.20.3.1:81/IndependentTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="EKHON TV" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",EKHON TV
-http://172.20.3.1:81/EkhonTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="CHANNEL 9" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",CHANNEL 9
-http://172.20.3.1:81/CHannel9HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="49" tvg-name="BANGLA VISION" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",BANGLA VISION
-http://172.20.3.1:81/BanglaVisionHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="NAGORIK TV" tvg-logo="NO IMAGE" group-title="172.20.3.1 BY SIAM",NAGORIK TV
-http://172.20.3.1:81/NagorikTVHD/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="zeetvhd" tvg-name="zeetvhd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", zeetvhd
-http://172.16.29.2:8090/hls/zeetvhd.m3u8
-#EXTINF:-1 tvg-id="DiscoveryHD" tvg-name="DiscoveryHD" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", DiscoveryHD
-http://172.16.29.3:8090/hls/DiscoveryHD.m3u8
-#EXTINF:-1 tvg-id="sonyhd" tvg-name="sonyhd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", sonyhd
-http://172.16.29.2:8090/hls/sonyhd.m3u8
-#EXTINF:-1 tvg-id="sonypixhd" tvg-name="sonypixhd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", sonypixhd
-http://172.16.29.3:8090/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-id="starjalshahd" tvg-name="starjalshahd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", starjalshahd
-http://172.16.29.2:8090/hls/starjalshahd.m3u8
-#EXTINF:-1 tvg-id="sonyhd" tvg-name="sonyhd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", sonyhd
-http://172.16.29.3:8090/hls/sonyhd.m3u8
-#EXTINF:-1 tvg-id="tensports3hd" tvg-name="tensports3hd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", tensports3hd
-http://172.16.29.2:8090/hls/tensports3hd.m3u8
-#EXTINF:-1 tvg-id="sonypixhd" tvg-name="sonypixhd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", sonypixhd
-http://172.16.29.2:8090/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-id="sports18hd" tvg-name="sports18hd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", sports18hd
-http://172.16.29.3:8090/hls/sports18hd.m3u8
-#EXTINF:-1 tvg-id="GEONews" tvg-name="GEONews" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", GEONews
-http://172.16.29.3:8090/hls/GEONews.m3u8
-#EXTINF:-1 tvg-id="zeetvhd" tvg-name="zeetvhd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", zeetvhd
-http://172.16.29.3:8090/hls/zeetvhd.m3u8
-#EXTINF:-1 tvg-id="ARYDigital" tvg-name="ARYDigital" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", ARYDigital
-http://172.16.29.2:8090/hls/ARYDigital.m3u8
-#EXTINF:-1 tvg-id="SkySportsGOLF" tvg-name="SkySportsGOLF" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", SkySportsGOLF
-http://172.16.29.3:8090/hls/SkySportsGOLF.m3u8
-#EXTINF:-1 tvg-id="boishakhitv" tvg-name="boishakhitv" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", boishakhitv
-http://172.16.29.2:8090/hls/boishakhitv.m3u8
-#EXTINF:-1 tvg-id="Enter10Bangla" tvg-name="Enter10Bangla" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", Enter10Bangla
-http://172.16.29.2:8090/hls/Enter10Bangla.m3u8
-#EXTINF:-1 tvg-id="tensports4hd" tvg-name="tensports4hd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", tensports4hd
-http://172.16.29.2:8090/hls/tensports4hd.m3u8
-#EXTINF:-1 tvg-id="SkySportsGOLF" tvg-name="SkySportsGOLF" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", SkySportsGOLF
-http://172.16.29.2:8090/hls/SkySportsGOLF.m3u8
-#EXTINF:-1 tvg-id="sports18hd" tvg-name="sports18hd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", sports18hd
-http://172.16.29.2:8090/hls/sports18hd.m3u8
-#EXTINF:-1 tvg-id="skysportscrickethd" tvg-name="skysportscrickethd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", skysportscrickethd
-http://172.16.29.3:8090/hls/skysportscrickethd.m3u8
-#EXTINF:-1 tvg-id="pogo" tvg-name="pogo" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", pogo
-http://172.16.29.3:8090/hls/pogo.m3u8
-#EXTINF:-1 tvg-id="zeebanglahd" tvg-name="zeebanglahd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", zeebanglahd
-http://172.16.29.3:8090/hls/zeebanglahd.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="DiscoveryKids" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", DiscoveryKids
-http://172.16.29.3:8090/hls/DiscoveryKids.m3u8
-#EXTINF:-1 tvg-id="sonyten1hd" tvg-name="sonyten1hd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", sonyten1hd
-http://172.16.29.2:8090/hls/sonyten1hd.m3u8
-#EXTINF:-1 tvg-id="tntsports1hd" tvg-name="tntsports1hd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", tntsports1hd
-http://172.16.29.2:8090/hls/tntsports1hd.m3u8
-#EXTINF:-1 tvg-id="tensports3hd" tvg-name="tensports3hd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", tensports3hd
-http://172.16.29.3:8090/hls/tensports3hd.m3u8
-#EXTINF:-1 tvg-id="tntsports2hd" tvg-name="tntsports2hd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", tntsports2hd
-http://172.16.29.2:8090/hls/tntsports2hd.m3u8
-#EXTINF:-1 tvg-id="tntsports2hd" tvg-name="tntsports2hd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", tntsports2hd
-http://172.16.29.3:8090/hls/tntsports2hd.m3u8
-#EXTINF:-1 tvg-id="pogo" tvg-name="pogo" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", pogo
-http://172.16.29.2:8090/hls/pogo.m3u8
-#EXTINF:-1 tvg-id="tsportshd" tvg-name="tsportshd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", tsportshd
-http://172.16.29.2:8090/hls/tsportshd.m3u8
-#EXTINF:-1 tvg-id="superlaligahd" tvg-name="superlaligahd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", superlaligahd
-http://172.16.29.2:8090/hls/superlaligahd.m3u8
-#EXTINF:-1 tvg-id="ARYDigital" tvg-name="ARYDigital" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", ARYDigital
-http://172.16.29.3:8090/hls/ARYDigital.m3u8
-#EXTINF:-1 tvg-id="AndPriveHD" tvg-name="AndPriveHD" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", AndPriveHD
-http://172.16.29.3:8090/hls/AndPriveHD.m3u8
-#EXTINF:-1 tvg-id="tntsports1hd" tvg-name="tntsports1hd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", tntsports1hd
-http://172.16.29.3:8090/hls/tntsports1hd.m3u8
-#EXTINF:-1 tvg-id="sonyatth" tvg-name="sonyatth" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", sonyatth
-http://172.16.29.2:8090/hls/sonyatth.m3u8
-#EXTINF:-1 tvg-id="mtvindia" tvg-name="mtvindia" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", mtvindia
-http://172.16.29.2:8090/hls/mtvindia.m3u8
-#EXTINF:-1 tvg-id="skysportscrickethd" tvg-name="skysportscrickethd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", skysportscrickethd
-http://172.16.29.2:8090/hls/skysportscrickethd.m3u8
-#EXTINF:-1 tvg-id="bijoytv" tvg-name="bijoytv" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", bijoytv
-http://172.16.29.3:8090/hls/bijoytv.m3u8
-#EXTINF:-1 tvg-id="sonyten2hd" tvg-name="sonyten2hd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", sonyten2hd
-http://172.16.29.3:8090/hls/sonyten2hd.m3u8
-#EXTINF:-1 tvg-id="AndPriveHD" tvg-name="AndPriveHD" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", AndPriveHD
-http://172.16.29.2:8090/hls/AndPriveHD.m3u8
-#EXTINF:-1 tvg-id="starsports1hd" tvg-name="starsports1hd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", starsports1hd
-http://172.16.29.2:8090/hls/starsports1hd.m3u8
-#EXTINF:-1 tvg-id="sonyten5hd" tvg-name="sonyten5hd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", sonyten5hd
-http://172.16.29.2:8090/hls/sonyten5hd.m3u8
-#EXTINF:-1 tvg-id="ColorsInfinityHD" tvg-name="ColorsInfinityHD" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", ColorsInfinityHD
-http://172.16.29.2:8090/hls/ColorsInfinityHD.m3u8
-#EXTINF:-1 tvg-id="sonyten2hd" tvg-name="sonyten2hd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", sonyten2hd
-http://172.16.29.2:8090/hls/sonyten2hd.m3u8
-#EXTINF:-1 tvg-id="superlaligahd" tvg-name="superlaligahd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", superlaligahd
-http://172.16.29.3:8090/hls/superlaligahd.m3u8
-#EXTINF:-1 tvg-id="zeebanglahd" tvg-name="zeebanglahd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", zeebanglahd
-http://172.16.29.2:8090/hls/zeebanglahd.m3u8
-#EXTINF:-1 tvg-id="ptvsportshd" tvg-name="ptvsportshd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", ptvsportshd
-http://172.16.29.3:8090/hls/ptvsportshd.m3u8
-#EXTINF:-1 tvg-id="mtvindia" tvg-name="mtvindia" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", mtvindia
-http://172.16.29.3:8090/hls/mtvindia.m3u8
-#EXTINF:-1 tvg-id="DiscoveryHD" tvg-name="DiscoveryHD" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", DiscoveryHD
-http://172.16.29.2:8090/hls/DiscoveryHD.m3u8
-#EXTINF:-1 tvg-id="colorshd" tvg-name="colorshd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", colorshd
-http://172.16.29.2:8090/hls/colorshd.m3u8
-#EXTINF:-1 tvg-id="superpremierleagueahd" tvg-name="superpremierleagueahd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", superpremierleagueahd
-http://172.16.29.3:8090/hls/superpremierleagueahd.m3u8
-#EXTINF:-1 tvg-id="colorshd" tvg-name="colorshd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", colorshd
-http://172.16.29.3:8090/hls/colorshd.m3u8
-#EXTINF:-1 tvg-id="stargoldhd" tvg-name="stargoldhd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", stargoldhd
-http://172.16.29.3:8090/hls/stargoldhd.m3u8
-#EXTINF:-1 tvg-id="starmovieshd" tvg-name="starmovieshd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", starmovieshd
-http://172.16.29.2:8090/hls/starmovieshd.m3u8
-#EXTINF:-1 tvg-id="nicktvhdplus" tvg-name="nicktvhdplus" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", nicktvhdplus
-http://172.16.29.2:8090/hls/nicktvhdplus.m3u8
-#EXTINF:-1 tvg-id="sonyten5hd" tvg-name="sonyten5hd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", sonyten5hd
-http://172.16.29.3:8090/hls/sonyten5hd.m3u8
-#EXTINF:-1 tvg-id="colorsbanglahd" tvg-name="colorsbanglahd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", colorsbanglahd
-http://172.16.29.3:8090/hls/colorsbanglahd.m3u8
-#EXTINF:-1 tvg-id="tensports4hd" tvg-name="tensports4hd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", tensports4hd
-http://172.16.29.3:8090/hls/tensports4hd.m3u8
-#EXTINF:-1 tvg-id="ColorsInfinityHD" tvg-name="ColorsInfinityHD" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", ColorsInfinityHD
-http://172.16.29.3:8090/hls/ColorsInfinityHD.m3u8
-#EXTINF:-1 tvg-id="sbharathd" tvg-name="sbharathd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", sbharathd
-http://172.16.29.2:8090/hls/sbharathd.m3u8
-#EXTINF:-1 tvg-id="9xm" tvg-name="9xm" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", 9xm
-http://172.16.29.3:8090/hls/9xm.m3u8
-#EXTINF:-1 tvg-id="AndPictureTV" tvg-name="AndPictureTV" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", AndPictureTV
-http://172.16.29.2:8090/hls/AndPictureTV.m3u8
-#EXTINF:-1 tvg-id="StarLifeHD" tvg-name="StarLifeHD" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", StarLifeHD
-http://172.16.29.2:8090/hls/StarLifeHD.m3u8
-#EXTINF:-1 tvg-id="sbharathd" tvg-name="sbharathd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", sbharathd
-http://172.16.29.3:8090/hls/sbharathd.m3u8
-#EXTINF:-1 tvg-id="mohonatv" tvg-name="mohonatv" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", mohonatv
-http://172.16.29.3:8090/hls/mohonatv.m3u8
-#EXTINF:-1 tvg-id="somoytv" tvg-name="somoytv" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", somoytv
-http://172.16.29.3:8090/hls/somoytv.m3u8
-#EXTINF:-1 tvg-id="jamunatv" tvg-name="jamunatv" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", jamunatv
-http://172.16.29.2:8090/hls/jamunatv.m3u8
-#EXTINF:-1 tvg-id="atnbangla" tvg-name="atnbangla" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", atnbangla
-http://172.16.29.2:8090/hls/atnbangla.m3u8
-#EXTINF:-1 tvg-id="starsports1hd" tvg-name="starsports1hd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", starsports1hd
-http://172.16.29.3:8090/hls/starsports1hd.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="DiscoveryKids" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", DiscoveryKids
-http://172.16.29.2:8090/hls/DiscoveryKids.m3u8
-#EXTINF:-1 tvg-id="stargoldhd" tvg-name="stargoldhd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", stargoldhd
-http://172.16.29.2:8090/hls/stargoldhd.m3u8
-#EXTINF:-1 tvg-id="banglatv" tvg-name="banglatv" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", banglatv
-http://172.16.29.3:8090/hls/banglatv.m3u8
-#EXTINF:-1 tvg-id="GEONews" tvg-name="GEONews" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", GEONews
-http://172.16.29.2:8090/hls/GEONews.m3u8
-#EXTINF:-1 tvg-id="superpremierleagueahd" tvg-name="superpremierleagueahd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", superpremierleagueahd
-http://172.16.29.2:8090/hls/superpremierleagueahd.m3u8
-#EXTINF:-1 tvg-id="tsportshd" tvg-name="tsportshd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", tsportshd
-http://172.16.29.3:8090/hls/tsportshd.m3u8
-#EXTINF:-1 tvg-id="atnbangla" tvg-name="atnbangla" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", atnbangla
-http://172.16.29.3:8090/hls/atnbangla.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraNews" tvg-name="AlJazeeraNews" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", AlJazeeraNews
-http://172.16.29.3:8090/hls/AlJazeeraNews.m3u8
-#EXTINF:-1 tvg-id="ekattortv" tvg-name="ekattortv" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", ekattortv
-http://172.16.29.2:8090/hls/ekattortv.m3u8
-#EXTINF:-1 tvg-id="banglatv" tvg-name="banglatv" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", banglatv
-http://172.16.29.2:8090/hls/banglatv.m3u8
-#EXTINF:-1 tvg-id="andflixhd" tvg-name="andflixhd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", andflixhd
-http://172.16.29.2:8090/hls/andflixhd.m3u8
-#EXTINF:-1 tvg-id="AndPictureTV" tvg-name="AndPictureTV" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", AndPictureTV
-http://172.16.29.3:8090/hls/AndPictureTV.m3u8
-#EXTINF:-1 tvg-id="9xm" tvg-name="9xm" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", 9xm
-http://172.16.29.2:8090/hls/9xm.m3u8
-#EXTINF:-1 tvg-id="Enter10Bangla" tvg-name="Enter10Bangla" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", Enter10Bangla
-http://172.16.29.3:8090/hls/Enter10Bangla.m3u8
-#EXTINF:-1 tvg-id="nicktvhdplus" tvg-name="nicktvhdplus" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", nicktvhdplus
-http://172.16.29.3:8090/hls/nicktvhdplus.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraNews" tvg-name="AlJazeeraNews" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", AlJazeeraNews
-http://172.16.29.2:8090/hls/AlJazeeraNews.m3u8
-#EXTINF:-1 tvg-id="andflixhd" tvg-name="andflixhd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", andflixhd
-http://172.16.29.3:8090/hls/andflixhd.m3u8
-#EXTINF:-1 tvg-id="ekhontv" tvg-name="ekhontv" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", ekhontv
-http://172.16.29.2:8090/hls/ekhontv.m3u8
-#EXTINF:-1 tvg-id="axnhd" tvg-name="axnhd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", axnhd
-http://172.16.29.3:8090/hls/axnhd.m3u8
-#EXTINF:-1 tvg-id="dbcnews" tvg-name="dbcnews" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", dbcnews
-http://172.16.29.2:8090/hls/dbcnews.m3u8
-#EXTINF:-1 tvg-id="sonyatth" tvg-name="sonyatth" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", sonyatth
-http://172.16.29.3:8090/hls/sonyatth.m3u8
-#EXTINF:-1 tvg-id="starmovieshd" tvg-name="starmovieshd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", starmovieshd
-http://172.16.29.3:8090/hls/starmovieshd.m3u8
-#EXTINF:-1 tvg-id="sonyten1hd" tvg-name="sonyten1hd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", sonyten1hd
-http://172.16.29.3:8090/hls/sonyten1hd.m3u8
-#EXTINF:-1 tvg-id="ekhontv" tvg-name="ekhontv" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", ekhontv
-http://172.16.29.3:8090/hls/ekhontv.m3u8
-#EXTINF:-1 tvg-id="jamunatv" tvg-name="jamunatv" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", jamunatv
-http://172.16.29.3:8090/hls/jamunatv.m3u8
-#EXTINF:-1 tvg-id="axnhd" tvg-name="axnhd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", axnhd
-http://172.16.29.2:8090/hls/axnhd.m3u8
-#EXTINF:-1 tvg-id="asiantv" tvg-name="asiantv" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", asiantv
-http://172.16.29.2:8090/hls/asiantv.m3u8
-#EXTINF:-1 tvg-id="duronto" tvg-name="duronto" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", duronto
-http://172.16.29.2:8090/hls/duronto.m3u8
-#EXTINF:-1 tvg-id="StarLifeHD" tvg-name="StarLifeHD" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", StarLifeHD
-http://172.16.29.3:8090/hls/StarLifeHD.m3u8
-#EXTINF:-1 tvg-id="maasrangatv" tvg-name="maasrangatv" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", maasrangatv
-http://172.16.29.3:8090/hls/maasrangatv.m3u8
-#EXTINF:-1 tvg-id="jalshamovieshd" tvg-name="jalshamovieshd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", jalshamovieshd
-http://172.16.29.3:8090/hls/jalshamovieshd.m3u8
-#EXTINF:-1 tvg-id="starjalshahd" tvg-name="starjalshahd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", starjalshahd
-http://172.16.29.3:8090/hls/starjalshahd.m3u8
-#EXTINF:-1 tvg-id="channel9" tvg-name="channel9" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", channel9
-http://172.16.29.2:8090/hls/channel9.m3u8
-#EXTINF:-1 tvg-id="colorsbanglahd" tvg-name="colorsbanglahd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", colorsbanglahd
-http://172.16.29.2:8090/hls/colorsbanglahd.m3u8
-#EXTINF:-1 tvg-id="ptvsportshd" tvg-name="ptvsportshd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", ptvsportshd
-http://172.16.29.2:8090/hls/ptvsportshd.m3u8
-#EXTINF:-1 tvg-id="channel9" tvg-name="channel9" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", channel9
-http://172.16.29.3:8090/hls/channel9.m3u8
-#EXTINF:-1 tvg-id="mytv" tvg-name="mytv" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", mytv
-http://172.16.29.3:8090/hls/mytv.m3u8
-#EXTINF:-1 tvg-id="jalshamovieshd" tvg-name="jalshamovieshd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", jalshamovieshd
-http://172.16.29.2:8090/hls/jalshamovieshd.m3u8
-#EXTINF:-1 tvg-id="mastii" tvg-name="mastii" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", mastii
-http://172.16.29.3:8090/hls/mastii.m3u8
-#EXTINF:-1 tvg-id="boishakhitv" tvg-name="boishakhitv" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", boishakhitv
-http://172.16.29.3:8090/hls/boishakhitv.m3u8
-#EXTINF:-1 tvg-id="mytv" tvg-name="mytv" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", mytv
-http://172.16.29.2:8090/hls/mytv.m3u8
-#EXTINF:-1 tvg-id="ekusheytv" tvg-name="ekusheytv" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", ekusheytv
-http://172.16.29.2:8090/hls/ekusheytv.m3u8
-#EXTINF:-1 tvg-id="banglavision" tvg-name="banglavision" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", banglavision
-http://172.16.29.3:8090/hls/banglavision.m3u8
-#EXTINF:-1 tvg-id="mastii" tvg-name="mastii" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", mastii
-http://172.16.29.2:8090/hls/mastii.m3u8
-#EXTINF:-1 tvg-id="ntvbd" tvg-name="ntvbd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", ntvbd
-http://172.16.29.3:8090/hls/ntvbd.m3u8
-#EXTINF:-1 tvg-id="banglavision" tvg-name="banglavision" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", banglavision
-http://172.16.29.2:8090/hls/banglavision.m3u8
-#EXTINF:-1 tvg-id="ekusheytv" tvg-name="ekusheytv" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", ekusheytv
-http://172.16.29.3:8090/hls/ekusheytv.m3u8
-#EXTINF:-1 tvg-id="ekattortv" tvg-name="ekattortv" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", ekattortv
-http://172.16.29.3:8090/hls/ekattortv.m3u8
-#EXTINF:-1 tvg-id="somoytv" tvg-name="somoytv" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", somoytv
-http://172.16.29.2:8090/hls/somoytv.m3u8
-#EXTINF:-1 tvg-id="dbcnews" tvg-name="dbcnews" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", dbcnews
-http://172.16.29.3:8090/hls/dbcnews.m3u8
-#EXTINF:-1 tvg-id="maasrangatv" tvg-name="maasrangatv" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", maasrangatv
-http://172.16.29.2:8090/hls/maasrangatv.m3u8
-#EXTINF:-1 tvg-id="bijoytv" tvg-name="bijoytv" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", bijoytv
-http://172.16.29.2:8090/hls/bijoytv.m3u8
-#EXTINF:-1 tvg-id="ntvbd" tvg-name="ntvbd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", ntvbd
-http://172.16.29.2:8090/hls/ntvbd.m3u8
-#EXTINF:-1 tvg-id="rtvhd" tvg-name="rtvhd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", rtvhd
-http://172.16.29.3:8090/hls/rtvhd.m3u8
-#EXTINF:-1 tvg-id="asiantv" tvg-name="asiantv" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", asiantv
-http://172.16.29.3:8090/hls/asiantv.m3u8
-#EXTINF:-1 tvg-id="duronto" tvg-name="duronto" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", duronto
-http://172.16.29.3:8090/hls/duronto.m3u8
-#EXTINF:-1 tvg-id="mohonatv" tvg-name="mohonatv" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", mohonatv
-http://172.16.29.2:8090/hls/mohonatv.m3u8
-#EXTINF:-1 tvg-id="rtvhd" tvg-name="rtvhd" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", rtvhd
-http://172.16.29.2:8090/hls/rtvhd.m3u8
-#EXTINF:-1 tvg-id="tsportshd_feed2" tvg-name="tsportshd_feed2" group-title="172.16.29.2 BY SIAM" tvg-logo="NO IMAGE", tsportshd_feed2
-http://172.16.29.3:8090/hls/tsportshd_feed2.m3u8
-#EXTINF:-1 tvg-id="mono" tvg-name="mono" group-title="FNF & APN BY SIAM" tvg-logo="image", mono
-http://10.10.10.2:84/fnf001/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="mono" tvg-name="mono" group-title="FNF & APN BY SIAM" tvg-logo="image", mono
-http://10.10.10.2:84/fnf004/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="mono" tvg-name="mono" group-title="FNF & APN BY SIAM" tvg-logo="image", mono
-http://10.10.10.2:84/fnf003/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="mono" tvg-name="mono" group-title="FNF & APN BY SIAM" tvg-logo="image", mono
-http://10.10.10.2:84/fnf002/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="mono" tvg-name="mono" group-title="FNF & APN BY SIAM" tvg-logo="image", mono
-http://172.17.50.112:84/ant1003/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="mono" tvg-name="mono" group-title="FNF & APN BY SIAM" tvg-logo="image", mono
-http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="mono" tvg-name="mono" group-title="FNF & APN BY SIAM" tvg-logo="image", mono
-http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="mono" tvg-name="mono" group-title="FNF & APN BY SIAM" tvg-logo="image", mono
-http://172.17.50.112:84/ant1004/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="Sony MAX HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/Sony_Max.png" group-title="MOONPLEX BY SIAM",Sony MAX HD
-http://kst.moonplex.net:8080/CH1/index.m3u8
-
-#EXTINF:-1 tvg-name="T Sports HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/t-sports.jpg" group-title="MOONPLEX BY SIAM",T Sports HD
-http://kst.moonplex.net:8080/CH2/index.m3u8
-
-#EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/star-jalsha.jpg" group-title="MOONPLEX BY SIAM",Star Jalsha HD
-http://kst.moonplex.net:8080/CH3/index.m3u8
-
-#EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/zee-bangla.jpg" group-title="MOONPLEX BY SIAM",Zee Bangla HD
-http://kst.moonplex.net:8080/CH4/index.m3u8
-
-#EXTINF:-1 tvg-name="Depto TV HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/Deepto-tv-live.png" group-title="MOONPLEX BY SIAM",Depto TV HD
-http://kst.moonplex.net:8080/CH5/index.m3u8
-
-#EXTINF:-1 tvg-name="Channel9 HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/channel9-hd.jpg" group-title="MOONPLEX BY SIAM",Channel9 HD
-http://kst.moonplex.net:8080/CH6/index.m3u8
-
-#EXTINF:-1 tvg-name="EKHON TV HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/Ekhon_Logo.png" group-title="MOONPLEX BY SIAM",Ekhon TV HD
-http://kst.moonplex.net:8080/CH7/index.m3u8
-
-#EXTINF:-1 tvg-name="BBC Cbeebies" tvg-logo="http://kst.moonplex.net/iptv/img/logo/BBC-CBeebies.png" group-title="MOONPLEX BY SIAM",BBC Cbeebies
-http://kst.moonplex.net:8080/CH8/index.m3u8
-
-#EXTINF:-1 tvg-name="Discovery Channel HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/Discovery-channel.png" group-title="MOONPLEX BY SIAM",Discovery Channel HD
-http://kst.moonplex.net:8080/CH9/index.m3u8
-
-#EXTINF:-1 tvg-name="ARY News HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/ARY-News.jpg" group-title="MOONPLEX BY SIAM",ARY News HD
-http://kst.moonplex.net:8080/CH10/index.m3u8
-
-#EXTINF:-1 tvg-name="BBC Earth HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/BBC_Earth_logo.png" group-title="MOONPLEX BY SIAM",BBC Earth HD
-http://kst.moonplex.net:8080/CH11/index.m3u8
-
-#EXTINF:-1 tvg-name="Duronto TV HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/duronto-tv.jpg" group-title="MOONPLEX BY SIAM",Duronto HD
-http://kst.moonplex.net:8080/CH12/index.m3u8
-
-#EXTINF:-1 tvg-name="9XM HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/9xm.jpg" group-title="MOONPLEX BY SIAM",9XM HD
-http://kst.moonplex.net:8080/CH13/index.m3u8
-
-#EXTINF:-1 tvg-name="Al Jazeera HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/Al-Jazeera.png" group-title="MOONPLEX BY SIAM",Al Jazeera HD
-http://kst.moonplex.net:8080/CH14/index.m3u8
-
-#EXTINF:-1 tvg-name="CNN HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/cnn.png" group-title="MOONPLEX BY SIAM",CNN HD
-http://kst.moonplex.net:8080/CH15/index.m3u8
-
-
-
-
-#EXTINF:-1 group-title="UNKNOWN BY SIAM" tvg-name="Ntv", Ntv
-http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
-
-#EXTINF:-1 group-title="UNKNOWN BY SIAM" tvg-name="Rtv", Rtv
-http://103.163.247.39/local_out/rtv/video.m3u8?token=At5F1MFZYnciB3
-
-#EXTINF:-1 group-title="UNKNOWN BY SIAM" tvg-name="Channel I", Channel I
-http://103.163.247.39/local_out/channeli/video.m3u8?token=At5F1MFZYnciB3
-
-#EXTINF:-1 group-title="UNKNOWN BY SIAM" tvg-name="Bangla Vision", Bangla Vision
-http://103.163.247.39/local_out/banglavision/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
-
-#EXTINF:-1 group-title="UNKNOWN BY SIAM" tvg-name="BTV", BTV
-http://103.163.247.39/local_out/btv/video.m3u8?token=At5F1MFZYnciB3
-
-#EXTINF:-1 group-title="UNKNOWN BY SIAM" tvg-name="Jamuna TV", Jamuna TV
-http://103.163.247.39/local_out/jamunatv/video.m3u8?token=At5F1MFZYnciB3
-
-#EXTINF:-1 group-title="UNKNOWN BY SIAM" tvg-name="Somoy TV", Somoy TV
-http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
-
-#EXTINF:-1 group-title="UNKNOWN BY SIAM" tvg-name="Independent TV", Independent TV
-http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3
-
-#EXTINF:-1 group-title="UNKNOWN BY SIAM" tvg-name="Channel 24", Channel 24
-http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3
-
-#EXTINF:-1 group-title="UNKNOWN BY SIAM" tvg-name="News 24", News 24
-http://103.163.247.39/local_out/news24bd/video.m3u8?token=At5F1MFZYnciB3
-
-#EXTINF:-1 group-title="UNKNOWN BY SIAM" tvg-name="Ekhon TV", Ekhon TV
-http://103.163.247.39/local_out/ekhontv/video.m3u8?token=At5F1MFZYnciB3
-
-#EXTINF:-1 group-title="UNKNOWN BY SIAM" tvg-name="Ekattor TV", Ekattor TV
-http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3
-
-#EXTINF:-1 group-title="UNKNOWN BY SIAM" tvg-name="Ananda TV", Ananda TV
-http://103.163.247.39/local_out/anandatv/video.m3u8?token=At5F1MFZYnciB3
-
-#EXTINF:-1 group-title="UNKNOWN BY SIAM" tvg-name="Bijoy TV", Bijoy TV
-http://103.163.247.39/local_out/bijoytv/video.m3u8?token=At5F1MFZYnciB3
-
-#EXTINF:-1 group-title="UNKNOWN BY SIAM" tvg-name="Green TV", Green TV
-http://103.163.247.39/local_out/greentv/video.m3u8?token=At5F1MFZYnciB3
-
-#EXTINF:-1 group-title="UNKNOWN BY SIAM" tvg-name="Asian TV", Asian TV
-http://103.163.247.39/local_out/asiantv/video.m3u8?token=At5F1MFZYnciB3
-
-#EXTINF:-1 group-title="UNKNOWN BY SIAM" tvg-name="ATN Bangla", ATN Bangla
-http://103.163.247.39/local_out/atnbangla/video.m3u8?token=At5F1MFZYnciB3
-
-#EXTINF:-1 group-title="UNKNOWN BY SIAM" tvg-name="ATN News", ATN News
-http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
-
-#EXTINF:-1 group-title="UNKNOWN BY SIAM" tvg-name="Bangla TV", Bangla TV
-http://103.163.247.39/local_out/banglatv/video.m3u8?token=At5F1MFZYnciB3
-
-
-
-
-#EXTINF:-1 group-title="UNKNOWN BY SIAM" tvg-name="Star Jalsha", Star Jalsha
-http://103.122.74.6:8888/hls/starJalsha.m3u8
-
-#EXTINF:-1 group-title="UNKNOWN BY SIAM" tvg-name="Zee Bangla", Zee Bangla
-http://103.122.74.6:8888/hls/zeebangla.m3u8
-
-#EXTINF:-1 group-title="UNKNOWN BY SIAM" tvg-name="Sony Aath", Sony Aath
-http://172.16.29.226:8090/hls/sonyatth.m3u8
-
-#EXTINF:-1 group-title="UNKNOWN BY SIAM" tvg-name="Enter 10 Bangla", Enter 10 Bangla
-http://172.16.29.226:8090/hls/Enter10Bangla.m3u8
-
-
-
 
 
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", MOVIES.NOW.HD
-http://103.122.74.6:8888/hls/MOVIES.NOW.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", ZEE.TV.HD
-http://103.122.74.6:8888/hls/ZEE.TV.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", SKY.SPORTS.CRICKET
-http://103.122.74.6:8888/hls/SKY.SPORTS.CRICKET.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", WILLOW.HD
-http://103.122.74.6:8888/hls/WILLOW.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", DISNEY.JUNIAR
-http://103.122.74.6:8888/hls/DISNEY.JUNIAR.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", STAR.MOVIES.HD
-http://103.122.74.6:8888/hls/STAR.MOVIES.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", UTSHOV.GOLD
-http://103.122.74.6:8888/hls/UTSHOV.GOLD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", NATGEO.WILD.HD
-http://103.122.74.6:8888/hls/NATGEO.WILD.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", AND.PRIVE.HD
-http://103.122.74.6:8888/hls/AND.PRIVE.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", SONY.BBC.EARTH.HD
-http://103.122.74.6:8888/hls/SONY.BBC.EARTH.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", GAZI.TV.HD
-http://103.122.74.6:8888/hls/GAZI.TV.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", BEINSPORTS.2
-http://103.122.74.6:8888/hls/BEINSPORTS.2.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", STAR.LIFE.HD
-http://103.122.74.6:8888/hls/STAR.LIFE.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", TRAVELXP.HD
-http://103.122.74.6:8888/hls/TRAVELXP.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", MN.PLUS.HD
-http://103.122.74.6:8888/hls/MN.PLUS.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", NICK.JR
-http://103.122.74.6:8888/hls/NICK.JR.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", ROMEDY.NOW
-http://103.122.74.6:8888/hls/ROMEDY.NOW.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", ANT.PICTURS.HD
-http://103.122.74.6:8888/hls/ANT.PICTURS.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", DISCOVERY.HD
-http://103.122.74.6:8888/hls/DISCOVERY.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", SONY.AAT
-http://103.122.74.6:8888/hls/SONY.AAT.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", STAR.SPORTS.SEL.2.HD
-http://103.122.74.6:8888/hls/STAR.SPORTS.SEL.2.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", BBC.NEWS
-http://103.122.74.6:8888/hls/BBC.NEWS.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", STAR.BARAT.HD
-http://103.122.74.6:8888/hls/STAR.BARAT.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", SONY.MAX.HD
-http://103.122.74.6:8888/hls/SONY.MAX.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", ANIMAL.PLANET.HD
-http://103.122.74.6:8888/hls/ANIMAL.PLANET.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", LOVE.NATURE.HD
-http://103.122.74.6:8888/hls/LOVE.NATURE.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", SONY10
-http://103.122.74.6:8888/hls/sony10.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", POGO
-http://103.122.74.6:8888/hls/POGO.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", COLORS.CINEPLEX.HD
-http://103.122.74.6:8888/hls/COLORS.CINEPLEX.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", GOLF.SPORTS
-http://103.122.74.6:8888/hls/GOLF.SPORTS.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", SUPER.CRICKET.HD
-http://103.122.74.6:8888/hls/SUPER.CRICKET.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", SONY.ENT.HD
-http://103.122.74.6:8888/hls/SONY.ENT.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", CINEMAX.HD
-http://103.122.74.6:8888/hls/CINEMAX.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", T SPORTS HD
-http://103.122.74.6:8888/hls/T-SPORTS-HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", EUROSPORTS.HD
-http://103.122.74.6:8888/hls/EUROSPORTS.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", SONY..YAY
-http://103.122.74.6:8888/hls/SONY..YAY.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", STAR SPORTS.3
-http://103.122.74.6:8888/hls/STAR-SPORTS.3.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", AND.FLIX.HD
-http://103.122.74.6:8888/hls/AND.FLIX.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", THE.PAPARE.HD
-http://103.122.74.6:8888/hls/THE.PAPARE.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", JALSHA.MOVIES.HD
-http://103.122.74.6:8888/hls/JALSHA.MOVIES.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", COLOR.INFINITY.HD
-http://103.122.74.6:8888/hls/COLOR.INFINITY.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", CARTON.NETWORK.HD
-http://103.122.74.6:8888/hls/CARTON.NETWORK.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", SONY SPORTS.5HD
-http://103.122.74.6:8888/hls/SONY-SPORTS.5HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", PREMER.SPORTS.HD
-http://103.122.74.6:8888/hls/PREMER.SPORTS.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", ZEE.BANGLA.HD
-http://103.122.74.6:8888/hls/ZEE.BANGLA.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", SONY.SPORTS.1HD
-http://103.122.74.6:8888/hls/SONY.SPORTS.1HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", BBC.CBABES.HD
-http://103.122.74.6:8888/hls/BBC.CBABES.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", CNN
-http://103.122.74.6:8888/hls/CNN.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", BBC.LIFESTYLE.HD
-http://103.122.74.6:8888/hls/BBC.LIFESTYLE.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", ETV.BAL.BHARAT
-http://103.122.74.6:8888/hls/ETV.BAL.BHARAT.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", ZING.MUSIC
-http://103.122.74.6:8888/hls/ZING.MUSIC.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", STAR.GOLD.HD
-http://103.122.74.6:8888/hls/STAR.GOLD.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", CNBC.NEWS
-http://103.122.74.6:8888/hls/CNBC.NEWS.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", ASTRO.CRICKET
-http://103.122.74.6:8888/hls/ASTRO.CRICKET.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", BEINSPORTS.1
-http://103.122.74.6:8888/hls/BEINSPORTS.1.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", DISNEY.INT.HD
-http://103.122.74.6:8888/hls/DISNEY.INT.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", STAR.JALSHA.HD
-http://103.122.74.6:8888/hls/STAR.JALSHA.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", NAGORIK.TV.HD
-http://103.122.74.6:8888/hls/NAGORIK.TV.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", COLORS.HD
-http://103.122.74.6:8888/hls/COLORS.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", HBO.HITS
-http://103.122.74.6:8888/hls/HBO.HITS.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", HUNGAMA
-http://103.122.74.6:8888/hls/HUNGAMA.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", ROCK.ENT.HD
-http://103.122.74.6:8888/hls/ROCK.ENT.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", MTV.LIVE.HD
-http://103.122.74.6:8888/hls/MTV.LIVE.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", STAR.SPORTS SEL1.HD
-http://103.122.74.6:8888/hls/STAR.SPORTS-SEL1.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", XPLOR.HD
-http://103.122.74.6:8888/hls/XPLOR.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", ZOOM.MUSIC
-http://103.122.74.6:8888/hls/ZOOM.MUSIC.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", UTV.BINDASS
-http://103.122.74.6:8888/hls/UTV.BINDASS.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", MTV.BEATS.HD
-http://103.122.74.6:8888/hls/MTV.BEATS.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", DISCOVERY.KIDS
-http://103.122.74.6:8888/hls/DISCOVERY.KIDS.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", HITZ.MUSIC.HD
-http://103.122.74.6:8888/hls/HITZ.MUSIC.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", NICK
-http://103.122.74.6:8888/hls/NICK.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", STAR.PLUS.HD
-http://103.122.74.6:8888/hls/STAR.PLUS.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", HBO.HD
-http://103.122.74.6:8888/hls/HBO.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", SONY.PIX.HD
-http://103.122.74.6:8888/hls/SONY.PIX.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", STAR.SPORTS2.HD
-http://103.122.74.6:8888/hls/STAR.SPORTS2.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", SONY.SPORTS1.HD
-http://103.122.74.6:8888/hls/SONY.SPORTS1.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", STAR.SPORTS1.HD
-http://103.122.74.6:8888/hls/STAR.SPORTS1.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", SUN.BANGLA.HD
-http://103.122.74.6:8888/hls/SUN.BANGLA.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", STAR.GOLD.SEL.HD
-http://103.122.74.6:8888/hls/STAR.GOLD.SEL.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", ID.HD
-http://103.122.74.6:8888/hls/ID.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", NATGEO.HD
-http://103.122.74.6:8888/hls/NATGEO.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", AXN.HD
-http://103.122.74.6:8888/hls/AXN.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", DURANTA.TV.HD
-http://103.122.74.6:8888/hls/DURANTA.TV.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", BEIN.SPORT.3
-http://103.122.74.6:8888/hls/BEIN.SPORT.3.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", STAR.MOVIES.SEL.HD
-http://103.122.74.6:8888/hls/STAR.MOVIES.SEL.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", TLC.HD
-http://103.122.74.6:8888/hls/TLC.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", DISCOVARY.TURBO
-http://103.122.74.6:8888/hls/DISCOVARY.TURBO.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", ZEE.CINEMA.HD
-http://103.122.74.6:8888/hls/ZEE.CINEMA.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", BBC.EARTH.HD
-http://103.122.74.6:8888/hls/BBC.Earth.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", STAR.GOLD.2HD
-http://103.122.74.6:8888/hls/STAR.GOLD.2HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", HISTORY.TV.18.HD
-http://103.122.74.6:8888/hls/HISTORY.TV.18.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", ZEE.CAFE.HD
-http://103.122.74.6:8888/hls/ZEE.CAFE.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", SONY.SPORTS.3
-http://103.122.74.6:8888/hls/SONY.SPORTS.3.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", MNX.HD
-http://103.122.74.6:8888/hls/MNX.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", COLORS.BANGLA.HD
-http://103.122.74.6:8888/hls/COLORS.BANGLA.HD.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="103.122.74.6 BY SIAM", SONIC
-http://103.122.74.6:8888/hls/SONIC.m3u8
-
-
-
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", SSC 1
+https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", SSC 2
+https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", SSC 3
+https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", SSC 4
+https://ssc-4-enc.edgenextcdn.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", SSC 5
+https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
 
 
 #EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8af41461cac43b0791958320e60d821b:3590b4e7796f9ee6ac82e1a6ddca75b6
+#EXTINF:-1 tvg-id="UniversoWest.peacock" tvg-name="Universo West" tvg-logo="https://example.com/universo-west.png" group-title="Entertainment", Universo West (PeacockTV)
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(universo-west)/master.mpd
 
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", TSPORTS
-http://172.19.178.29:18190/CLOUD-TV-02/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", SONYSPORTSTEN5
-http://172.19.178.29:18190/CLOUD-TV-01/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", GTV
-http://172.19.178.39:18190/JS-TV-01/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", MAASRANGA
-http://172.19.178.39:18190/JS-TV-02/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", JAMUNATV
-http://172.19.178.39:18190/JS-TV-03/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", STARSPORTS1
-http://172.19.178.39:18190/JS-TV-04/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", SOMOYTV
-http://172.19.178.39:18190/JS-TV-05/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", JALSHAMOVIES
-http://172.19.178.39:18190/JS-TV-06/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", CHANNELI
-http://172.19.178.39:18190/JS-TV-07/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", STARJALSHA
-http://172.19.178.39:18190/JS-TV-08/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", ZEEBANGLA
-http://172.19.178.39:18190/JS-TV-09/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", STARSPORTS2
-http://172.19.178.39:18190/U-TV-01/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", TSPORTS
-http://172.19.178.39:18190/U-TV-02/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", SONYSPORTSTEN1
-http://172.19.178.39:18190/U-TV-03/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", TVLOGO
-http://172.19.178.39:18190/U-TV-04/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", TVLOGO
-http://172.19.178.39:18190/U-TV-05/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", TVLOGO
-http://172.19.178.39:18190/U-TV-06/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", STARSPORTS1
-http://172.19.178.49:18190/sn-starsports1/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", ZEEBANGLA
-http://172.19.178.49:18190/sn-zeebangla/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", TSPORTS
-http://172.19.178.49:18190/sn-tsports/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", STARJALSHA
-http://172.19.178.49:18190/sn-starjalsha/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", SONYAATH
-http://172.19.178.49:18190/sn-sonyaath/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", STARSPORTS2
-http://172.19.178.49:18190/sn-starsports2/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", ATNNEWS
-http://172.19.178.49:18190/sn-atnnews/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", SOMOYTV
-http://172.19.178.49:18190/sn-somoytv/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", DESHTV
-http://172.19.178.49:18190/sn-deshtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", CHANNELI
-http://172.19.178.49:18190/sn-channeli/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", NAGORIK
-http://172.19.178.49:18190/sn-nagorik/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", INDEPENDENT
-http://172.19.178.49:18190/sn-independent/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", EKUSHEYTV
-http://172.19.178.49:18190/sn-ekusheytv/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", BANGLAVISION
-http://172.19.178.49:18190/sn-banglavision/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", 71
-http://172.19.178.49:18190/sn-71/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", MYTV
-http://172.19.178.49:18190/sn-mytv/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", NTV
-http://172.19.178.49:18190/sn-ntv/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", GTV
-http://172.19.178.49:18190/sn-gtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", RTV
-http://172.19.178.49:18190/sn-rtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", CHANNEL24
-http://172.19.178.49:18190/sn-channel24/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", SATV
-http://172.19.178.59:18190/sn-satv/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", JAMUNATV
-http://172.19.178.59:18190/sn-jamunatv/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", DEUTSCHEWELLE
-http://172.19.178.59:18190/sn-deutschewelle/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", SAUDIQURANTV
-http://172.19.178.59:18190/sn-saudiqurantv/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", SAUDISUNNAHTV
-http://172.19.178.59:18190/sn-saudisunnahtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", ASPORTS
-http://172.19.178.59:18190/sn-asports/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", PTV
-http://172.19.178.59:18190/sn-ptv/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", SPORTS18
-http://172.19.178.59:18190/sn-sports18/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", DBC
-http://172.19.178.59:18190/sn-dbc/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", BEINSPORTS1
-http://172.19.178.59:18190/sn-beinsports1/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", BEINSPORTS2
-http://172.19.178.59:18190/sn-beinsports2/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", ENTERR10BANGLA
-http://172.19.178.59:18190/sn-enterr10bangla/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", KIDSCREATION
-http://172.19.178.59:18190/sn-kidscreation/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", DUBAISPORTS2
-http://172.19.178.59:18190/sn-dubaisports2/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", DUBAISPORTS3
-http://172.19.178.59:18190/sn-dubaisports3/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", TNTSPORTS
-http://172.19.178.59:18190/sn-tntsports/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", PEACETVBANGLA
-http://172.19.178.59:18190/sn-peacetvbangla/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", TVLOGO
-http://172.19.178.59:18190/sn-sportstv/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", SANGEETBANGLA
-http://172.19.178.59:18190/sn-sangeetbangla/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", ALJAZEERA
-http://172.19.178.59:18190/sn-aljazeera/index.m3u8
-
-#EXTINF:-1 tvg-logo="no image" group-title="TVCLOUD BY SIAM", RTV
-http://172.19.178.19:18190/INT-TV-01/index.m3u8
 
 
 
@@ -1635,302 +341,174 @@ http://172.19.178.19:18190/INT-TV-01/index.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="btv" tvg-logo="img/btv.png" group-title="TELESCOPE BY SIAM",btv
-http://172.16.88.10:18190/btv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="atnbangla" tvg-logo="img/atnbangla.png" group-title="TELESCOPE BY SIAM",atnbangla
-http://172.16.88.10:18190/atnbangla/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="channeli" tvg-logo="img/channeli.png" group-title="TELESCOPE BY SIAM",channeli
-http://172.16.88.10:18190/channeli/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ekusheytv" tvg-logo="img/ekusheytv.png" group-title="TELESCOPE BY SIAM",ekusheytv
-http://172.16.88.10:18190/ekusheytv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ntv" tvg-logo="img/ntv.png" group-title="TELESCOPE BY SIAM",ntv
-http://172.16.88.10:18190/ntv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="rtv" tvg-logo="img/rtv.png" group-title="TELESCOPE BY SIAM",rtv
-http://172.16.88.10:18190/rtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="boishakhitv" tvg-logo="img/boishakhitv.png" group-title="TELESCOPE BY SIAM",boishakhitv
-http://172.16.88.10:18190/boishakhitv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="banglavision" tvg-logo="img/banglavision.png" group-title="TELESCOPE BY SIAM",banglavision
-http://172.16.88.10:18190/banglavision/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="deshtv" tvg-logo="img/deshtv.png" group-title="TELESCOPE BY SIAM",deshtv
-http://172.16.88.10:18190/deshtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mytv" tvg-logo="img/mytv.png" group-title="TELESCOPE BY SIAM",mytv
-http://172.16.88.10:18190/mytv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mohonatv" tvg-logo="img/mohonatv.png" group-title="TELESCOPE BY SIAM",mohonatv
-http://172.16.88.10:18190/mohonatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="bijoytv" tvg-logo="img/bijoytv.png" group-title="TELESCOPE BY SIAM",bijoytv
-http://172.16.88.10:18190/bijoytv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="maasranga" tvg-logo="img/maasranga.png" group-title="TELESCOPE BY SIAM",maasranga
-http://172.16.88.10:18190/maasranga/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="channel9" tvg-logo="img/channel9.png" group-title="TELESCOPE BY SIAM",channel9
-http://172.16.88.10:18190/channel9/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="gtv" tvg-logo="img/gtv.png" group-title="TELESCOPE BY SIAM",gtv
-http://172.16.88.10:18190/gtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="asian" tvg-logo="img/asian.png" group-title="TELESCOPE BY SIAM",asian
-http://172.16.88.10:18190/asian/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="satv" tvg-logo="img/satv.png" group-title="TELESCOPE BY SIAM",satv
-http://172.16.88.10:18190/satv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="deepto" tvg-logo="img/deepto.png" group-title="TELESCOPE BY SIAM",deepto
-http://172.16.88.10:18190/deepto/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="banglatv" tvg-logo="img/banglatv.png" group-title="TELESCOPE BY SIAM",banglatv
-http://172.16.88.10:18190/banglatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="nagorik" tvg-logo="img/nagorik.png" group-title="TELESCOPE BY SIAM",nagorik
-http://172.16.88.10:18190/nagorik/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="anandatv" tvg-logo="img/anandatv.png" group-title="TELESCOPE BY SIAM",anandatv
-http://172.16.88.20:18190/anandatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="globaltelevision" tvg-logo="img/globaltelevision.png" group-title="TELESCOPE BY SIAM",globaltelevision
-http://172.16.88.20:18190/globaltelevision/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="channels" tvg-logo="img/channels.png" group-title="TELESCOPE BY SIAM",channels
-http://172.16.88.20:18190/channels/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="moviebangla" tvg-logo="img/moviebangla.png" group-title="TELESCOPE BY SIAM",moviebangla
-http://172.16.88.20:18190/moviebangla/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="starjalsha" tvg-logo="img/starjalsha.png" group-title="TELESCOPE BY SIAM",starjalsha
-http://172.16.88.20:18190/starjalsha/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="zeebangla" tvg-logo="img/zeebangla.png" group-title="TELESCOPE BY SIAM",zeebangla
-http://172.16.88.20:18190/zeebangla/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="colorsbangla" tvg-logo="img/colorsbangla.png" group-title="TELESCOPE BY SIAM",colorsbangla
-http://172.16.88.20:18190/colorsbangla/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sonyaath" tvg-logo="img/sonyaath.png" group-title="TELESCOPE BY SIAM",sonyaath
-http://172.16.88.20:18190/sonyaath/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="enterr10bangla" tvg-logo="img/enterr10bangla.png" group-title="TELESCOPE BY SIAM",enterr10bangla
-http://172.16.88.20:18190/enterr10bangla/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sunbangla" tvg-logo="img/sunbangla.png" group-title="TELESCOPE BY SIAM",sunbangla
-http://172.16.88.20:18190/sunbangla/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ddbangla" tvg-logo="img/ddbangla.png" group-title="TELESCOPE BY SIAM",ddbangla
-http://172.16.88.20:18190/ddbangla/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="jalshamovies" tvg-logo="img/jalshamovies.png" group-title="TELESCOPE BY SIAM",jalshamovies
-http://172.16.88.20:18190/jalshamovies/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="zeebanglacinema" tvg-logo="img/zeebanglacinema.png" group-title="TELESCOPE BY SIAM",zeebanglacinema
-http://172.16.88.20:18190/zeebanglacinema/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="goldminesbengali" tvg-logo="img/goldminesbengali.png" group-title="TELESCOPE BY SIAM",goldminesbengali
-http://172.16.88.20:18190/goldminesbengali/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="atnnews" tvg-logo="img/atnnews.png" group-title="TELESCOPE BY SIAM",atnnews
-http://172.16.88.20:18190/atnnews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="somoytv" tvg-logo="img/somoytv.png" group-title="TELESCOPE BY SIAM",somoytv
-http://172.16.88.20:18190/somoytv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="independent" tvg-logo="img/independent.png" group-title="TELESCOPE BY SIAM",independent
-http://172.16.88.20:18190/independent/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="channel24" tvg-logo="img/channel24.png" group-title="TELESCOPE BY SIAM",channel24
-http://172.16.88.20:18190/channel24/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="71" tvg-logo="img/71.png" group-title="TELESCOPE BY SIAM",71
-http://172.16.88.20:18190/71/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="jamunatv" tvg-logo="img/jamunatv.png" group-title="TELESCOPE BY SIAM",jamunatv
-http://172.16.88.20:18190/jamunatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="dbc" tvg-logo="img/dbc.png" group-title="TELESCOPE BY SIAM",dbc
-http://172.16.88.30:18190/dbc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="news24" tvg-logo="img/news24.png" group-title="TELESCOPE BY SIAM",news24
-http://172.16.88.30:18190/news24/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="nexustelevision" tvg-logo="img/nexustelevision.png" group-title="TELESCOPE BY SIAM",nexustelevision
-http://172.16.88.30:18190/nexustelevision/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ekhon" tvg-logo="img/ekhon.png" group-title="TELESCOPE BY SIAM",ekhon
-http://172.16.88.30:18190/ekhon/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="gaanbanglatv" tvg-logo="img/gaanbanglatv.png" group-title="TELESCOPE BY SIAM",gaanbanglatv
-http://172.16.88.30:18190/gaanbanglatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="duronto" tvg-logo="img/duronto.png" group-title="TELESCOPE BY SIAM",duronto
-http://172.16.88.30:18190/duronto/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="tsports" tvg-logo="img/tsports.png" group-title="TELESCOPE BY SIAM",tsports
-http://172.16.88.30:18190/tsports/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sangeetbangla" tvg-logo="img/sangeetbangla.png" group-title="TELESCOPE BY SIAM",sangeetbangla
-http://172.16.88.30:18190/sangeetbangla/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="starsports1" tvg-logo="img/starsports1.png" group-title="TELESCOPE BY SIAM",starsports1
-http://172.16.88.30:18190/starsports1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="starsports2" tvg-logo="img/starsports2.png" group-title="TELESCOPE BY SIAM",starsports2
-http://172.16.88.30:18190/starsports2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="starsports3" tvg-logo="img/starsports3.png" group-title="TELESCOPE BY SIAM",starsports3
-http://172.16.88.30:18190/starsports3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="starsportsselect1" tvg-logo="img/starsportsselect1.png" group-title="TELESCOPE BY SIAM",starsportsselect1
-http://172.16.88.30:18190/starsportsselect1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="starsportsselect2" tvg-logo="img/starsportsselect2.png" group-title="TELESCOPE BY SIAM",starsportsselect2
-http://172.16.88.30:18190/starsportsselect2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sonysportsten1" tvg-logo="img/sonysportsten1.png" group-title="TELESCOPE BY SIAM",sonysportsten1
-http://172.16.88.30:18190/sonysportsten1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sonysportsten2" tvg-logo="img/sonysportsten2.png" group-title="TELESCOPE BY SIAM",sonysportsten2
-http://172.16.88.30:18190/sonysportsten2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sonysportsten3" tvg-logo="img/sonysportsten3.png" group-title="TELESCOPE BY SIAM",sonysportsten3
-http://172.16.88.30:18190/sonysportsten3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sonysportsten5" tvg-logo="img/sonysportsten5.png" group-title="TELESCOPE BY SIAM",sonysportsten5
-http://172.16.88.30:18190/sonysportsten5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sports18" tvg-logo="img/sports18.png" group-title="TELESCOPE BY SIAM",sports18
-http://172.16.88.30:18190/sports18/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="eurosport" tvg-logo="img/eurosport.png" group-title="TELESCOPE BY SIAM",eurosport
-http://172.16.88.30:18190/eurosport/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="asports" tvg-logo="img/asports.png" group-title="TELESCOPE BY SIAM",asports
-http://172.16.88.30:18190/asports/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="tensports" tvg-logo="img/tensports.png" group-title="TELESCOPE BY SIAM",tensports
-http://172.16.88.40:18190/tensports/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="tencricket" tvg-logo="img/tencricket.png" group-title="TELESCOPE BY SIAM",tencricket
-http://172.16.88.40:18190/tencricket/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="geosuper" tvg-logo="img/geosuper.png" group-title="TELESCOPE BY SIAM",geosuper
-http://172.16.88.40:18190/geosuper/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ptvsports" tvg-logo="img/ptvsports.png" group-title="TELESCOPE BY SIAM",ptvsports
-http://172.16.88.40:18190/ptvsports/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="totalsports" tvg-logo="img/totalsports.png" group-title="TELESCOPE BY SIAM",totalsports
-http://172.16.88.40:18190/totalsports/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beinsports1" tvg-logo="img/beinsports1.png" group-title="TELESCOPE BY SIAM",beinsports1
-http://172.16.88.40:18190/beinsports1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="supersportlaliga" tvg-logo="img/supersportlaliga.png" group-title="TELESCOPE BY SIAM",supersportlaliga
-http://172.16.88.40:18190/supersportlaliga/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="supersportcricket" tvg-logo="img/supersportcricket.png" group-title="TELESCOPE BY SIAM",supersportcricket
-http://172.16.88.40:18190/supersportcricket/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="supersportfootball" tvg-logo="img/supersportfootball.png" group-title="TELESCOPE BY SIAM",supersportfootball
-http://172.16.88.40:18190/supersportfootball/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ssc1" tvg-logo="img/ssc1.png" group-title="TELESCOPE BY SIAM",ssc1
-http://172.16.88.40:18190/ssc1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ssc2" tvg-logo="img/ssc2.png" group-title="TELESCOPE BY SIAM",ssc2
-http://172.16.88.40:18190/ssc2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="foxsports" tvg-logo="img/foxsports.png" group-title="TELESCOPE BY SIAM",foxsports
-http://172.16.88.40:18190/foxsports/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="foxsport501" tvg-logo="img/foxsport501.png" group-title="TELESCOPE BY SIAM",foxsport501
-http://172.16.88.40:18190/foxsport501/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="skysportsmainevent" tvg-logo="img/skysportsmainevent.png" group-title="TELESCOPE BY SIAM",skysportsmainevent
-http://172.16.88.40:18190/skysportsmainevent/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="skysportscricket" tvg-logo="img/skysportscricket.png" group-title="TELESCOPE BY SIAM",skysportscricket
-http://172.16.88.40:18190/skysportscricket/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="skysportspremierleague" tvg-logo="img/skysportspremierleague.png" group-title="TELESCOPE BY SIAM",skysportspremierleague
-http://172.16.88.40:18190/skysportspremierleague/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="skysportsfootball" tvg-logo="img/skysportsfootball.png" group-title="TELESCOPE BY SIAM",skysportsfootball
-http://172.16.88.40:18190/skysportsfootball/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="willow" tvg-logo="img/willow.png" group-title="TELESCOPE BY SIAM",willow
-http://172.16.88.40:18190/willow/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="cricket2" tvg-logo="img/tvlogo.png" group-title="TELESCOPE BY SIAM",cricket2
-http://172.16.88.40:18190/cricket2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="cricket3" tvg-logo="img/tvlogo.png" group-title="TELESCOPE BY SIAM",cricket3
-http://172.16.88.40:18190/cricket3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="cricket4" tvg-logo="img/tvlogo.png" group-title="TELESCOPE BY SIAM",cricket4
-http://172.16.88.50:18190/cricket4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="football1" tvg-logo="img/tvlogo.png" group-title="TELESCOPE BY SIAM",football1
-http://172.16.88.50:18190/football1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="football2" tvg-logo="img/tvlogo.png" group-title="TELESCOPE BY SIAM",football2
-http://172.16.88.50:18190/football2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="football3" tvg-logo="img/tvlogo.png" group-title="TELESCOPE BY SIAM",football3
-http://172.16.88.50:18190/football3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="football4" tvg-logo="img/tvlogo.png" group-title="TELESCOPE BY SIAM",football4
-http://172.16.88.50:18190/football4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="starplus" tvg-logo="img/starplus.png" group-title="TELESCOPE BY SIAM",starplus
-http://172.16.88.50:18190/starplus/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="starbharat" tvg-logo="img/starbharat.png" group-title="TELESCOPE BY SIAM",starbharat
-http://172.16.88.50:18190/starbharat/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="zeetv" tvg-logo="img/zeetv.png" group-title="TELESCOPE BY SIAM",zeetv
-http://172.16.88.50:18190/zeetv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sonyentertainmenttelevision" tvg-logo="img/sonyentertainmenttelevision.png" group-title="TELESCOPE BY SIAM",sonyentertainmenttelevision
-http://172.16.88.50:18190/sonyentertainmenttelevision/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sonysab" tvg-logo="img/sonysab.png" group-title="TELESCOPE BY SIAM",sonysab
-http://172.16.88.50:18190/sonysab/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="colors" tvg-logo="img/colors.png" group-title="TELESCOPE BY SIAM",colors
-http://172.16.88.50:18190/colors/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="andtv" tvg-logo="img/andtv.png" group-title="TELESCOPE BY SIAM",andtv
-http://172.16.88.50:18190/andtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="aryzindagi" tvg-logo="img/aryzindagi.png" group-title="TELESCOPE BY SIAM",aryzindagi
-http://172.16.88.50:18190/aryzindagi/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="stargold" tvg-logo="img/stargold.png" group-title="TELESCOPE BY SIAM",stargold
-http://172.16.88.50:18190/stargold/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="stargoldselect" tvg-logo="img/stargoldselect.png" group-title="TELESCOPE BY SIAM",stargoldselect
-http://172.16.88.50:18190/stargoldselect/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="stargoldromance" tvg-logo="img/stargoldromance.png" group-title="TELESCOPE BY SIAM",stargoldromance
-http://172.16.88.50:18190/stargoldromance/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="stargoldthrills" tvg-logo="img/stargoldthrills.png" group-title="TELESCOPE BY SIAM",stargoldthrills
-http://172.16.88.50:18190/stargoldthrills/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sonymax" tvg-logo="img/sonymax.png" group-title="TELESCOPE BY SIAM",sonymax
-http://172.16.88.50:18190/sonymax/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sonymax2" tvg-logo="img/sonymax2.png" group-title="TELESCOPE BY SIAM",sonymax2
-http://172.16.88.50:18190/sonymax2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="zeecinema" tvg-logo="img/zeecinema.png" group-title="TELESCOPE BY SIAM",zeecinema
-http://172.16.88.50:18190/zeecinema/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="zeebollywood" tvg-logo="img/zeebollywood.png" group-title="TELESCOPE BY SIAM",zeebollywood
-http://172.16.88.60:18190/zeebollywood/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="zeeanmolcinema" tvg-logo="img/zeeanmolcinema.png" group-title="TELESCOPE BY SIAM",zeeanmolcinema
-http://172.16.88.60:18190/zeeanmolcinema/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="colorscineplex" tvg-logo="img/colorscineplex.png" group-title="TELESCOPE BY SIAM",colorscineplex
-http://172.16.88.60:18190/colorscineplex/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="andpictures" tvg-logo="img/andpictures.png" group-title="TELESCOPE BY SIAM",andpictures
-http://172.16.88.60:18190/andpictures/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="b4umovies" tvg-logo="img/b4umovies.png" group-title="TELESCOPE BY SIAM",b4umovies
-http://172.16.88.60:18190/b4umovies/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="starmovies" tvg-logo="img/starmovies.png" group-title="TELESCOPE BY SIAM",starmovies
-http://172.16.88.60:18190/starmovies/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="starmoviesselect" tvg-logo="img/starmoviesselect.png" group-title="TELESCOPE BY SIAM",starmoviesselect
-http://172.16.88.60:18190/starmoviesselect/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="zeecafe" tvg-logo="img/zeecafe.png" group-title="TELESCOPE BY SIAM",zeecafe
-http://172.16.88.60:18190/zeecafe/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="andflix" tvg-logo="img/andflix.png" group-title="TELESCOPE BY SIAM",andflix
-http://172.16.88.60:18190/andflix/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="andprive" tvg-logo="img/andprive.png" group-title="TELESCOPE BY SIAM",andprive
-http://172.16.88.60:18190/andprive/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="moviesnow" tvg-logo="img/moviesnow.png" group-title="TELESCOPE BY SIAM",moviesnow
-http://172.16.88.60:18190/moviesnow/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sonypix" tvg-logo="img/sonypix.png" group-title="TELESCOPE BY SIAM",sonypix
-http://172.16.88.60:18190/sonypix/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="colorsinfinity" tvg-logo="img/colorsinfinity.png" group-title="TELESCOPE BY SIAM",colorsinfinity
-http://172.16.88.60:18190/colorsinfinity/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="hbo" tvg-logo="img/hbo.png" group-title="TELESCOPE BY SIAM",hbo
-http://172.16.88.60:18190/hbo/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="axn" tvg-logo="img/axn.png" group-title="TELESCOPE BY SIAM",axn
-http://172.16.88.60:18190/axn/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="comedycentral" tvg-logo="img/comedycentral.png" group-title="TELESCOPE BY SIAM",comedycentral
-http://172.16.88.60:18190/comedycentral/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="discovery" tvg-logo="img/discovery.png" group-title="TELESCOPE BY SIAM",discovery
-http://172.16.88.60:18190/discovery/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="animalplanet" tvg-logo="img/animalplanet.png" group-title="TELESCOPE BY SIAM",animalplanet
-http://172.16.88.60:18190/animalplanet/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="natgeowild" tvg-logo="img/natgeowild.png" group-title="TELESCOPE BY SIAM",natgeowild
-http://172.16.88.60:18190/natgeowild/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="tlc" tvg-logo="img/tlc.png" group-title="TELESCOPE BY SIAM",tlc
-http://172.16.88.60:18190/tlc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="foodnetwork" tvg-logo="img/foodnetwork.png" group-title="TELESCOPE BY SIAM",foodnetwork
-http://172.16.88.70:18190/foodnetwork/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="travelxp" tvg-logo="img/travelxp.png" group-title="TELESCOPE BY SIAM",travelxp
-http://172.16.88.70:18190/travelxp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="historytv18" tvg-logo="img/historytv18.png" group-title="TELESCOPE BY SIAM",historytv18
-http://172.16.88.70:18190/historytv18/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sonybbcearth" tvg-logo="img/sonybbcearth.png" group-title="TELESCOPE BY SIAM",sonybbcearth
-http://172.16.88.70:18190/sonybbcearth/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="nickjr" tvg-logo="img/nickjr.png" group-title="TELESCOPE BY SIAM",nickjr
-http://172.16.88.70:18190/nickjr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="nick" tvg-logo="img/nick.png" group-title="TELESCOPE BY SIAM",nick
-http://172.16.88.70:18190/nick/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="nickelodeon" tvg-logo="img/nickelodeon.png" group-title="TELESCOPE BY SIAM",nickelodeon
-http://172.16.88.70:18190/nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="disnepchannel" tvg-logo="img/disnepchannel.png" group-title="TELESCOPE BY SIAM",disnepchannel
-http://172.16.88.70:18190/disnepchannel/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="kidscreation" tvg-logo="img/kidscreation.png" group-title="TELESCOPE BY SIAM",kidscreation
-http://172.16.88.70:18190/kidscreation/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="cartoonnetwork" tvg-logo="img/cartoonnetwork.png" group-title="TELESCOPE BY SIAM",cartoonnetwork
-http://172.16.88.70:18190/cartoonnetwork/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="hungama" tvg-logo="img/hungama.png" group-title="TELESCOPE BY SIAM",hungama
-http://172.16.88.70:18190/hungama/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="discoverykids" tvg-logo="img/discoverykids.png" group-title="TELESCOPE BY SIAM",discoverykids
-http://172.16.88.70:18190/discoverykids/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sonyyay" tvg-logo="img/sonyyay.png" group-title="TELESCOPE BY SIAM",sonyyay
-http://172.16.88.70:18190/sonyyay/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="9xm" tvg-logo="img/9xm.png" group-title="TELESCOPE BY SIAM",9xm
-http://172.16.88.70:18190/9xm/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="zing" tvg-logo="img/zing.png" group-title="TELESCOPE BY SIAM",zing
-http://172.16.88.70:18190/zing/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mtv" tvg-logo="img/mtv.png" group-title="TELESCOPE BY SIAM",mtv
-http://172.16.88.70:18190/mtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="b4umusic" tvg-logo="img/b4umusic.png" group-title="TELESCOPE BY SIAM",b4umusic
-http://172.16.88.70:18190/b4umusic/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mtvbeats" tvg-logo="img/mtvbeats.png" group-title="TELESCOPE BY SIAM",mtvbeats
-http://172.16.88.70:18190/mtvbeats/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mastiii" tvg-logo="img/mastiii.png" group-title="TELESCOPE BY SIAM",mastiii
-http://172.16.88.70:18190/mastiii/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="hits" tvg-logo="img/hits.png" group-title="TELESCOPE BY SIAM",hits
-http://172.16.88.70:18190/hits/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="vh1" tvg-logo="img/vh1.png" group-title="TELESCOPE BY SIAM",vh1
-http://172.16.88.80:18190/vh1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ndtv24x7" tvg-logo="img/ndtv24x7.png" group-title="TELESCOPE BY SIAM",ndtv24x7
-http://172.16.88.80:18190/ndtv24x7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="bbcnews" tvg-logo="img/bbcnews.png" group-title="TELESCOPE BY SIAM",bbcnews
-http://172.16.88.80:18190/bbcnews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="cnn" tvg-logo="img/cnn.png" group-title="TELESCOPE BY SIAM",cnn
-http://172.16.88.80:18190/cnn/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="peacetv" tvg-logo="img/peacetv.png" group-title="TELESCOPE BY SIAM",peacetv
-http://172.16.88.80:18190/peacetv/index.m3u8
 
+### ASTRO MALAYSIA SPORTS CHANNELS ###
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
+#EXTINF:-1 tvg-id="5058" tvg-name="SPOTV2" tvg-logo="http://linear-poster.astro.com.my/prod/poster/SPOTV_IVP_LAND_288x162.jpg" group-title="Sports" ch-number="824", SPOTV2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
+#EXTINF:-1 tvg-id="2100" tvg-name="EUROSPORT HD" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_288x162.jpg" group-title="Sports" ch-number="825", EUROSPORT HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c
+#EXTINF:-1 tvg-id="5060" tvg-name="W-Sport" tvg-logo="http://linear-poster.astro.com.my/prod/poster/W-Sport_V1_IVP_LAND_288x162.jpg" group-title="Sports" ch-number="826", W-Sport
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0cbc4d3b4fbd9af512acb2488bb42910:30528c4ef882954e5707cd1001d66121
+#EXTINF:-1 tvg-id="2603" tvg-name="WWE NETWORK" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000223_IVP_LAND_288x162.jpg" group-title="Sports" ch-number="830", WWE NETWORK
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
+#EXTINF:-1 tvg-id="1003" tvg-name="GOLF CHANNEL HD" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000215_IVP_LAND_288x162.jpg" group-title="Sports" ch-number="831", GOLF CHANNEL HD
+https://mt30.aa.astro.com.my/default_ott.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+#EXTINF:-1 tvg-id="2504" tvg-name="ASTRO CRICKET" tvg-logo="http://linear-poster.astro.com.my/prod/poster/AstroCricket_2024_IVP_LAND_288x162.jpg" group-title="Sports" ch-number="832", ASTRO CRICKET
+https://mt31.aa.astro.com.my/default_ott.mpd
 
-#EXTINF:-1 group-title="MOVIE DISK",A MOVIE 
-http://192.168.1.102:8000/storage/6E78-EECD/a.mkv
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
+#EXTINF:-1 tvg-id="2601" tvg-name="Premier Sports" tvg-logo="http://linear-poster.astro.com.my/prod/poster/PremierSports_IVP_LAND_288x162.jpg" group-title="Sports" ch-number="833", Premier Sports
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
+
+### SSC SPORTS (BANGLADESH) ###
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport Asia", SSC 1
+https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport Asia", SSC 2
+https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport Asia", SSC 3
+https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport Asia", SSC 4
+https://ssc-4-enc.edgenextcdn.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport Asia", SSC 5
+https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport Asia", SSC Extra 1
+https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport Asia", SSC Extra 2
+https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
+
+### 4K EVENT (SSC 4K) ###
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73efb1eb27294f8ea059765b368f411b:8af553e93bc5b20e828a14a7643e0c59
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport Asia", SSC 4K
+https://4k-event2-new-25fps-enc.edgenextcdn.net/out/v1/c40564684d074b29a21efcf70725df3c/index.mpd
+
+### PREMIERE BRASIL ###
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
+#EXTINF:-1 tvg-name="PREMIERE BRASIL" tvg-logo="" group-title="Sports", PREMIERE BRASIL
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
+#EXTINF:-1 tvg-name="PREMIERE BRASIL 2" tvg-logo="" group-title="Sports", PREMIERE BRASIL 2
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
+#EXTINF:-1 tvg-name="PREMIERE BRASIL 3" tvg-logo="" group-title="Sports", PREMIERE BRASIL 3
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
+#EXTINF:-1 tvg-name="PREMIERE BRASIL 4" tvg-logo="" group-title="Sports", PREMIERE BRASIL 4
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5a3ac0b892bfccdf352b6def9cb2764:ac0936acc0036fad2273efaa42b1fafd
+#EXTINF:-1 tvg-name="PREMIERE BRASIL 5" tvg-logo="" group-title="Sports", PREMIERE BRASIL 5
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95
+#EXTINF:-1 tvg-name="PREMIERE BRASIL 6" tvg-logo="" group-title="Sports", PREMIERE BRASIL 6
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
+#EXTINF:-1 tvg-name="PREMIERE BRASIL 7" tvg-logo="" group-title="Sports", PREMIERE BRASIL 7
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ba384f9d983c731ab1e3702c16e2faf:f28adca4375e8a041fd22aef26440009
+#EXTINF:-1 tvg-name="PREMIERE BRASIL 8" tvg-logo="" group-title="Sports", PREMIERE BRASIL 8
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd
+
+### PEACOCK TV (PREMIER LEAGUE) ###
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Premier League TV
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+### BEIN SPORTS (VISION+) ###
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="Sports", beIN Sports 1
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="beINSports2" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png" group-title="Sports", beIN Sports 2
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="beINSports3" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png" group-title="Sports", beIN Sports 3
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="beINSports4" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png" group-title="Sports", beIN Sports 4
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="beINSports5" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png" group-title="Sports", beIN Sports 5
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
