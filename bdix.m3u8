@@ -340,50 +340,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(universo-
 
 
 
-#EXTM3U
-
-### ASTRO MALAYSIA SPORTS CHANNELS ###
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
-#EXTINF:-1 tvg-id="5058" tvg-name="SPOTV2" tvg-logo="http://linear-poster.astro.com.my/prod/poster/SPOTV_IVP_LAND_288x162.jpg" group-title="Sports" ch-number="824", SPOTV2
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
-#EXTINF:-1 tvg-id="2100" tvg-name="EUROSPORT HD" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_1701_IVP_LAND_288x162.jpg" group-title="Sports" ch-number="825", EUROSPORT HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c
-#EXTINF:-1 tvg-id="5060" tvg-name="W-Sport" tvg-logo="http://linear-poster.astro.com.my/prod/poster/W-Sport_V1_IVP_LAND_288x162.jpg" group-title="Sports" ch-number="826", W-Sport
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0cbc4d3b4fbd9af512acb2488bb42910:30528c4ef882954e5707cd1001d66121
-#EXTINF:-1 tvg-id="2603" tvg-name="WWE NETWORK" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000223_IVP_LAND_288x162.jpg" group-title="Sports" ch-number="830", WWE NETWORK
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
-#EXTINF:-1 tvg-id="1003" tvg-name="GOLF CHANNEL HD" tvg-logo="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000215_IVP_LAND_288x162.jpg" group-title="Sports" ch-number="831", GOLF CHANNEL HD
-https://mt30.aa.astro.com.my/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
-#EXTINF:-1 tvg-id="2504" tvg-name="ASTRO CRICKET" tvg-logo="http://linear-poster.astro.com.my/prod/poster/AstroCricket_2024_IVP_LAND_288x162.jpg" group-title="Sports" ch-number="832", ASTRO CRICKET
-https://mt31.aa.astro.com.my/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
-#EXTINF:-1 tvg-id="2601" tvg-name="Premier Sports" tvg-logo="http://linear-poster.astro.com.my/prod/poster/PremierSports_IVP_LAND_288x162.jpg" group-title="Sports" ch-number="833", Premier Sports
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 
 ### SSC SPORTS (BANGLADESH) ###
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -427,88 +383,10 @@ https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/inde
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport Asia", SSC 4K
 https://4k-event2-new-25fps-enc.edgenextcdn.net/out/v1/c40564684d074b29a21efcf70725df3c/index.mpd
 
-### PREMIERE BRASIL ###
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
-#EXTINF:-1 tvg-name="PREMIERE BRASIL" tvg-logo="" group-title="Sports", PREMIERE BRASIL
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
-#EXTINF:-1 tvg-name="PREMIERE BRASIL 2" tvg-logo="" group-title="Sports", PREMIERE BRASIL 2
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="DRM", ESPN (CLARO VIDEO)
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://clarovideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
-#EXTINF:-1 tvg-name="PREMIERE BRASIL 3" tvg-logo="" group-title="Sports", PREMIERE BRASIL 3
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
-#EXTINF:-1 tvg-name="PREMIERE BRASIL 4" tvg-logo="" group-title="Sports", PREMIERE BRASIL 4
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5a3ac0b892bfccdf352b6def9cb2764:ac0936acc0036fad2273efaa42b1fafd
-#EXTINF:-1 tvg-name="PREMIERE BRASIL 5" tvg-logo="" group-title="Sports", PREMIERE BRASIL 5
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95
-#EXTINF:-1 tvg-name="PREMIERE BRASIL 6" tvg-logo="" group-title="Sports", PREMIERE BRASIL 6
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
-#EXTINF:-1 tvg-name="PREMIERE BRASIL 7" tvg-logo="" group-title="Sports", PREMIERE BRASIL 7
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ba384f9d983c731ab1e3702c16e2faf:f28adca4375e8a041fd22aef26440009
-#EXTINF:-1 tvg-name="PREMIERE BRASIL 8" tvg-logo="" group-title="Sports", PREMIERE BRASIL 8
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd
-
-### PEACOCK TV (PREMIER LEAGUE) ###
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Premier League TV
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-
-### BEIN SPORTS (VISION+) ###
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="Sports", beIN Sports 1
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beINSports2" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png" group-title="Sports", beIN Sports 2
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beINSports3" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png" group-title="Sports", beIN Sports 3
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beINSports4" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png" group-title="Sports", beIN Sports 4
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beINSports5" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png" group-title="Sports", beIN Sports 5
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
+#KODIPROP:inputstream.adaptive.license_key={"0f85a4e1fc5937a827313597d04f8e27":"cc1d8219be0130da85e4c4ce73a75abb"} 
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/channel(ESPN_HD)/master.mpd
