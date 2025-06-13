@@ -471,3 +471,13 @@ https://linear014-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/L
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Peacock.5017822" tvg-name="Peacock Sports" tvg-logo="https://www.peacocktv.com/dam/commerce/assets/nbcuniversal/logos/peacock/peacock-logo-blue.png" group-title="SPORTS | DRM",Peacock Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00228b4d9d940747ff854996e9559511:2d7f23aee65ed14ec80ad7a12069c0dd
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.peacocktv.com/
+https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s-v2/Live/channel(5017822-719453-4904d8a6ddd)/master.mpd
+
