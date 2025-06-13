@@ -480,3 +480,33 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/o
 #KODIPROP:inputstream.adaptive.license_key=00228b4d9d940747ff854996e9559511:2d7f23aee65ed14ec80ad7a12069c0dd
 https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s-v2/Live/channel(5017822-719453-4904d8a6ddd)/master.mpd
 
+
+
+#EXTINF:-1 tvg-id="Bein1.my" tvg-name="BeIN Sports 1" tvg-logo="https://i.imgur.com/bein1.png" group-title="SPORTS | ASTRO",BeIN Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
+https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
+
+#EXTINF:-1 tvg-id="Bein2.my" tvg-name="BeIN Sports 2" tvg-logo="https://i.imgur.com/bein2.png" group-title="SPORTS | ASTRO",BeIN Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
+
+#EXTINF:-1 tvg-id="Bein3.my" tvg-name="BeIN Sports 3" tvg-logo="https://i.imgur.com/bein3.png" group-title="SPORTS | ASTRO",BeIN Sports 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
+
+#EXTINF:-1 tvg-id="Bein4.my" tvg-name="BeIN Sports 4" tvg-logo="https://i.imgur.com/bein4.png" group-title="SPORTS | ASTRO",BeIN Sports 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34b831a974501d106f6545e9f93de010:c31ef8e8ac1139b985ac3673002b7014
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_ott.mpd
+
