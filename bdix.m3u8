@@ -385,8 +385,11 @@ https://4k-event2-new-25fps-enc.edgenextcdn.net/out/v1/c40564684d074b29a21efcf70
 
 
 
-#EXTINF:-1 tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="DRM", ESPN (CLARO VIDEO)
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://clarovideo.com/
+#EXTM3U
+#EXTINF:-1 tvg-id="ESPN.claro" tvg-name="ESPN (Claro Video)" tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="Sports | DRM", ESPN (Claro Video)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0f85a4e1fc5937a827313597d04f8e27":"cc1d8219be0130da85e4c4ce73a75abb"} 
+#KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://clarovideo.com/
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/channel(ESPN_HD)/master.mpd
