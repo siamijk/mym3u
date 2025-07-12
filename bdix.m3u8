@@ -786,3 +786,39 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=34b831a974501d106f6545e9f93de010:c31ef8e8ac1139b985ac3673002b7014
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_ott.mpd
 
+
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Star Jalsha HD" group-title="Bangla",Star Jalsha HD
+#EXTVLCOPT:http-user-agent=@xfireflixbd
+https://rex-streaming.vercel.app/api/BDIX/245898.m3u8
+
+#EXTINF:-1 tvg-name="Zee Bangla HD" group-title="Bangla",Zee Bangla HD
+#EXTVLCOPT:http-user-agent=@xfireflixbd
+https://rex-streaming.vercel.app/api/BDIX/245893.m3u8
+
+#EXTINF:-1 tvg-name="Colors Bangla" group-title="Bangla",Colors Bangla
+#EXTVLCOPT:http-user-agent=@xfireflixbd
+https://rex-streaming.vercel.app/api/BDIX/245895.m3u8
+
+#EXTINF:-1 tvg-name="Zee Bangla Cinema" group-title="Bangla",Zee Bangla Cinema
+#EXTVLCOPT:http-user-agent=@xfireflixbd
+https://rex-streaming.vercel.app/api/BDIX/245897.m3u8
+
+#EXTINF:-1 tvg-name="Jalsha Movies HD" group-title="Bangla",Jalsha Movies HD
+#EXTVLCOPT:http-user-agent=@xfireflixbd
+https://rex-streaming.vercel.app/api/BDIX/245900.m3u8
+
+#EXTINF:-1 tvg-name="Nat GEO Bangla" group-title="Bangla",Nat GEO Bangla
+#EXTVLCOPT:http-user-agent=@xfireflixbdmain
+https://rex-streaming.vercel.app/api/BDIX/245967.m3u8
+
+#EXTINF:-1 tvg-name="Sony Aath" group-title="Bangla",Sony Aath
+#EXTVLCOPT:http-user-agent=@xfireflixbd
+https://rex-streaming.vercel.app/api/BDIX/245989.m3u8
+
+#EXTINF:-1 tvg-name="Sun Bangla" group-title="Bangla",Sun Bangla
+#EXTVLCOPT:http-user-agent=@xfireflixbd
+https://rex-streaming.vercel.app/api/BDIX/245906.m3u8
