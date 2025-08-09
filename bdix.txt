@@ -1,0 +1,760 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="0f1d87055e" tvg-name="Nagorik" tvg-genre="CloudTV" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/nagorik.png" tvg-chno="" group-title="CloudTV",Nagorik
+http://172.19.178.180/servers-stailer/29srv.php?stream=CLOUD-TV-06&format=m3u8
+#EXTINF:-1 tvg-id="de99dd54ef" tvg-name="Nagorik" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/nagorik.png" tvg-chno="" group-title="Bangladeshi",Nagorik
+http://172.19.178.180/servers-stailer/39srv.php?stream=nagorik&format=m3u8
+#EXTINF:-1 tvg-id="3d9b9d5d65" tvg-name="Golf" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/golf.png" tvg-chno="" group-title="Sports",Golf
+http://172.19.178.180/servers-stailer/49srv.php?stream=golf&format=m3u8
+#EXTINF:-1 tvg-id="076a1bd926" tvg-name="Zee Bangla" tvg-genre="Indian Bangla" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/zeebangla.png" tvg-chno="" group-title="Indian Bangla",Zee Bangla
+http://172.19.178.180/servers-stailer/59srv.php?stream=zeebangla&format=m3u8
+#EXTINF:-1 tvg-id="cf2dea856c" tvg-name="Ten Cricket" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/tencricket.png" tvg-chno="" group-title="Sports",Ten Cricket
+http://172.19.178.180/servers-stailer/49srv.php?stream=tencricket&format=m3u8
+#EXTINF:-1 tvg-id="815ec1b4ae" tvg-name="Eurosport" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/eurosport.png" tvg-chno="" group-title="Sports",Eurosport
+http://172.19.178.180/servers-stailer/49srv.php?stream=eurosport&format=m3u8
+#EXTINF:-1 tvg-id="17aaa20388" tvg-name="TSN" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/tsn.png" tvg-chno="" group-title="Sports",TSN
+http://172.19.178.180/servers-stailer/49srv.php?stream=tsn&format=m3u8
+#EXTINF:-1 tvg-id="6d471c117c" tvg-name="ESPN" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/espn.png" tvg-chno="" group-title="Sports",ESPN
+http://172.19.178.180/servers-stailer/49srv.php?stream=espn&format=m3u8
+#EXTINF:-1 tvg-id="0461f9da9e" tvg-name="TNT Sports" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/tntsports.png" tvg-chno="" group-title="Sports",TNT Sports
+http://172.19.178.180/servers-stailer/49srv.php?stream=tntsports&format=m3u8
+#EXTINF:-1 tvg-id="cbdfd1780b" tvg-name="FOX Sports" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/foxsports.png" tvg-chno="" group-title="Sports",FOX Sports
+http://172.19.178.180/servers-stailer/49srv.php?stream=foxsports&format=m3u8
+#EXTINF:-1 tvg-id="3f2f2fc56e" tvg-name="PTV Sports" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/ptvsports.png" tvg-chno="" group-title="Sports",PTV Sports
+http://172.19.178.180/servers-stailer/49srv.php?stream=ptvsports&format=m3u8
+#EXTINF:-1 tvg-id="0b5cb0a16f" tvg-name="A Sports" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/asports.png" tvg-chno="" group-title="Sports",A Sports
+http://172.19.178.180/servers-stailer/49srv.php?stream=asports&format=m3u8
+#EXTINF:-1 tvg-id="d5fa3ec91a" tvg-name="Sony Sports Ten 5" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/sonysportsten5.png" tvg-chno="" group-title="Sports",Sony Sports Ten 5
+http://172.19.178.180/servers-stailer/49srv.php?stream=sonysportsten5&format=m3u8
+#EXTINF:-1 tvg-id="54be7be9cf" tvg-name="Sony Sports Ten 4" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/sonysportsten4.png" tvg-chno="" group-title="Sports",Sony Sports Ten 4
+http://172.19.178.180/servers-stailer/49srv.php?stream=sonysportsten4&format=m3u8
+#EXTINF:-1 tvg-id="6663f06ab7" tvg-name="Sony Sports Ten 3" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/sonysportsten3.png" tvg-chno="" group-title="Sports",Sony Sports Ten 3
+http://172.19.178.180/servers-stailer/49srv.php?stream=sonysportsten3&format=m3u8
+#EXTINF:-1 tvg-id="ad46488887" tvg-name="Sony Sports Ten 2" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/sonysportsten2.png" tvg-chno="" group-title="Sports",Sony Sports Ten 2
+http://172.19.178.180/servers-stailer/49srv.php?stream=sonysportsten2&format=m3u8
+#EXTINF:-1 tvg-id="eb64e420e6" tvg-name="Sony Sports Ten 1" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/sonysportsten1.png" tvg-chno="" group-title="Sports",Sony Sports Ten 1
+http://172.19.178.180/servers-stailer/49srv.php?stream=sonysportsten1&format=m3u8
+#EXTINF:-1 tvg-id="4cf2c70693" tvg-name="Star Sports Select 2" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/starsportsselect2.png" tvg-chno="" group-title="Sports",Star Sports Select 2
+http://172.19.178.180/servers-stailer/49srv.php?stream=starsportsselect2&format=m3u8
+#EXTINF:-1 tvg-id="323a4b741a" tvg-name="Star Sports Select 1" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/starsportsselect1.png" tvg-chno="" group-title="Sports",Star Sports Select 1
+http://172.19.178.180/servers-stailer/49srv.php?stream=starsportsselect1&format=m3u8
+#EXTINF:-1 tvg-id="c19ed3fedc" tvg-name="Star Sports 3" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/starsports3.png" tvg-chno="" group-title="Sports",Star Sports 3
+http://172.19.178.180/servers-stailer/49srv.php?stream=starsports3&format=m3u8
+#EXTINF:-1 tvg-id="2aec5e7bcc" tvg-name="Star Sports 2" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/starsports2.png" tvg-chno="" group-title="Sports",Star Sports 2
+http://172.19.178.180/servers-stailer/49srv.php?stream=starsports2&format=m3u8
+#EXTINF:-1 tvg-id="3e68aa72d9" tvg-name="Star Sports 1" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/starsports1.png" tvg-chno="" group-title="Sports",Star Sports 1
+http://172.19.178.180/servers-stailer/49srv.php?stream=starsports1&format=m3u8
+#EXTINF:-1 tvg-id="e3518a6d58" tvg-name="T Sports" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/tsports.png" tvg-chno="" group-title="Sports",T Sports
+http://172.19.178.180/servers-stailer/49srv.php?stream=tsports&format=m3u8
+#EXTINF:-1 tvg-id="c71cc5c044" tvg-name="Deutsche Welle" tvg-genre="News" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/deutschewelle.png" tvg-chno="" group-title="News",Deutsche Welle
+http://172.19.178.180/servers-stailer/144srv.php?stream=deutschewelle&format=m3u8
+#EXTINF:-1 tvg-id="e81fe97fd6" tvg-name="NHK World Japan" tvg-genre="News" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/nhkworldjapan.png" tvg-chno="" group-title="News",NHK World Japan
+http://172.19.178.180/servers-stailer/144srv.php?stream=nhkworldjapan&format=m3u8
+#EXTINF:-1 tvg-id="403ef672b7" tvg-name="CNN" tvg-genre="News" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/cnn.png" tvg-chno="" group-title="News",CNN
+http://172.19.178.180/servers-stailer/144srv.php?stream=cnn&format=m3u8
+#EXTINF:-1 tvg-id="a24cce3c41" tvg-name="CGTN" tvg-genre="News" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/cgtn.png" tvg-chno="" group-title="News",CGTN
+http://172.19.178.180/servers-stailer/144srv.php?stream=cgtn&format=m3u8
+#EXTINF:-1 tvg-id="84da90f199" tvg-name="9x Jalwa" tvg-genre="Music" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/9xjalwa.png" tvg-chno="" group-title="Music",9x Jalwa
+http://172.19.178.180/servers-stailer/146srv.php?stream=9xjalwa&format=m3u8
+#EXTINF:-1 tvg-id="99b64f0dc2" tvg-name="B4U Music" tvg-genre="Music" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/b4umusic.png" tvg-chno="" group-title="Music",B4U Music
+http://172.19.178.180/servers-stailer/146srv.php?stream=b4umusic&format=m3u8
+#EXTINF:-1 tvg-id="c7bfb34ce0" tvg-name="Saudi Quran TV" tvg-genre="Music" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/saudiqurantv.png" tvg-chno="" group-title="Music",Saudi Quran TV
+http://172.19.178.180/servers-stailer/146srv.php?stream=saudiqurantv&format=m3u8
+#EXTINF:-1 tvg-id="bd1f93e8b4" tvg-name="Sony YAY!" tvg-genre="Kids" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/sonyyay.png" tvg-chno="" group-title="Kids",Sony YAY!
+http://172.19.178.180/servers-stailer/143srv.php?stream=sonyyay&format=m3u8
+#EXTINF:-1 tvg-id="9899a60f4c" tvg-name="Discovery Kids" tvg-genre="Kids" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/discoverykids.png" tvg-chno="" group-title="Kids",Discovery Kids
+http://172.19.178.180/servers-stailer/143srv.php?stream=discoverykids&format=m3u8
+#EXTINF:-1 tvg-id="45953d1f3e" tvg-name="Pogo" tvg-genre="Kids" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/pogo.png" tvg-chno="" group-title="Kids",Pogo
+http://172.19.178.180/servers-stailer/143srv.php?stream=pogo&format=m3u8
+#EXTINF:-1 tvg-id="187c815767" tvg-name="Cartoon Network HD+" tvg-genre="Kids" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/cartoonnetworkhdplus.png" tvg-chno="" group-title="Kids",Cartoon Network HD+
+http://172.19.178.180/servers-stailer/143srv.php?stream=cartoonnetworkhdplus&format=m3u8
+#EXTINF:-1 tvg-id="4b61bea386" tvg-name="Cartoon Network" tvg-genre="Kids" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/cartoonnetwork.png" tvg-chno="" group-title="Kids",Cartoon Network
+http://172.19.178.180/servers-stailer/143srv.php?stream=cartoonnetwork&format=m3u8
+#EXTINF:-1 tvg-id="de5b200245" tvg-name="Nick Jr." tvg-genre="Kids" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/nickjr.png" tvg-chno="" group-title="Kids",Nick Jr.
+http://172.19.178.180/servers-stailer/143srv.php?stream=nickjr&format=m3u8
+#EXTINF:-1 tvg-id="a91d72b969" tvg-name="Hungama" tvg-genre="Kids" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/hungama.png" tvg-chno="" group-title="Kids",Hungama
+http://172.19.178.180/servers-stailer/143srv.php?stream=hungama&format=m3u8
+#EXTINF:-1 tvg-id="f8419ddf6e" tvg-name="CBeebies BBC" tvg-genre="Kids" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/cbeebiesbbc.png" tvg-chno="" group-title="Kids",CBeebies BBC
+http://172.19.178.180/servers-stailer/143srv.php?stream=cbeebiesbbc&format=m3u8
+#EXTINF:-1 tvg-id="fda663689e" tvg-name="Investigation Discovery" tvg-genre="Infotainment" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/investigationdiscovery.png" tvg-chno="" group-title="Infotainment",Investigation Discovery
+http://172.19.178.180/servers-stailer/142srv.php?stream=investigationdiscovery&format=m3u8
+#EXTINF:-1 tvg-id="7a88238a19" tvg-name="Discovery Turbo" tvg-genre="Infotainment" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/discoveryturbo.png" tvg-chno="" group-title="Infotainment",Discovery Turbo
+http://172.19.178.180/servers-stailer/142srv.php?stream=discoveryturbo&format=m3u8
+#EXTINF:-1 tvg-id="401bc35943" tvg-name="Discovery Science" tvg-genre="Infotainment" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/discoveryscience.png" tvg-chno="" group-title="Infotainment",Discovery Science
+http://172.19.178.180/servers-stailer/142srv.php?stream=discoveryscience&format=m3u8
+#EXTINF:-1 tvg-id="d3e0bf7ee9" tvg-name="Sony BBC Earth" tvg-genre="Infotainment" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/sonybbcearth.png" tvg-chno="" group-title="Infotainment",Sony BBC Earth
+http://172.19.178.180/servers-stailer/142srv.php?stream=sonybbcearth&format=m3u8
+#EXTINF:-1 tvg-id="1c727fd4eb" tvg-name="Animal Planet" tvg-genre="Infotainment" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/animalplanet.png" tvg-chno="" group-title="Infotainment",Animal Planet
+http://172.19.178.180/servers-stailer/142srv.php?stream=animalplanet&format=m3u8
+#EXTINF:-1 tvg-id="4e18f445c4" tvg-name="TLC" tvg-genre="Infotainment" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/tlc.png" tvg-chno="" group-title="Infotainment",TLC
+http://172.19.178.180/servers-stailer/142srv.php?stream=tlc&format=m3u8
+#EXTINF:-1 tvg-id="46f306eb78" tvg-name="Nat Geo Wild" tvg-genre="Infotainment" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/natgeowild.png" tvg-chno="" group-title="Infotainment",Nat Geo Wild
+http://172.19.178.180/servers-stailer/142srv.php?stream=natgeowild&format=m3u8
+#EXTINF:-1 tvg-id="64c4cb8e84" tvg-name="Discovery Channel" tvg-genre="Infotainment" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/discovery.png" tvg-chno="" group-title="Infotainment",Discovery Channel
+http://172.19.178.180/servers-stailer/142srv.php?stream=discovery&format=m3u8
+#EXTINF:-1 tvg-id="862d2cc7c3" tvg-name="BBC Lifestyle" tvg-genre="Infotainment" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/bbclifestyle.png" tvg-chno="" group-title="Infotainment",BBC Lifestyle
+http://172.19.178.180/servers-stailer/142srv.php?stream=bbclifestyle&format=m3u8
+#EXTINF:-1 tvg-id="e64c339cc5" tvg-name="Zee Bangla Cinema" tvg-genre="Indian Bangla" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/zeebanglacinema.png" tvg-chno="" group-title="Indian Bangla",Zee Bangla Cinema
+http://172.19.178.180/servers-stailer/59srv.php?stream=zeebanglacinema&format=m3u8
+#EXTINF:-1 tvg-id="263a6eca01" tvg-name="Jalsha Movies" tvg-genre="Indian Bangla" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/jalshamovies.png" tvg-chno="" group-title="Indian Bangla",Jalsha Movies
+http://172.19.178.180/servers-stailer/59srv.php?stream=jalshamovies&format=m3u8
+#EXTINF:-1 tvg-id="3e33276695" tvg-name="Colors Bangla" tvg-genre="Indian Bangla" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/colorsbangla.png" tvg-chno="" group-title="Indian Bangla",Colors Bangla
+http://172.19.178.180/servers-stailer/59srv.php?stream=colorsbangla&format=m3u8
+#EXTINF:-1 tvg-id="48e9ff0018" tvg-name="Sony Aath" tvg-genre="Indian Bangla" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/sonyaath.png" tvg-chno="" group-title="Indian Bangla",Sony Aath
+http://172.19.178.180/servers-stailer/59srv.php?stream=sonyaath&format=m3u8
+#EXTINF:-1 tvg-id="f3cc5925df" tvg-name="Fast Sports" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/fastsports.png" tvg-chno="" group-title="Sports",Fast Sports
+http://172.19.178.180/servers-stailer/49srv.php?stream=fastsports&format=m3u8
+#EXTINF:-1 tvg-id="1e73a6214b" tvg-name="Star Jalsha" tvg-genre="Indian Bangla" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/starjalsha.png" tvg-chno="" group-title="Indian Bangla",Star Jalsha
+http://172.19.178.180/servers-stailer/59srv.php?stream=starjalsha&format=m3u8
+#EXTINF:-1 tvg-id="9a85dbe2ac" tvg-name="Sony Max 2" tvg-genre="Hindi" tvg-language="Hindi" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/sonymax2.png" tvg-chno="" group-title="Hindi",Sony Max 2
+http://172.19.178.180/servers-stailer/147srv.php?stream=sonymax2&format=m3u8
+#EXTINF:-1 tvg-id="d571f7463a" tvg-name="B4U Movies" tvg-genre="Hindi" tvg-language="Hindi" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/b4umovies.png" tvg-chno="" group-title="Hindi",B4U Movies
+http://172.19.178.180/servers-stailer/147srv.php?stream=b4umovies&format=m3u8
+#EXTINF:-1 tvg-id="1a5cff9001" tvg-name="Sony SAB" tvg-genre="Hindi" tvg-language="Hindi" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/sonysab.png" tvg-chno="" group-title="Hindi",Sony SAB
+http://172.19.178.180/servers-stailer/147srv.php?stream=sonysab&format=m3u8
+#EXTINF:-1 tvg-id="750a16da73" tvg-name="& Pictures" tvg-genre="Hindi" tvg-language="Hindi" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/andpictures.png" tvg-chno="" group-title="Hindi",& Pictures
+http://172.19.178.180/servers-stailer/147srv.php?stream=andpictures&format=m3u8
+#EXTINF:-1 tvg-id="e592d3d5e3" tvg-name="Sony Max" tvg-genre="Hindi" tvg-language="Hindi" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/sonymax.png" tvg-chno="" group-title="Hindi",Sony Max
+http://172.19.178.180/servers-stailer/147srv.php?stream=sonymax&format=m3u8
+#EXTINF:-1 tvg-id="e4d8bdc1f6" tvg-name="Zee Cinema" tvg-genre="Hindi" tvg-language="Hindi" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/zeecinema.png" tvg-chno="" group-title="Hindi",Zee Cinema
+http://172.19.178.180/servers-stailer/147srv.php?stream=zeecinema&format=m3u8
+#EXTINF:-1 tvg-id="f125ee7527" tvg-name="Star Gold" tvg-genre="Hindi" tvg-language="Hindi" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/stargold.png" tvg-chno="" group-title="Hindi",Star Gold
+http://172.19.178.180/servers-stailer/147srv.php?stream=stargold&format=m3u8
+#EXTINF:-1 tvg-id="d05573cc08" tvg-name="& TV" tvg-genre="Hindi" tvg-language="Hindi" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/andtv.png" tvg-chno="" group-title="Hindi",& TV
+http://172.19.178.180/servers-stailer/147srv.php?stream=andtv&format=m3u8
+#EXTINF:-1 tvg-id="f24f77707d" tvg-name="Colors" tvg-genre="Hindi" tvg-language="Hindi" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/colors.png" tvg-chno="" group-title="Hindi",Colors
+http://172.19.178.180/servers-stailer/147srv.php?stream=colors&format=m3u8
+#EXTINF:-1 tvg-id="be0f934f57" tvg-name="Sony Entertainment Television" tvg-genre="Hindi" tvg-language="Hindi" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/sonyentertainmenttelevision.png" tvg-chno="" group-title="Hindi",Sony Entertainment Television
+http://172.19.178.180/servers-stailer/147srv.php?stream=sonyentertainmenttelevision&format=m3u8
+#EXTINF:-1 tvg-id="236ac77b9c" tvg-name="Zee TV" tvg-genre="Hindi" tvg-language="Hindi" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/zeetv.png" tvg-chno="" group-title="Hindi",Zee TV
+http://172.19.178.180/servers-stailer/147srv.php?stream=zeetv&format=m3u8
+#EXTINF:-1 tvg-id="332f5f0624" tvg-name="Star Plus" tvg-genre="Hindi" tvg-language="Hindi" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/starplus.png" tvg-chno="" group-title="Hindi",Star Plus
+http://172.19.178.180/servers-stailer/147srv.php?stream=starplus&format=m3u8
+#EXTINF:-1 tvg-id="2d983969cb" tvg-name="Hum Sitaray" tvg-genre="Foreign" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/humsitaray.png" tvg-chno="" group-title="Foreign",Hum Sitaray
+http://172.19.178.180/servers-stailer/141srv.php?stream=humsitaray&format=m3u8
+#EXTINF:-1 tvg-id="87e9679644" tvg-name="Hum Masala" tvg-genre="Foreign" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/hummasala.png" tvg-chno="" group-title="Foreign",Hum Masala
+http://172.19.178.180/servers-stailer/141srv.php?stream=hummasala&format=m3u8
+#EXTINF:-1 tvg-id="806dc2cf58" tvg-name="Hum TV" tvg-genre="Foreign" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/humtv.png" tvg-chno="" group-title="Foreign",Hum TV
+http://172.19.178.180/servers-stailer/141srv.php?stream=humtv&format=m3u8
+#EXTINF:-1 tvg-id="490a6e0b16" tvg-name="Lotus Macau" tvg-genre="Foreign" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/lotusmacau.png" tvg-chno="" group-title="Foreign",Lotus Macau
+http://172.19.178.180/servers-stailer/141srv.php?stream=lotusmacau&format=m3u8
+#EXTINF:-1 tvg-id="e8a3e9a9c0" tvg-name="Arirang" tvg-genre="Foreign" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/arirang.png" tvg-chno="" group-title="Foreign",Arirang
+http://172.19.178.180/servers-stailer/141srv.php?stream=arirang&format=m3u8
+#EXTINF:-1 tvg-id="8e49b8c86c" tvg-name="Sony Pix" tvg-genre="English" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/sonypix.png" tvg-chno="" group-title="English",Sony Pix
+http://172.19.178.180/servers-stailer/145srv.php?stream=sonypix&format=m3u8
+#EXTINF:-1 tvg-id="b6369e0631" tvg-name="Star Movies" tvg-genre="English" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/starmovies.png" tvg-chno="" group-title="English",Star Movies
+http://172.19.178.180/servers-stailer/145srv.php?stream=starmovies&format=m3u8
+#EXTINF:-1 tvg-id="2f8743edbc" tvg-name="FOX Action Movies" tvg-genre="English" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/foxactionmovies.png" tvg-chno="" group-title="English",FOX Action Movies
+http://172.19.178.180/servers-stailer/145srv.php?stream=foxactionmovies&format=m3u8
+#EXTINF:-1 tvg-id="979ea34bc9" tvg-name="Star Sports 1" tvg-genre="CloudTV" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/starsports1.png" tvg-chno="" group-title="CloudTV",Star Sports 1
+http://172.19.178.180/servers-stailer/29srv.php?stream=CLOUD-TV-05&format=m3u8
+#EXTINF:-1 tvg-id="83c086d70b" tvg-name="Sony Sports Ten 5" tvg-genre="CloudTV" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/sonysportsten5.png" tvg-chno="" group-title="CloudTV",Sony Sports Ten 5
+http://172.19.178.180/servers-stailer/29srv.php?stream=CLOUD-TV-04&format=m3u8
+#EXTINF:-1 tvg-id="477b9b6dea" tvg-name="T Sports" tvg-genre="CloudTV" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/tsports.png" tvg-chno="" group-title="CloudTV",T Sports
+http://172.19.178.180/servers-stailer/29srv.php?stream=CLOUD-TV-03&format=m3u8
+#EXTINF:-1 tvg-id="e763ca3f98" tvg-name="Willow 2" tvg-genre="CloudTV" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/willow2.png" tvg-chno="" group-title="CloudTV",Willow 2
+http://172.19.178.180/servers-stailer/29srv.php?stream=CLOUD-TV-02&format=m3u8
+#EXTINF:-1 tvg-id="22b536a55b" tvg-name="A Sports" tvg-genre="CloudTV" tvg-language="English" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/asports.png" tvg-chno="" group-title="CloudTV",A Sports
+http://172.19.178.180/servers-stailer/29srv.php?stream=CLOUD-TV-01&format=m3u8
+#EXTINF:-1 tvg-id="7ac1debcf1" tvg-name="BTV" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/btv.png" tvg-chno="" group-title="Bangladeshi",BTV
+http://172.19.178.180/servers-stailer/39srv.php?stream=btv&format=m3u8
+#EXTINF:-1 tvg-id="ddd5e6d766" tvg-name="Movie Bangla" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/moviebangla.png" tvg-chno="" group-title="Bangladeshi",Movie Bangla
+http://172.19.178.180/servers-stailer/39srv.php?stream=moviebangla&format=m3u8
+#EXTINF:-1 tvg-id="77f144c921" tvg-name="ATN News" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/atnnews.png" tvg-chno="" group-title="Bangladeshi",ATN News
+http://172.19.178.180/servers-stailer/39srv.php?stream=atnnews&format=m3u8
+#EXTINF:-1 tvg-id="fa5aa31aed" tvg-name="Ananda TV" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/anandatv.png" tvg-chno="" group-title="Bangladeshi",Ananda TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=anandatv&format=m3u8
+#EXTINF:-1 tvg-id="fd394c8a48" tvg-name="My TV" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/mytv.png" tvg-chno="" group-title="Bangladeshi",My TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=mytv&format=m3u8
+#EXTINF:-1 tvg-id="2ed981e486" tvg-name="Global Television" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/globaltelevision.png" tvg-chno="" group-title="Bangladeshi",Global Television
+http://172.19.178.180/servers-stailer/39srv.php?stream=globaltelevision&format=m3u8
+#EXTINF:-1 tvg-id="159b9ee724" tvg-name="Mohona TV" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/mohonatv.png" tvg-chno="" group-title="Bangladeshi",Mohona TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=mohonatv&format=m3u8
+#EXTINF:-1 tvg-id="79027da43c" tvg-name="71 TV" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/71.png" tvg-chno="" group-title="Bangladeshi",71 TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=71&format=m3u8
+#EXTINF:-1 tvg-id="742fbbef5c" tvg-name="Ekhon TV" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/ekhon.png" tvg-chno="" group-title="Bangladeshi",Ekhon TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=ekhon&format=m3u8
+#EXTINF:-1 tvg-id="a36f9806ec" tvg-name="DBC News" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/dbc.png" tvg-chno="" group-title="Bangladeshi",DBC News
+http://172.19.178.180/servers-stailer/39srv.php?stream=dbc&format=m3u8
+#EXTINF:-1 tvg-id="d0cee41322" tvg-name="SA TV" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/satv.png" tvg-chno="" group-title="Bangladeshi",SA TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=satv&format=m3u8
+#EXTINF:-1 tvg-id="2832076fc6" tvg-name="Asian TV" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/asian.png" tvg-chno="" group-title="Bangladeshi",Asian TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=asian&format=m3u8
+#EXTINF:-1 tvg-id="53c3746d13" tvg-name="Channel 24" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/channel24.png" tvg-chno="" group-title="Bangladeshi",Channel 24
+http://172.19.178.180/servers-stailer/39srv.php?stream=channel24&format=m3u8
+#EXTINF:-1 tvg-id="099dde139d" tvg-name="Boishakhi TV" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/boishakhitv.png" tvg-chno="" group-title="Bangladeshi",Boishakhi TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=boishakhitv&format=m3u8
+#EXTINF:-1 tvg-id="f07da6392c" tvg-name="ATN Bangla" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/atnbangla.png" tvg-chno="" group-title="Bangladeshi",ATN Bangla
+http://172.19.178.180/servers-stailer/39srv.php?stream=atnbangla&format=m3u8
+#EXTINF:-1 tvg-id="9c236b1657" tvg-name="NTV" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/ntv.png" tvg-chno="" group-title="Bangladeshi",NTV
+http://172.19.178.180/servers-stailer/39srv.php?stream=ntv&format=m3u8
+#EXTINF:-1 tvg-id="09b7fc444f" tvg-name="RTV" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/rtv.png" tvg-chno="" group-title="Bangladeshi",RTV
+http://172.19.178.180/servers-stailer/39srv.php?stream=rtv&format=m3u8
+#EXTINF:-1 tvg-id="c84c70bd19" tvg-name="Nexus Television" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/nexustelevision.png" tvg-chno="" group-title="Bangladeshi",Nexus Television
+http://172.19.178.180/servers-stailer/39srv.php?stream=nexustelevision&format=m3u8
+#EXTINF:-1 tvg-id="be58592396" tvg-name="News 24" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/news24.png" tvg-chno="" group-title="Bangladeshi",News 24
+http://172.19.178.180/servers-stailer/39srv.php?stream=news24&format=m3u8
+#EXTINF:-1 tvg-id="4ae87cb156" tvg-name="Independent TV" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/independent.png" tvg-chno="" group-title="Bangladeshi",Independent TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=independent&format=m3u8
+#EXTINF:-1 tvg-id="0d066ff610" tvg-name="Ekushey TV" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/ekusheytv.png" tvg-chno="" group-title="Bangladeshi",Ekushey TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=ekusheytv&format=m3u8
+#EXTINF:-1 tvg-id="371405f842" tvg-name="Duronto TV" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/duronto.png" tvg-chno="" group-title="Bangladeshi",Duronto TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=duronto&format=m3u8
+#EXTINF:-1 tvg-id="685eb3f48d" tvg-name="Desh TV" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/deshtv.png" tvg-chno="" group-title="Bangladeshi",Desh TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=deshtv&format=m3u8
+#EXTINF:-1 tvg-id="41296afa92" tvg-name="Deepto TV" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/deepto.png" tvg-chno="" group-title="Bangladeshi",Deepto TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=deepto&format=m3u8
+#EXTINF:-1 tvg-id="0cd32b7db7" tvg-name="Channel 9" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/channel9.png" tvg-chno="" group-title="Bangladeshi",Channel 9
+http://172.19.178.180/servers-stailer/39srv.php?stream=channel9&format=m3u8
+#EXTINF:-1 tvg-id="bc6f913388" tvg-name="Bijoy TV" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/bijoytv.png" tvg-chno="" group-title="Bangladeshi",Bijoy TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=bijoytv&format=m3u8
+#EXTINF:-1 tvg-id="5cb3eab654" tvg-name="Bangla Vision" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/banglavision.png" tvg-chno="" group-title="Bangladeshi",Bangla Vision
+http://172.19.178.180/servers-stailer/39srv.php?stream=banglavision&format=m3u8
+#EXTINF:-1 tvg-id="d84fbe904f" tvg-name="Bangla TV" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/banglatv.png" tvg-chno="" group-title="Bangladeshi",Bangla TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=banglatv&format=m3u8
+#EXTINF:-1 tvg-id="3b46bf789f" tvg-name="Channel I" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/channeli.png" tvg-chno="" group-title="Bangladeshi",Channel I
+http://172.19.178.180/servers-stailer/39srv.php?stream=channeli&format=m3u8
+#EXTINF:-1 tvg-id="82cd60cbbc" tvg-name="Somoy TV" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/somoytv.png" tvg-chno="" group-title="Bangladeshi",Somoy TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=somoytv&format=m3u8
+#EXTINF:-1 tvg-id="c417650774" tvg-name="Jamuna TV" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/jamunatv.png" tvg-chno="" group-title="Bangladeshi",Jamuna TV
+http://172.19.178.180/servers-stailer/39srv.php?stream=jamunatv&format=m3u8
+#EXTINF:-1 tvg-id="12263631c5" tvg-name="Maasranga" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/maasranga.png" tvg-chno="" group-title="Bangladeshi",Maasranga
+http://172.19.178.180/servers-stailer/39srv.php?stream=maasranga&format=m3u8
+#EXTINF:-1 tvg-id="9b5798d761" tvg-name="GTV" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/gtv.png" tvg-chno="" group-title="Bangladeshi",GTV
+http://172.19.178.180/servers-stailer/39srv.php?stream=gtv&format=m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+
+#EXTINF:-1 group-title="Tamil",Sun TV
+http://000.hfr1107.top/tv/smt.php?id=Suntv
+#EXTINF:-1 group-title="Tamil",Sun TV India
+http://000.hfr1107.top/tv/smt.php?id=suntv_raj
+#EXTINF:-1 group-title="Tamil",Star Vijay
+http://000.hfr1107.top/tv/smt.php?id=Starvijay
+#EXTINF:-1 group-title="Tamil",Vijay Super
+http://000.hfr1107.top/tv/smt.php?id=vijaysuper_raj
+#EXTINF:-1 group-title="Tamil",Colors Tamil
+http://000.hfr1107.top/tv/smt.php?id=Colorstam_mega
+#EXTINF:-1 group-title="Tamil",Zee Tamil
+http://000.hfr1107.top/tv/smt.php?id=Zeetamil
+#EXTINF:-1 group-title="Tamil",Adithya
+http://000.hfr1107.top/tv/smt.php?id=Adithya
+#EXTINF:-1 group-title="Tamil",Makkal TV
+http://000.hfr1107.top/tv/smt.php?id=Makkaltv
+#EXTINF:-1 group-title="Tamil",News 18 Tamil
+http://000.hfr1107.top/tv/smt.php?id=news18tamil_raj
+
+#EXTINF:-1 group-title="Tamil Music",Sun Music
+http://000.hfr1107.top/tv/smt.php?id=Sunmusic
+#EXTINF:-1 group-title="Tamil Music",Astro Sunmusic
+http://000.hfr1107.top/tv/smt.php?id=Sunmusic
+#EXTINF:-1 group-title="Tamil Music",Astro KTV
+http://000.hfr1107.top/tv/smt.php?id=Astroktv
+
+#EXTINF:-1 group-title="Tamil Astro",Astro Sunlife
+http://000.hfr1107.top/tv/smt.php?id=Sunlife
+#EXTINF:-1 group-title="Tamil Astro",Astro Vaanavil
+http://000.hfr1107.top/tv/smt.php?id=Vaanavil
+#EXTINF:-1 group-title="Tamil Astro",Astro Vellithirai
+http://000.hfr1107.top/tv/smt.php?id=Vellithirai
+#EXTINF:-1 group-title="Tamil Astro",Astro Thangathirai
+http://000.hfr1107.top/tv/smt.php?id=Thangathirai
+#EXTINF:-1 group-title="Tamil Astro",Astro Vinmeen
+http://000.hfr1107.top/tv/smt.php?id=Vinmeen
+
+#EXTINF:-1 group-title="Movies",Zee Action
+http://000.hfr1107.top/tv/smt.php?id=Zeeaction
+#EXTINF:-1 group-title="Movies",&Pictures
+http://000.hfr1107.top/tv/smt.php?id=Npicture
+#EXTINF:-1 group-title="Movies",Zee Cinema
+http://000.hfr1107.top/tv/smt.php?id=Zeecinemahd
+#EXTINF:-1 group-title="Movies",Bollyone
+http://000.hfr1107.top/tv/smt.php?id=Bollyone
+#EXTINF:-1 group-title="Movies",Sony Pix HD
+http://000.hfr1107.top/tv/smt.php?id=sonypix_mega
+
+#EXTINF:-1 group-title="Entertainment",Colors HD
+http://000.hfr1107.top/tv/smt.php?id=Colorhd
+#EXTINF:-1 group-title="Entertainment",Star Plus HD
+http://000.hfr1107.top/tv/smt.php?id=Starplushd
+#EXTINF:-1 group-title="Entertainment",Zee TV
+http://000.hfr1107.top/tv/smt.php?id=Zeetvhd
+
+#EXTINF:-1 group-title="Telugu",Star Maa HD
+http://000.hfr1107.top/tv/smt.php?id=starmaa_raj
+#EXTINF:-1 group-title="Telugu",Star Maa Movies HD
+http://000.hfr1107.top/tv/smt.php?id=starmaamovies_raj
+
+#EXTINF:-1 group-title="Malayalam",Asianet
+http://000.hfr1107.top/tv/smt.php?id=asianet_raj
+#EXTINF:-1 group-title="Malayalam",Asianet News
+http://000.hfr1107.top/tv/smt.php?id=asianetnews_raj
+
+#EXTINF:-1 group-title="News",Zee Business
+http://000.hfr1107.top/tv/smt.php?id=Zeebusiness
+#EXTINF:-1 group-title="News",Zee News
+http://000.hfr1107.top/tv/smt.php?id=Zeenews
+#EXTINF:-1 group-title="News",Times Now
+http://000.hfr1107.top/tv/smt.php?id=timesnow_mega
+
+#EXTINF:-1 group-title="Knowledge Tamil",BBC Earth Tamil
+http://000.hfr1107.top/tv/smt.php?id=bbcearthtam_raj
+#EXTINF:-1 group-title="Knowledge Tamil",Discovery World Tamil
+http://000.hfr1107.top/tv/smt.php?id=discoveryworldtam_raj
+#EXTINF:-1 group-title="Knowledge Tamil",History Tamil
+http://000.hfr1107.top/tv/smt.php?id=historytam_raj
+#EXTINF:-1 group-title="Knowledge Tamil",Nat Geo Wild Tamil
+http://000.hfr1107.top/tv/smt.php?id=natgeowildtamil_raj
+#EXTINF:-1 group-title="Knowledge Tamil",Discovery Kids Tamil
+http://000.hfr1107.top/tv/smt.php?id=discoverykidtamil_raj
+#EXTINF:-1 group-title="Knowledge Tamil",Discovery Tamil
+http://000.hfr1107.top/tv/smt.php?id=discoverytamil_raj
+
+#EXTINF:-1 group-title="Kids Tamil",Sony Yay Tamil
+http://000.hfr1107.top/tv/smt.php?id=sonyyaytam_raj
+
+
+
+
+
+#EXTM3U
+
+#EXTINF:-1 group-title="Knowledge",Sony BBC Earth SD Hindi
+http://14.192.144.13:8000/play/a06w
+
+#EXTINF:-1 group-title="Entertainment",Sony HD
+http://195.181.169.162:80/SONY_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="Entertainment",Sony SAB HD
+http://195.181.169.162:80/SONY_SAB_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="Movies",Sony MAX HD
+http://195.181.169.162:80/SONY_MAX_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="Sports",Sony Sports 3 HD
+http://195.181.169.162:80/TEN_3_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="Sports",Sony Sports 1 HD
+http://195.181.169.162:80/TEN_1_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="Sports",Sony Sports 2 HD
+http://195.181.169.162:80/TEN_2_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="Movies",Sony Pix HD English
+http://195.181.169.162:80/SONY_PIX_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="Knowledge",Sony BBC Earth HD English
+http://195.181.169.162:80/BBC_EARTH_HD/index.mpd?token=test
+
+
+
+
+
+#EXTM3U
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="",Star Jalsha HD
+#EXTVLCOPT:http-user-agent=NSPlayer
+https://rextv-byxfireflix.vercel.app/stream/245898/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="",Zee Bangla HD
+#EXTVLCOPT:http-user-agent=NSPlayer
+https://rextv-byxfireflix.vercel.app/stream/245893/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="",Colors Bangla
+#EXTVLCOPT:http-user-agent=NSPlayer
+https://rextv-byxfireflix.vercel.app/stream/245895/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="",Zee Bangla Cinema
+#EXTVLCOPT:http-user-agent=NSPlayer
+https://rextv-byxfireflix.vercel.app/stream/245897/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="",Jalsha Movies HD
+#EXTVLCOPT:http-user-agent=NSPlayer
+https://rextv-byxfireflix.vercel.app/stream/245900/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="",Nat GEO Bangla
+#EXTVLCOPT:http-user-agent=NSPlayer
+https://rextv-byxfireflix.vercel.app/stream/245967/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="",Sony Aath
+#EXTVLCOPT:http-user-agent=NSPlayer
+https://rextv-byxfireflix.vercel.app/stream/245989/index.m3u8
+
+
+
+
+
+
+#EXTM3U
+
+# Kids Channels
+#EXTINF:-1 group-title="Kids",Animal Planet FHD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3658.ts
+#EXTINF:-1 group-title="Kids",Cartoon Network SD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3661.ts
+#EXTINF:-1 group-title="Kids",Cartoon Network HD+
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12471.ts
+#EXTINF:-1 group-title="Kids",Discovery Kids SD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3667.ts
+#EXTINF:-1 group-title="Kids",Disney India SD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3671.ts
+#EXTINF:-1 group-title="Kids",Disney Jr. SD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3672.ts
+#EXTINF:-1 group-title="Kids",Disney HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12465.ts
+#EXTINF:-1 group-title="Kids",Sony Yay!
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12469.ts
+#EXTINF:-1 group-title="Kids",Hungama Kids SD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3678.ts
+#EXTINF:-1 group-title="Kids",Nick HD+
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3687.ts
+#EXTINF:-1 group-title="Kids",Nick Jr. SD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3688.ts
+#EXTINF:-1 group-title="Kids",Nick SD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3689.ts
+#EXTINF:-1 group-title="Kids",Pogo SD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3691.ts
+#EXTINF:-1 group-title="Kids",Sonic Nick SD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3693.ts
+
+# Documentary & Science
+#EXTINF:-1 group-title="Documentary",Colors Infinity FHD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3663.ts
+#EXTINF:-1 group-title="Documentary",Colors Rishtey SD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3664.ts
+#EXTINF:-1 group-title="Documentary",Discovery FHD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3666.ts
+#EXTINF:-1 group-title="Documentary",Discovery Science SD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3668.ts
+#EXTINF:-1 group-title="Documentary",Discovery Turbo SD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3670.ts
+#EXTINF:-1 group-title="Documentary",Investigation Discovery SD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3679.ts
+#EXTINF:-1 group-title="Documentary",History TV18 FHD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3677.ts
+#EXTINF:-1 group-title="Documentary",Nat Geo FHD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3684.ts
+#EXTINF:-1 group-title="Documentary",Nat Geo Wild HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3686.ts
+#EXTINF:-1 group-title="Documentary",Sony BBC Earth HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3694.ts
+
+# Travel & Lifestyle
+#EXTINF:-1 group-title="Travel & Lifestyle",Travel XP HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3676.ts
+#EXTINF:-1 group-title="Travel & Lifestyle",TLC HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12468.ts
+
+# Movies
+#EXTINF:-1 group-title="Movies",Star Gold 2 SD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3707.ts
+#EXTINF:-1 group-title="Movies",Star Gold FHD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3708.ts
+#EXTINF:-1 group-title="Movies",Star Gold Romance
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3709.ts
+#EXTINF:-1 group-title="Movies",Star Gold Select FHD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3710.ts
+#EXTINF:-1 group-title="Movies",Star Gold Thrills
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3711.ts
+#EXTINF:-1 group-title="Movies",Star Movies FHD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3712.ts
+#EXTINF:-1 group-title="Movies",Star Movies Select FHD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3713.ts
+#EXTINF:-1 group-title="Movies",Zee Bollywood SD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3725.ts
+#EXTINF:-1 group-title="Movies",Zee Cinema FHD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3727.ts
+#EXTINF:-1 group-title="Movies",Sony Max 2 SD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3695.ts
+#EXTINF:-1 group-title="Movies",Sony Max HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3696.ts
+#EXTINF:-1 group-title="Movies",Sony Pix HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3698.ts
+
+# General Entertainment
+#EXTINF:-1 group-title="Entertainment",Sony Pal SD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3697.ts
+#EXTINF:-1 group-title="Entertainment",Sony Sab FHD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3699.ts
+#EXTINF:-1 group-title="Entertainment",Star Bharat FHD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3706.ts
+
+# Pakistani Channels
+#EXTINF:-1 group-title="Pakistani",Ary Digital HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3746.ts
+#EXTINF:-1 group-title="Pakistani",Geo Entertainment HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3784.ts
+#EXTINF:-1 group-title="Pakistani",Hum TV HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3796.ts
+#EXTINF:-1 group-title="Pakistani",Aaj Entertainment
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3739.ts
+
+# Bangladeshi Channels
+#EXTINF:-1 group-title="Bangladeshi",Ananda TV
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12591.ts
+#EXTINF:-1 group-title="Bangladeshi",Asian TV HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12592.ts
+#EXTINF:-1 group-title="Bangladeshi",ATN Bangla HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12593.ts
+#EXTINF:-1 group-title="Bangladeshi",ATN News HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12594.ts
+#EXTINF:-1 group-title="Bangladeshi",Bangla TV HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12595.ts
+#EXTINF:-1 group-title="Bangladeshi",Bangla Vision HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12596.ts
+#EXTINF:-1 group-title="Bangladeshi",Bijoy TV HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12597.ts
+#EXTINF:-1 group-title="Bangladeshi",Boishakhi TV HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12598.ts
+#EXTINF:-1 group-title="Bangladeshi",BTV Chittagong
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12599.ts
+#EXTINF:-1 group-title="Bangladeshi",BTV National HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12600.ts
+#EXTINF:-1 group-title="Bangladeshi",BTV News HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12601.ts
+#EXTINF:-1 group-title="Bangladeshi",Channel 24 HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12602.ts
+#EXTINF:-1 group-title="Bangladeshi",Channel 9 HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12603.ts
+#EXTINF:-1 group-title="Bangladeshi",Channel i HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12604.ts
+#EXTINF:-1 group-title="Bangladeshi",Channel S
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12605.ts
+#EXTINF:-1 group-title="Bangladeshi",DBC News 24x7
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12606.ts
+#EXTINF:-1 group-title="Bangladeshi",Deepto TV HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12607.ts
+#EXTINF:-1 group-title="Bangladeshi",Desh TV
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12608.ts
+#EXTINF:-1 group-title="Bangladeshi",Duronto TV HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12609.ts
+#EXTINF:-1 group-title="Bangladeshi",Ekattor TV HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12610.ts
+#EXTINF:-1 group-title="Bangladeshi",Ekhon TV
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12611.ts
+#EXTINF:-1 group-title="Bangladeshi",Ekushey TV
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12612.ts
+#EXTINF:-1 group-title="Bangladeshi",Global TV HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12613.ts
+#EXTINF:-1 group-title="Bangladeshi",Jamuna Television
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12614.ts
+#EXTINF:-1 group-title="Bangladeshi",Maasranga HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12615.ts
+#EXTINF:-1 group-title="Bangladeshi",Madani TV
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12616.ts
+#EXTINF:-1 group-title="Bangladeshi",Mohona TV
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12617.ts
+#EXTINF:-1 group-title="Bangladeshi",My TV HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12618.ts
+#EXTINF:-1 group-title="Bangladeshi",News 24 HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12619.ts
+#EXTINF:-1 group-title="Bangladeshi",Nexus TV
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12620.ts
+#EXTINF:-1 group-title="Bangladeshi",NTV HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12621.ts
+#EXTINF:-1 group-title="Bangladeshi",RTV HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12622.ts
+#EXTINF:-1 group-title="Bangladeshi",SA TV HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12623.ts
+
+# Sports Channels - Bangladeshi & International
+#EXTINF:-1 group-title="Sports",INT | TNT SPORTS 01 HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12555.ts
+#EXTINF:-1 group-title="Sports",INT | TNT SPORTS 02 HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12556.ts
+#EXTINF:-1 group-title="Sports",INT | TNT SPORTS 03 HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12557.ts
+#EXTINF:-1 group-title="Sports",INT | SKY SPORTS CRICKET HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12558.ts
+
+# Duplicate channels with different links will be numbered:
+
+#EXTINF:-1 group-title="Sports",Ptv Sports HD 1
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12331.ts
+#EXTINF:-1 group-title="Sports",Ptv Sports HD 2
+http://nayatv.ydns.eu:80/xfireflix/flixfire/6264.ts
+
+#EXTINF:-1 group-title="Sports",A Sports HD 1
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3834.ts
+#EXTINF:-1 group-title="Sports",A Sports HD 2
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12366.ts
+
+#EXTINF:-1 group-title="Sports",Ten Sports HD 1
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12330.ts
+#EXTINF:-1 group-title="Sports",Ten Sports HD 2
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12299.ts
+
+#EXTINF:-1 group-title="Sports",OT | Ptv Sports HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12027.ts
+#EXTINF:-1 group-title="Sports",OT | A Sports HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12026.ts
+#EXTINF:-1 group-title="Sports",OT | Ten Sports HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/6445.ts
+
+#EXTINF:-1 group-title="Sports",Star Sports 1 HD (D)
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3715.ts
+#EXTINF:-1 group-title="Sports",Star Sports 1 HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12472.ts
+#EXTINF:-1 group-title="Sports",Star Sports 2 HD (D)
+http://nayatv.ydns.eu:80/xfireflix/flixfire/11677.ts
+#EXTINF:-1 group-title="Sports",Star Sports 2 Hindi HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12473.ts
+#EXTINF:-1 group-title="Sports",Star Sports 3 SD (D)
+http://nayatv.ydns.eu:80/xfireflix/flixfire/11682.ts
+#EXTINF:-1 group-title="Sports",Star Sports 1 Hindi HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3716.ts
+#EXTINF:-1 group-title="Sports",Star Sports Select 1 HD (D)
+http://nayatv.ydns.eu:80/xfireflix/flixfire/11678.ts
+#EXTINF:-1 group-title="Sports",Star Sports Select 1 HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12474.ts
+#EXTINF:-1 group-title="Sports",Star Sports Select 2 HD 1
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12475.ts
+#EXTINF:-1 group-title="Sports",Star Sports Select 2 HD 2
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3720.ts
+
+
+
+#EXTM3U
+
+# Kolkata Channels - Free Premium IPTV (Only NS Player)
+#EXTINF:-1 group-title="Kolkata",STAR JALSA HD
+https://rex-streaming.vercel.app/api/Bdx2/83733.m3u8|user-agent=@xfireflix
+#EXTINF:-1 group-title="Kolkata",STAR JALSHA 4K
+https://rex-streaming.vercel.app/api/Bdx2/83749.m3u8|user-agent=@xfireflix
+#EXTINF:-1 group-title="Kolkata",STAR JALSHA MOVIES HD
+https://rex-streaming.vercel.app/api/Bdx2/83756.m3u8|user-agent=@xfireflix
+#EXTINF:-1 group-title="Kolkata",COLORS BANGLA HD
+https://rex-streaming.vercel.app/api/Bdx2/83764.m3u8|user-agent=@xfireflix
+#EXTINF:-1 group-title="Kolkata",ZEE BANGLA HD
+https://rex-streaming.vercel.app/api/Bdx2/83766.m3u8|user-agent=@xfireflix
+#EXTINF:-1 group-title="Kolkata",ZEE BANGLA CINEMA HD
+https://rex-streaming.vercel.app/api/Bdx2/83768.m3u8|user-agent=@xfireflix
+#EXTINF:-1 group-title="Kolkata",AKAASH AATH
+https://rex-streaming.vercel.app/api/Bdx2/83770.m3u8|user-agent=@xfireflix
+#EXTINF:-1 group-title="Kolkata",SONY AATH
+https://rex-streaming.vercel.app/api/Bdx2/83772.m3u8|user-agent=@xfireflix
+
+# Bangladesh Channels - Buffer Free Streaming
+#EXTINF:-1 group-title="Bangladesh",Zee Bangla Cinema
+http://xtreme-restream.vercel.app/live/245897.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Star Jalsa HD
+http://xtreme-restream.vercel.app/live/245898.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Jalsa Movies HD
+http://xtreme-restream.vercel.app/live/245900.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Gazi TV
+http://xtreme-restream.vercel.app/live/245901.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Channel 9
+http://xtreme-restream.vercel.app/live/245902.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",NEWS 24
+http://xtreme-restream.vercel.app/live/245903.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",ATN News
+http://xtreme-restream.vercel.app/live/245905.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",SUN Bangla
+http://xtreme-restream.vercel.app/live/245906.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Asian TV
+http://xtreme-restream.vercel.app/live/245908.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",ATN Bangla
+http://xtreme-restream.vercel.app/live/245909.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Bangla TV
+http://xtreme-restream.vercel.app/live/245910.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Rtv
+http://xtreme-restream.vercel.app/live/245911.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",DBC News
+http://xtreme-restream.vercel.app/live/245914.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Ekattor TV HD
+http://xtreme-restream.vercel.app/live/245915.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Independent TV
+http://xtreme-restream.vercel.app/live/245916.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Jamuna TV
+http://xtreme-restream.vercel.app/live/245917.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Mohona TV
+http://xtreme-restream.vercel.app/live/245920.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",BTV World
+http://xtreme-restream.vercel.app/live/245922.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Boishakhi TV HD
+http://xtreme-restream.vercel.app/live/245923.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Somoy TV News
+http://xtreme-restream.vercel.app/live/245925.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Deepto TV
+http://xtreme-restream.vercel.app/live/245927.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Aakaash
+http://xtreme-restream.vercel.app/live/245928.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Ananda TV
+http://xtreme-restream.vercel.app/live/245929.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Sangsad Bangladesh
+http://xtreme-restream.vercel.app/live/245940.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Ekhon TV
+http://xtreme-restream.vercel.app/live/245943.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Movie Bangla
+http://xtreme-restream.vercel.app/live/245951.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Enter 10 Bangla
+http://xtreme-restream.vercel.app/live/245954.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Duronto TV
+http://xtreme-restream.vercel.app/live/245955.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Bangla Vision
+http://xtreme-restream.vercel.app/live/245957.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Sony Yay!
+http://xtreme-restream.vercel.app/live/245959.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",NRB TV HD
+http://xtreme-restream.vercel.app/live/245962.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",My TV
+http://xtreme-restream.vercel.app/live/245964.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",ATN Music
+http://xtreme-restream.vercel.app/live/245965.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Discovery Bangla
+http://xtreme-restream.vercel.app/live/245966.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Nat Geo Bangla
+http://xtreme-restream.vercel.app/live/245968.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Channel 24
+http://xtreme-restream.vercel.app/live/245969.m3u8|User-agent=@sultanarabi161
+
+# Some repeated channels via alternative links for convenience
+#EXTINF:-1 group-title="Bangladesh",Star Jalsha HD
+https://xtreme-restream.vercel.app/245898.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Zee Bangla HD
+https://xtreme-restream.vercel.app/245893.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Colors Bangla
+https://xtreme-restream.vercel.app/245895.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Jalsha Movie HD
+https://xtreme-restream.vercel.app/245900.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Nat GEO Bangla
+https://xtreme-restream.vercel.app/245967.m3u8|User-agent=@sultanarabi161
+#EXTINF:-1 group-title="Bangladesh",Sony Aath
+https://xtreme-restream.vercel.app/245989.m3u8|User-agent=@sultanarabi161
+
+
+#EXTM3U
+
+# Bangladesh Sports Channels - T SPORTS
+#EXTINF:-1 group-title="Bangladesh Sports",T SPORTS HD
+https://rex-streaming.vercel.app/api/Bdx2/75300.m3u8|user-agent=@xfireflix
+#EXTINF:-1 group-title="Bangladesh Sports",T Sports HD
+https://rex-streaming.vercel.app/api/Bdx2/75326.m3u8|user-agent=@xfireflix
+#EXTINF:-1 group-title="Bangladesh Sports",T SPORTS (4K)
+https://rex-streaming.vercel.app/api/Bdx2/75301.m3u8|user-agent=@xfireflix
+
+# Kolkata Channels
+#EXTINF:-1 group-title="Kolkata",STAR JALSA HD
+https://rex-streaming.vercel.app/api/Bdx2/83733.m3u8|user-agent=@xfireflix
+#EXTINF:-1 group-title="Kolkata",STAR JALSHA 4K
+https://rex-streaming.vercel.app/api/Bdx2/83749.m3u8|user-agent=@xfireflix
+#EXTINF:-1 group-title="Kolkata",STAR JALSHA MOVIES HD
+https://rex-streaming.vercel.app/api/Bdx2/83756.m3u8|user-agent=@xfireflix
+#EXTINF:-1 group-title="Kolkata",COLORS BANGLA HD
+https://rex-streaming.vercel.app/api/Bdx2/83764.m3u8|user-agent=@xfireflix
+#EXTINF:-1 group-title="Kolkata",ZEE BANGLA HD
+https://rex-streaming.vercel.app/api/Bdx2/83766.m3u8|user-agent=@xfireflix
+#EXTINF:-1 group-title="Kolkata",ZEE BANGLA CINEMA HD
+https://rex-streaming.vercel.app/api/Bdx2/83768.m3u8|user-agent=@xfireflix
+#EXTINF:-1 group-title="Kolkata",AKAASH AATH
+https://rex-streaming.vercel.app/api/Bdx2/83770.m3u8|user-agent=@xfireflix
+#EXTINF:-1 group-title="Kolkata",SONY AATH
+https://rex-streaming.vercel.app/api/Bdx2/83772.m3u8|user-agent=@xfireflix
