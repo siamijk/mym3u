@@ -956,4 +956,11 @@ https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s-v2
 https://tataplay.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8
 
 
-#EXTINF:-1 group-title="ASIA CUP",
+#EXTINF:-1 group-title="ASIA CUP", Sony Ten
+https://dai.google.com/ssai/event/noB3YwyRQVm5K-y_47MrBA/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af3c54ce1fa61c00c0085aeae9c5fd32:e5619ebdd91aade47c70381a6f57c643
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ASIA CUP", Willow
+https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/3l2na7uyyg/out/v1/2bd1be0d119c4c96895f3c5ef304d288/cenc.mpd
+
