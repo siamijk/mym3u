@@ -964,3 +964,84 @@ https://dai.google.com/ssai/event/noB3YwyRQVm5K-y_47MrBA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ASIA CUP", Willow
 https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/3l2na7uyyg/out/v1/2bd1be0d119c4c96895f3c5ef304d288/cenc.mpd
 
+
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ASIA CUP", SONY HIN
+https://dai.google.com/ssai/event/RP1mckhwQQChze2hZfnZlA/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ASIA CUP", SONY HIN FHD
+https://dai.google.com/ssai/event/6dEZMiaVRcGRWf7lwwBO7Q/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ASIA CUP", SONY ENG
+https://dai.google.com/ssai/event/pJ6I3XzMQfWtBeAnNd8e5w/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ASIA CUP", ENG FHD SONY
+https://dai.google.com/ssai/event/1jne4j1lSJeB2tX-a-2TEA/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ASIA CUP", HIN FHD SONY
+https://dai.google.com/ssai/event/1h3C6TAxRsafA9aTwWJN7A/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ASIA CUP", ASTRO
+https://dj-tm-srvr3.vercel.app/astro_cric/ASTRO_CRICKET(1080p50)@DJ-TM.mpd?|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_XL8jMOTMyJKAwsNAgPLAszTjJ0SrUoiwjPDXQO9raMcE61cDLIsYjKsoh0MqzIiTKviDD2LjZwTAyKDHMytwAA
+
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ASIA CUP", TNT 1
+https://dj-tm-srvr1.vercel.app/title/TNT_1-HD@DJ-TM.mpd?data=BcHdDoIgGADQB-rCAKl568R0KgoOzMvmDzSlXH6Fj985BUQb7HukzwYzPKJudbu-jNpNiNAjtT5h8TKHUZ6RT18s2HYYysWmzDGhBgEBDWl9K-3V-1XeOXpVMouVNDkctD060nwDX1nzRJM6OUga4Gp4_PB7JDRhmWu54AL0LGuztX8|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Vz8TM2LLAwTI4qyMlKyY3QT3I3MHXJMcgqK8vIKIjKcY60TNYusMi2LAsIc82NMCivKMtJjirPidAPiDTOcQMA
+
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ASIA CUP", TNT 2
+https://dj-tm-srvr1.vercel.app/title/TNT_2-HD@DJ-TM.mpd?data=BcFdF0IwGADgH9QNOxYu5_Sh2cZLqN0hdnyuJEf9-p4naGbUtYUDXk-5px-eii68xopgNQ61tgszRccUJdf3uDv5eHCN73IXdL5p6auyGkKrzfwV0-xFogOUE-H5DBZLl-3HO1TFveycCVbbDtz9CpJNcjM-wiT9mcUhHRMBApasiUP1TP4|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Vz8cv2D3WMqLTIMSgMLE_xyjTIDMq1TPNxt0ivKHCLiEq1NDZ0yY1KyyrMznWLjMgtKww3d7HIzQwKSC8wzgEA
+
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ASIA CUP", TNT 3
+https://dj-tm-srvr1.vercel.app/title/TNT_3-HD@DJ-TM.mpd?data=BcHNDoIgAADgB_KgziAvHRDJORsklDaP5h-pZIJOffq-71IYq0UeBpUZ4p39NizVqIfhOb9VM3XAhmsD8gxxmPLZaqNAYCjDJQb8JXq5O_RkU6Wjj3cWi3RKaDLk3R7JCAyppMtXFlD9JVvtQ7frQ-xXiqaFZixPD3TU1zs-fE4Syk1RctZO4g8|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Ur8XPODy2Miggtz9Q2CTDKLIjKLjEod9I3yHWsdHFPCTKPjCpLijJOsojIsfAozDUJiEw2SgsIzwiKytA2KAAA
+
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ASIA CUP", TNT 4
+https://dj-tm-srvr1.vercel.app/title/TNT_4-HD@DJ-TM.mpd?data=BcHdDoIgGADQB_LCZCp54YXzB6cL4rPQeWdplI2JjLTevnPiOGOICCfy00xiM433ZBi7Hu3jE-GCYF2uS4emyrOn3EkF4EC4SX_Z3-u3rFpdwsADPr_MTavG-D3o0C41tL969hKqtv2TewQiKHKpVuOG9RXsITvSgp39ZSOTZJVqKKfcigcwqZs_|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Vz8csy9bGISAsrDPfUdzQ0LIiKME2ySIpyznVydnZPCUktyEpNy03KcktxLigOcKosKzQ2DnNLTivLdaq0iAIA
+
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ASIA CUP", WILLOW HD
+https://dj-tm-srvr2.vercel.app/slingtv/dash/WILLOW_HD@DJ-TM.mpd?id=22|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/slingtv/ck/wllo.key?id=22
+
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ASIA CUP", WILLOW 2
+https://dj-tm-srvr2.vercel.app/slingtv/dash/WILLOW_2-HD@DJ-TM.mpd?id=672|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/slingtv/ck/wllo.key?id=672
+
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ASIA CUP", WILLOW SPORTS
+https://dj-tm-srvr2.vercel.app/slingtv/dash/WILLOW_SPORTS-HD@DJ-TM.mpd?id=2406|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/slingtv/ck/wllo.key?id=2406
+
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ASIA CUP", WILLOW AMAZON
+https://dj-tm-srvr1.vercel.app/title/WILLOW_SPORTS-HD@DJ-TM.mpd?data=BcHRDoIgFADQD-oh0OzmQw-wVbgcctGl-JZGark0rVZ8fedsx7f31BuwQ2JIEfLwFVF3eFhGHArz_bXKQnlWpaHLhAEg6SLxccabHA6aQTUlgPeB96ugDrNWtnHV1Lv9gl9neaFMHQuh13k2KxFPcwOmi059VsvU1wFhpJPc114qUeKtrDBvxvQP|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Vz8cssCSjLyYmwDE8xSDUsKQtIMokqcCxyd3c0LwiMiIzMjco2SQnTT8sJS3TLSbJIi0gvcXHMKQkIdPLNDQAA
+
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ASIA CUP", TEN CRICKET HD
+https://dj-tm-srvr1.vercel.app/title/TEN_CRICKET-SD@DJ-TM.mpd?data=s7XNykwJqawKDSvNz7b0drX09dHPc9Ev8QjKrKwoLkzzD8kpTHHMT_UPMypOLi0oCC_L9PV0icw193LKNEtODNHPqgiL8K3Ky3dKLPSuMApy8fYL9POvCPQvLQgGAA|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Vz8TMMzgwMK851TC-JssyNLA70zHfMjQpKdDTODiuMCEvNibSMKjQM1I_IroxyS0kzizBKLwtM8QtNdUzJSgEA
+
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ASIA CUP", TEN 1
+https://dj-tm-srvr1.vercel.app/title/SONY_SPORTS_TEN_1-HD@DJ-TM.m3u8?data=BcFRC0AwEADgn-SOGnvwoNWIuiyR26OmZe0eJH6_72uJWNIRkPGzHJtzLMghra68ta8G6RK5zhZffhJ4VDxxDFuc0b8zs-TAi86-VtZcIOaOIAp6g7D_|Telegram=@links_macha_official&Creator=@DJ-TM
+
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ASIA CUP", TEN 1 SD
+https://dj-tm-srvr1.vercel.app/title/SONY_SPORTS_TEN_1-SD@DJ-TM.m3u8?data=BcFBCoAgEADAL60IhQcPIVREmBKIu2dLBDfyEH6_Ga2tvcn3tJUVY4ZaHuWg-Zd2KeTcJ2k9QVAY5bHwepWQU8hO0OcQuSY8VaVxmE0BNi0DD7AYAfEH|Telegram=@links_macha_official&Creator=@DJ-TM
+
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ASIA CUP", TEN 3 HD
+https://dj-tm-srvr1.vercel.app/title/SONY_SPORTS_TEN_3-HINDI(HD)@DJ-TM.m3u8?data=BcFBCoAgEADAL60IhodORkqEKYG4e7ZE0qhD-P1mxtHak3xPSzEYM9RyS0-mP7Ryxieky3aCIDHyTTdzlJBTyI7R5xBbTbjLSoOYVYGm3gxNgFYM4g8|Telegram=@links_macha_official&Creator=@DJ-TM
+
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ASIA CUP", TEN 3 SD
+https://dj-tm-srvr1.vercel.app/title/SONY_SPORTS_TEN_3-HINDI(SD)@DJ-TM.m3u8?data=BcFBCoAgEADAL60IhQdPQkqIGYG4e7ZE0shD-P1mpHTuon2ktRiMGWp5hIc-XrIcuEW63SAIAiPfdDNnCTmF7Bl9HrHVhIeoNE-LKtBUz9Am0IpB_AE|Telegram=@links_macha_official&Creator=@DJ-TM
+
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ASIA CUP", TEN 5 HD
+https://dj-tm-srvr1.vercel.app/title/SONY_SPORTS_TEN_5-HD@DJ-TM.m3u8?data=BcHBCoQgEADQXxoRCg-dhIooswJx5uyuzK4TRUS_33tN49yXlicN3GPMUHg3C63s5byO36SVHpH-7iEIBqOeO-k_HHIK2Su6PaKUhJspVFetZRB7ZpAKOqsgvg|Telegram=@links_macha_official&Creator=@DJ-TM
+
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ASIA CUP", TEN 5 SD
+https://dj-tm-srvr1.vercel.app/title/SONY_SPORTS_TEN_5-SD@DJ-TM.m3u8?data=BcHBCoQgEADQX5oQWjx0WIRNgswlEGfOlkw5kUT0-73Xdc6t9H_SwBZjhsKH9vBlL_U6t1GBski7ewiCxqimXuzCIaeQfUO3R5SScNaFPu3PMIipGaSF3jQQXw|Telegram=@links_macha_official&Creator=@DJ-TM
+
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ASIA CUP", TEN 4 HD
+https://dj-tm-srvr1.vercel.app/title/SONY_SPORTS_TEN_4-TAMIL@DJ-TM.m3u8?data=BcGxCoAgEADQXzoxDAcnQaXBikC8m02RNHAIf7_3lPI-0znTVh3GAq2-MoZhTV6AcZr0-EkQJEa-2-7uGkoK5WD0HYi9Jbxko1UYXaHrUaALsJpB_AE|Telegram=@links_macha_official&Creator=@DJ-TM
+
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ASIA CUP", TEN 4 SD
+https://dj-tm-srvr1.vercel.app/title/SONY_SPORTS_TEN_5-SD@DJ-TM.m3u8?data=BcHBCoQgEADQX5oQWjx0WIRNgswlEGfOlkw5kUT0-73Xdc6t9H_SwBZjhsKH9vBlL_U6t1GBski7ewiCxqimXuzCIaeQfUO3R5SScNaFPu3PMIipGaSF3jQQXw|Telegram=@links_macha_official&Creator=@DJ-TM
+
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ASIA CUP", WILLOW ADFREE
+https://dj-tm-srvr1.vercel.app/title/WILLOW_ENG-LIVE(WILLOWTV)@DJ-TM.m3u8?data=Dc_HwnNKAADQB8pCC2JxFxIEM3xRRtvposzowtP_97zB-c9uKRxr0y_g273QozqkuEeWoNa_tmdiZsU8YDDsFPTMhgTMB2fj7pThw5z4dvyq5TWkeCVv_ivH642ivXzIK1u1AGbE13Bo0FUmrNPJbkvjd7Bd9qvbJslkLr3uzJM043jMrx3aoBwgIvWa4bI3JT1C96YKYXskEzUjfcx_z2ef-tlauS6UORia3aWjlZTZyXhOzkzXTHPblrkQ8dUNOJQc4wkRcN5uBX2w27KWfoWtCwr77tdvohzbWexymwijpJWprXTb1LmCcJiudJH2-eJ6k8I9bu4fHtCx-8kXGDyEJYNN9jP4_U9hNPWal955QYrTmsPRzGG-FC0aUHLqJkPvq6VlyyeArcXspHodvrQfavOXLd0eMUtNcnMpwGZRXNaF3ZvugQTPdFjCU_IPuWFiU9C8u897Z4OXKwksU1SPzgrkUrDYZuA7f9AFWLV8aVTS5OOty2NW1O3_v21Deg-0XR0flVebAcX9PAJSDoSCqkMk9uh3iVJCfR2NlW6RYZyW-AC8XLPGdYmsz3WlhftZ0dDufwCvk69AvenpchxQMPZAq43CTtAlv_fpT4r-l4oWtaDo6JEa3dihEwF6vW2jdlpbV1gDhslvPV2sl2XQap-QixXHttukOFA5xv8A|Origin=https://www.willow.tv&User-Agent=@DJ-TM&Telegram=@links_macha_official&Creator=@DJ-TM
+
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="ASIA CUP", WILLOW HIN ADFREE
+https://dj-tm-srvr1.vercel.app/title/WILLOW_HIN-LIVE(WILLOWTV)@DJ-TM.m3u8?data=BcHJomswAADQD7LgUtPiLYxtVZSa7ZBUaghiKP36d86_W8t65pg1cO1DqyTiEpFGd7bhVMbZI6jeY3VEXu4vKo4f4C-riGFuzSFqfnbW4tQwrQ2IPRMQyd1W2l9IV2qQMTO7LVv73zmvQhJDtIb26ZgAPh9rYcWUCboTTqrNlb2yYbbfJY-TZu4cFX4pOKy1I7_nKxyjo4sDyiUi89V-7-LVK8Td-8b1qTFx_tqTQtfLq6xYS8o4kXJM1Hp3VQMrqD7PvXWqn7_s-lX2h0-lo3uiSnxLf1z5uPqlKWWQKpvDTaiJ4WR_mVQT-Ox6MhPjwmNt2uFy-eo27rdoFrKnFyy1Nm_mJ2nAcQ-6ZikOYPSuf5pRii3XaD_kuNwYZUf3lNhZqR18jTqO2pckdEt9W_IASIEq-1Lt6SuT6N57ClwnnEPGrHJu2DLKT8ZfrUsLjJ7AC3j7sf-Boy2SAXPlG8TqU7UAHWRrTJb7vCCskmPowvRhvAA19g2xSo0EqS4_G7NhozB6pO8piiibzmi2rvOLtcvgY7EF-_phfOvcfFLevKAx1vvTmKbc0z_5nlYpaCwlvhE5Z9m6uQsvQfxy3XA5vg9c47G7KZNJJqeSShbHKmwoZnEwiIqIosz7RlawjtaWW2nr-WEI3BrV0P49Qc7lZuB5bQKPFE35fw|Origin=https://www.willow.tv&User-Agent=@DJ-TM&Telegram=@links_macha_official&Creator=@DJ-TM
+
+
